@@ -1,0 +1,49 @@
+## Workflow to auto update README.md
+## Name of the Workflow
+name: CI to update the README.md of your github profile
+## Events to trigger Action:
+on:
+  ## If you make a manual push
+  push:
+  schedule:
+    ## If it is midnight, cronjob runs once per day
+    - cron: "0 0 * * *"
+## Jobs groups a set of actions to get executed
+jobs:
+  ## Name of first job/group with its actions
+  build:
+    runs-on: ubuntu-latest
+    ## Docker container to be pulled, the following steps are executed
+    ## within running docker container and busybox shell (cause Alpine)
+    container:
+      image: simonwoodtli/readme-writer:latest
+      ## Github Secrets to be passed to the Container as env. variables
+      env:
+        ## leftside: rightside, leftside is env variable passed into container right side is
+        ## value/secret stored on github website
+        PERSONAL_GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+        PERSONAL_WAKATIME_KEY: ${{ secrets.PERSONAL_WAKATIME_KEY }}
+    ## Actual actions
+    steps:
+      ## 1. checkout mounts the content of the repo into the github
+      ## action, if you use a docker container like here it will mount it
+      ## in $GITHUB_WORKSPACE which is /__w/nameOfRepo/nameOfRepo
+      - name: Checkout Project - Mount Repo into Docker Container
+        uses: actions/checkout@v3
+      ## 1.1 Fix checkout
+      - name: Set ownership
+        run: |
+          # this is to fix GIT not liking owner of the checkout dir
+          chown -R $(id -u):$(id -g) $PWD
+      ## 2. run script
+      - name: Run Script - Update README.md
+        run: |
+          readme-writer templates/README.md.tpl README.md
+      ## 3. push update
+      - name: Git Push updated README.md
+        run: |
+          git config user.name readme-writer 🤖
+          git config user.email actions@github.com
+          git add .
+          git commit -m "📝 update auto-generated README.md"
+          git push origin main
