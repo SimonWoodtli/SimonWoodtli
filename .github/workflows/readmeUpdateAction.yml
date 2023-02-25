@@ -15,6 +15,8 @@ jobs:
     runs-on: ubuntu-latest
     ## Docker container to be pulled, the following steps are executed
     ## within running docker container and busybox shell (cause Alpine)
+    permissions:
+      contents: write
     container:
       image: simonwoodtli/readme-writer:latest
       ## Github Secrets to be passed to the Container as env. variables
