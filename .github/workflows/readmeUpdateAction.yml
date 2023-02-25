@@ -23,7 +23,6 @@ jobs:
         ## value/secret stored on github website
         PERSONAL_GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         PERSONAL_WAKATIME_KEY: ${{ secrets.PERSONAL_WAKATIME_KEY }}
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     ## Actual actions
     steps:
       ## 1. checkout mounts the content of the repo into the github
@@ -42,9 +41,18 @@ jobs:
           readme-writer templates/README.md.tpl README.md
       ## 3. push update
       - name: Git Push updated README.md
-        run: |
-          git config user.name readme-writer 🤖
-          git config user.email actions@github.com
-          git add .
-          git commit -m "📝 update auto-generated README.md"
-          git push origin main
+        uses: stefanzweifel/git-auto-commit-action@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          commit_message: 📝 update auto-generated README.md
+          branch: main
+          commit_user_name: readme-writer 🤖
+          commit_user_email: actions@github.com
+          commit_author: readme-writer 🤖 <actions@github.com>
+        #run: |
+        #  git config user.name readme-writer 🤖
+        #  git config user.email actions@github.com
+        #  git add .
+        #  git commit -m "📝 update auto-generated README.md"
+        #  git push origin main
