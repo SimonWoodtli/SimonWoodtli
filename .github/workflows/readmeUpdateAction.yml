@@ -13,10 +13,11 @@ jobs:
   ## Name of first job/group with its actions
   build:
     runs-on: ubuntu-latest
-    ## Docker container to be pulled, the following steps are executed
-    ## within running docker container and busybox shell (cause Alpine)
+    ## needed for git push
     permissions:
       contents: write
+    ## Docker container to be pulled, the following steps are executed
+    ## within running docker container and busybox shell (cause Alpine)
     container:
       image: simonwoodtli/readme-writer:latest
       ## Github Secrets to be passed to the Container as env. variables
@@ -43,18 +44,18 @@ jobs:
           readme-writer templates/README.md.tpl README.md
       ## 3. push update
       - name: Git Push updated README.md
-        uses: stefanzweifel/git-auto-commit-action@v4
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          commit_message: 📝 update auto-generated README.md
-          branch: main
-          commit_user_name: readme-writer 🤖
-          commit_user_email: actions@github.com
-          commit_author: readme-writer 🤖 <actions@github.com>
-        #run: |
-        #  git config user.name readme-writer 🤖
-        #  git config user.email actions@github.com
-        #  git add .
-        #  git commit -m "📝 update auto-generated README.md"
-        #  git push origin main
+        run: |
+          git config user.name readme-writer 🤖
+          git config user.email actions@github.com
+          git add .
+          git commit -m "📝 update auto-generated README.md"
+          git push origin main
+        #uses: stefanzweifel/git-auto-commit-action@v4
+        #env:
+        #  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        #with:
+        #  commit_message: 📝 update auto-generated README.md
+        #  branch: main
+        #  commit_user_name: readme-writer 🤖
+        #  commit_user_email: actions@github.com
+        #  commit_author: readme-writer 🤖 <actions@github.com>
