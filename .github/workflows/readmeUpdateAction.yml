@@ -50,12 +50,3 @@ jobs:
           git add .
           git commit -m "📝 update auto-generated README.md"
           git push origin main
-        #uses: stefanzweifel/git-auto-commit-action@v4
-        #env:
-        #  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        #with:
-        #  commit_message: 📝 update auto-generated README.md
-        #  branch: main
-        #  commit_user_name: readme-writer 🤖
-        #  commit_user_email: actions@github.com
-        #  commit_author: readme-writer 🤖 <actions@github.com>

@@ -45,17 +45,17 @@
   <!--wakatime-languages-start-->
   <!--wakatime-languages-end-->
 
-  <h3><b>👷 I've been working on the following projects over the last 7 days</b></h3>
+  <h4><b>👷 I've been working on the following projects over the last 7 days</b></h4>
 
   <!--wakatime-projects-start-->
   <!--wakatime-projects-end-->
 
-  <h5><b>🛠️ I've been working with the following editors over the last 7 days</b></h5>
+  <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
   <!--wakatime-editors-start-->
   <!--wakatime-editors-end-->
 
-  <p><b>💻 I've been working with the following operating systems over the last 7 days</b></p>
+  <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
   <!--wakatime-operating_systems-start-->
   <!--wakatime-operating_systems-end-->
