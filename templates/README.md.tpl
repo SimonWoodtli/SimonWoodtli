@@ -32,7 +32,7 @@
 </details>
 
 <details>
-  <summary><b>📈 WakatimeStats</b></summary>
+  <summary><b>📈 Wakatime Stats</b></summary>
   <p align="center"><a href="https://wakatime.com/@SimonWoodtli">
   <img align="center" width="400" height="300" src="https://wakatime.com/share/@SimonWoodtli/7761bcef-e104-47d9-912a-dfd6bf08868b.svg" />
   </a>
@@ -40,22 +40,22 @@
   <img align="center" width="400" height="300" src="https://wakatime.com/share/@SimonWoodtli/341953df-6a40-47b7-8220-ace4eabe0a17.svg" />
   </a></p>
 
-  <summary><b>💬 I've been working with the following languages over the last 7 days</b></summary>
+  <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
   <!--wakatime-languages-start-->
   <!--wakatime-languages-end-->
 
-  <summary><b>👷 I've been working on the following projects over the last 7 days</b></summary>
+  <h3><b>👷 I've been working on the following projects over the last 7 days</b></h3>
 
   <!--wakatime-projects-start-->
   <!--wakatime-projects-end-->
 
-  <summary><b>🛠️ I've been working with the following editors over the last 7 days</b></summary>
+  <h5><b>🛠️ I've been working with the following editors over the last 7 days</b></h5>
 
   <!--wakatime-editors-start-->
   <!--wakatime-editors-end-->
 
-  <summary><b>💻 I've been working with the following operating systems over the last 7 days</b></summary>
+  <p><b>💻 I've been working with the following operating systems over the last 7 days</b></p>
 
   <!--wakatime-operating_systems-start-->
   <!--wakatime-operating_systems-end-->
@@ -64,9 +64,11 @@
 
 <details>
   <summary><b>📈 GitHub Stats</b></summary>
-  <div align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=simonwoodtli&show_icons=true&locale=en&theme=gruvbox" align="center" width="40%"/></a>
+  <div align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img
+  src="https://github-readme-stats.vercel.app/api?username=simonwoodtli&show_icons=true&locale=en&theme=gruvbox"
+  align="center" width="40%" height="20%"/></a>
   <a href="https://github-readme-streak-stats.herokuapp.com/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=simonwoodtli&theme=gruvbox"
-  align="center" width="40%"/></a>
+  align="center" width="40%" height="20%"/></a>
   </div>
 </details>
 
@@ -77,10 +79,12 @@
   <!--github-projectsAll-end-->
 
 </details>
-<details open="">
+<details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
+
   <!--github-projectsOwn-start-->
   <!--github-projectsOwn-end-->
+
 </details>
 <details>
   <summary><b>🔨 My recent pull requests</b></summary>
@@ -89,7 +93,7 @@
   <!--github-pullRequests-end-->
 
 </details>
-<details>
+<details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
   <!--github-zet-start-->
@@ -110,7 +114,7 @@
   <!--github-languages-end-->
 
 </details>
-<details>
+<details open="">
   <summary><b>📆 My most productive week day over last year</b></summary>
 
   <!--github-productiveDay-start-->
