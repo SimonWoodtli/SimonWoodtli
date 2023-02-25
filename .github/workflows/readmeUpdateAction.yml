@@ -23,6 +23,7 @@ jobs:
         ## value/secret stored on github website
         PERSONAL_GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         PERSONAL_WAKATIME_KEY: ${{ secrets.PERSONAL_WAKATIME_KEY }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     ## Actual actions
     steps:
       ## 1. checkout mounts the content of the repo into the github
