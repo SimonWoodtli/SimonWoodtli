@@ -2,11 +2,28 @@
 
 ## 👋 &nbsp;Hey there! I’m Simon
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsimonwoodtli&count_bg=%23689D6A&title_bg=%23282828&icon=&icon_color=%23E7E7E7&title=views+%28today+%2F+total%29&edge_flat=false)](https://hits.seeyoufarm.com)
+Through freelancing, I help empower businesses in my community who lack
+an online presence and technological expertise. I'm also an open source
+enthusiast and like to contribute to projects.
 
-### 👨‍💻 About Me
+Seeking a profile page that creates content automatically?
+[readme-writer] might be just what you need!
 
-* 👯 I’m looking to collaborate on a fullstack project
+### 🤝 &nbsp;Connect with Me
+
+<div align="center">
+<a href="https://twitter.com/simonwoodtlidev" target="_blank">
+<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter" />
+</a>
+<a href="https://github.com/simonwoodtli" target="_blank">
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github" />
+</a>
+<a href="https://linkedin.com/in/simonwoodtli" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin" />
+</a>
+</div>
+<br/>
+
 
 <details>
   <summary><b>🧰 Tech Stack</b></summary>
@@ -43,37 +60,40 @@
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• sh                             5 hrs 15 mins                  █████████░░░░░░░░░░░░░░░░   35.3%
-• Markdown                       5 hrs 13 mins                  █████████░░░░░░░░░░░░░░░░   35.06%
-• Smarty                         3 hrs 17 mins                  ██████░░░░░░░░░░░░░░░░░░░   22.05%
-• Other                          48 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   5.41%
-• sshconfig                      7 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.84%
-• conf                           7 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81%
-• Perl                           4 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
-• YAML                           0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+• Markdown                       6 hrs 56 mins                  █████████░░░░░░░░░░░░░░░░   36.03%
+• sh                             5 hrs 24 mins                  ███████░░░░░░░░░░░░░░░░░░   28%
+• Smarty                         4 hrs 55 mins                  ██████░░░░░░░░░░░░░░░░░░░   25.5%
+• YAML                           1 hr 3 mins                    █░░░░░░░░░░░░░░░░░░░░░░░░   5.52%
+• Other                          38 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.35%
+• conf                           7 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.63%
+• sshconfig                      6 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52%
+• Perl                           4 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35%
+• JavaScript                     1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
+• gitignore                      0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 ```
 
-  <h4><b>👷 I've been working on the following projects over the last 7 days</b></h4>
+  <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• readme-writer                  11 hrs 56 mins                 ████████████████████░░░░░   80.17%
-• Private                        53 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   5.93%
-• SimonWoodtli                   43 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   4.9%
-• zet                            36 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   4.06%
-• dotfiles                       23 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.64%
-• Unknown Project                20 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.3%
+• readme-writer                  14 hrs                         ██████████████████░░░░░░░   72.64%
+• SimonWoodtli                   3 hrs 10 mins                  ████░░░░░░░░░░░░░░░░░░░░░   16.44%
+• Private                        41 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.62%
+• zet                            36 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.13%
+• dotfiles                       23 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.04%
+• Unknown Project                23 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.03%
+• projects                       1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            14 hrs 53 mins                 █████████████████████████   100%
+• Vim                            19 hrs 17 mins                 █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          14 hrs 53 mins                 █████████████████████████   100%
+• Linux                          19 hrs 17 mins                 █████████████████████████   100%
 ```
 
 </details>
@@ -91,7 +111,7 @@
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/readme-writer](https://github.com/SimonWoodtli/readme-writer) - 🤖 command to read from a template, fetch API data and create a README.md for your GitHub profile (1 hours ago)
+* [SimonWoodtli/readme-writer](https://github.com/SimonWoodtli/readme-writer) - 🤖 command to read from a template, fetch API data and create a README.md for your GitHub profile (14 hours ago)
 * [SimonWoodtli/test](https://github.com/SimonWoodtli/test) - 👷 test GitHub and git stuff (1 week ago)
 * [SimonWoodtli/readme-writer-old](https://github.com/SimonWoodtli/readme-writer-old) - 🤖 command to read from a template, fetch API data and create a README.md for your GitHub profile (1 month ago)
 * [SimonWoodtli/cmd-zet](https://github.com/SimonWoodtli/cmd-zet) - 👨‍💻 zet - a command line tool to manage a  Zettelkasten (notebox) repository (2 months ago)
@@ -101,7 +121,7 @@
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/readme-writer](https://github.com/SimonWoodtli/readme-writer) - 🤖 command to read from a template, fetch API data and create a README.md for your GitHub profile (1 hours ago)
+* [SimonWoodtli/readme-writer](https://github.com/SimonWoodtli/readme-writer) - 🤖 command to read from a template, fetch API data and create a README.md for your GitHub profile (14 hours ago)
 * [SimonWoodtli/test](https://github.com/SimonWoodtli/test) - 👷 test GitHub and git stuff (1 week ago)
 * [SimonWoodtli/readme-writer-old](https://github.com/SimonWoodtli/readme-writer-old) - 🤖 command to read from a template, fetch API data and create a README.md for your GitHub profile (1 month ago)
 * [SimonWoodtli/cmd-zet](https://github.com/SimonWoodtli/cmd-zet) - 👨‍💻 zet - a command line tool to manage a  Zettelkasten (notebox) repository (2 months ago)
@@ -150,41 +170,30 @@
 
 </details>
 <details open="">
-  <summary><b>📆 My most productive week day over last year</b></summary>
+  <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         105 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   11.31%
-• Tuesday                        186 commits                    █████░░░░░░░░░░░░░░░░░░░░   20.04%
-• Wednesday                      224 commits                    ██████░░░░░░░░░░░░░░░░░░░   24.14%
-• Thursday                       120 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   12.93%
-• Friday                         106 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   11.42%
-• Saturday                       95 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   10.24%
-• Sunday                         92 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   9.91%
+• Monday                         105 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   11.30%
+• Tuesday                        186 commits                    █████░░░░░░░░░░░░░░░░░░░░   20.02%
+• Wednesday                      224 commits                    ██████░░░░░░░░░░░░░░░░░░░   24.11%
+• Thursday                       120 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   12.92%
+• Friday                         106 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   11.41%
+• Saturday                       96 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   10.33%
+• Sunday                         92 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   9.90%
 ```
 
 </details>
 <details>
-  <summary><b>🔥 My most productive day time over last year</b></summary>
+  <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     288 commits                    ████████░░░░░░░░░░░░░░░░░   31.03%
-• 🌞 Daytime                     317 commits                    █████████░░░░░░░░░░░░░░░░   34.16%
+• 🌅 Morning                     288 commits                    ████████░░░░░░░░░░░░░░░░░   31.00%
+• 🌞 Daytime                     317 commits                    █████████░░░░░░░░░░░░░░░░   34.12%
 • 🌇 Evening                     36 commits                     █░░░░░░░░░░░░░░░░░░░░░░░░   3.88%
-• 🌃 Night                       287 commits                    ████████░░░░░░░░░░░░░░░░░   30.93%
+• 🌃 Night                       288 commits                    ████████░░░░░░░░░░░░░░░░░   31.00%
 ```
 
 </details>
-### 🤝 &nbsp;Connect with Me
 
-<div align="center">
-<a href="https://twitter.com/simonwoodtlidev" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter" />
-</a>
-<a href="https://github.com/simonwoodtli" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github" />
-</a>
-<a href="https://linkedin.com/in/simonwoodtli" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin" />
-</a>
-</div>
-<br/>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsimonwoodtli&count_bg=%23689D6A&title_bg=%23282828&icon=&icon_color=%23E7E7E7&title=views+%28today+%2F+total%29&edge_flat=false)](https://hits.seeyoufarm.com)
+[readme-writer]: <https://github.com/SimonWoodtli/readme-writer>
