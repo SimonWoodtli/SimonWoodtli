@@ -91,8 +91,8 @@
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/readme-writer](https://github.com/SimonWoodtli/readme-writer) - 🤖 command to read from a template, fetch API data and create a README.md for your GitHub profile (7 hours ago)
-* [SimonWoodtli/test](https://github.com/SimonWoodtli/test) - test github git stuff (1 week ago)
+* [SimonWoodtli/readme-writer](https://github.com/SimonWoodtli/readme-writer) - 🤖 command to read from a template, fetch API data and create a README.md for your GitHub profile (1 hours ago)
+* [SimonWoodtli/test](https://github.com/SimonWoodtli/test) - 👷 test GitHub and git stuff (1 week ago)
 * [SimonWoodtli/readme-writer-old](https://github.com/SimonWoodtli/readme-writer-old) - 🤖 command to read from a template, fetch API data and create a README.md for your GitHub profile (1 month ago)
 * [SimonWoodtli/cmd-zet](https://github.com/SimonWoodtli/cmd-zet) - 👨‍💻 zet - a command line tool to manage a  Zettelkasten (notebox) repository (2 months ago)
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (2 months ago)
@@ -101,8 +101,8 @@
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/readme-writer](https://github.com/SimonWoodtli/readme-writer) - 🤖 command to read from a template, fetch API data and create a README.md for your GitHub profile (7 hours ago)
-* [SimonWoodtli/test](https://github.com/SimonWoodtli/test) - test github git stuff (1 week ago)
+* [SimonWoodtli/readme-writer](https://github.com/SimonWoodtli/readme-writer) - 🤖 command to read from a template, fetch API data and create a README.md for your GitHub profile (1 hours ago)
+* [SimonWoodtli/test](https://github.com/SimonWoodtli/test) - 👷 test GitHub and git stuff (1 week ago)
 * [SimonWoodtli/readme-writer-old](https://github.com/SimonWoodtli/readme-writer-old) - 🤖 command to read from a template, fetch API data and create a README.md for your GitHub profile (1 month ago)
 * [SimonWoodtli/cmd-zet](https://github.com/SimonWoodtli/cmd-zet) - 👨‍💻 zet - a command line tool to manage a  Zettelkasten (notebox) repository (2 months ago)
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (2 months ago)
@@ -153,13 +153,13 @@
   <summary><b>📆 My most productive week day over last year</b></summary>
 
 ```
-• Monday                         105 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   11.35%
-• Tuesday                        186 commits                    █████░░░░░░░░░░░░░░░░░░░░   20.11%
-• Wednesday                      224 commits                    ██████░░░░░░░░░░░░░░░░░░░   24.22%
-• Thursday                       117 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   12.65%
-• Friday                         106 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   11.46%
-• Saturday                       95 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   10.27%
-• Sunday                         92 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   9.95%
+• Monday                         105 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   11.31%
+• Tuesday                        186 commits                    █████░░░░░░░░░░░░░░░░░░░░   20.04%
+• Wednesday                      224 commits                    ██████░░░░░░░░░░░░░░░░░░░   24.14%
+• Thursday                       120 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   12.93%
+• Friday                         106 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   11.42%
+• Saturday                       95 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   10.24%
+• Sunday                         92 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   9.91%
 ```
 
 </details>
@@ -167,10 +167,10 @@
   <summary><b>🔥 My most productive day time over last year</b></summary>
 
 ```
-• 🌅 Morning                     288 commits                    ████████░░░░░░░░░░░░░░░░░   31.14%
-• 🌞 Daytime                     314 commits                    ████████░░░░░░░░░░░░░░░░░   33.95%
-• 🌇 Evening                     36 commits                     █░░░░░░░░░░░░░░░░░░░░░░░░   3.89%
-• 🌃 Night                       287 commits                    ████████░░░░░░░░░░░░░░░░░   31.03%
+• 🌅 Morning                     288 commits                    ████████░░░░░░░░░░░░░░░░░   31.03%
+• 🌞 Daytime                     317 commits                    █████████░░░░░░░░░░░░░░░░   34.16%
+• 🌇 Evening                     36 commits                     █░░░░░░░░░░░░░░░░░░░░░░░░   3.88%
+• 🌃 Night                       287 commits                    ████████░░░░░░░░░░░░░░░░░   30.93%
 ```
 
 </details>
