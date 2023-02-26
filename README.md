@@ -11,15 +11,18 @@ Seeking a profile page that creates content automatically?
 
 ### 🤝 &nbsp;Connect with Me
 
-<div align="center">
+<div align="left">
 <a href="https://twitter.com/simonwoodtlidev" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter" />
+<img src="https://img.shields.io/badge/twitter-%2324292ej.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter" />
+</a>
+<a href="https://linkedin.com/in/simonwoodtli" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin" />
 </a>
 <a href="https://github.com/simonwoodtli" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github" />
 </a>
-<a href="https://linkedin.com/in/simonwoodtli" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin" />
+<a href="https://simonwoodtli.com" target="_blank">
+<img src="https://img.shields.io/badge/website-%231E77B5.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 </div>
 <br/>
@@ -111,7 +114,7 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/readme-writer](https://github.com/SimonWoodtli/readme-writer) - 🤖 command to read from a template, fetch API data and create a README.md for your GitHub profile (14 hours ago)
+* [SimonWoodtli/readme-writer](https://github.com/SimonWoodtli/readme-writer) - 🤖 command to read from a template, fetch API data and create a README.md for your GitHub profile (15 hours ago)
 * [SimonWoodtli/test](https://github.com/SimonWoodtli/test) - 👷 test GitHub and git stuff (1 week ago)
 * [SimonWoodtli/readme-writer-old](https://github.com/SimonWoodtli/readme-writer-old) - 🤖 command to read from a template, fetch API data and create a README.md for your GitHub profile (1 month ago)
 * [SimonWoodtli/cmd-zet](https://github.com/SimonWoodtli/cmd-zet) - 👨‍💻 zet - a command line tool to manage a  Zettelkasten (notebox) repository (2 months ago)
@@ -121,7 +124,7 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/readme-writer](https://github.com/SimonWoodtli/readme-writer) - 🤖 command to read from a template, fetch API data and create a README.md for your GitHub profile (14 hours ago)
+* [SimonWoodtli/readme-writer](https://github.com/SimonWoodtli/readme-writer) - 🤖 command to read from a template, fetch API data and create a README.md for your GitHub profile (15 hours ago)
 * [SimonWoodtli/test](https://github.com/SimonWoodtli/test) - 👷 test GitHub and git stuff (1 week ago)
 * [SimonWoodtli/readme-writer-old](https://github.com/SimonWoodtli/readme-writer-old) - 🤖 command to read from a template, fetch API data and create a README.md for your GitHub profile (1 month ago)
 * [SimonWoodtli/cmd-zet](https://github.com/SimonWoodtli/cmd-zet) - 👨‍💻 zet - a command line tool to manage a  Zettelkasten (notebox) repository (2 months ago)
@@ -151,7 +154,7 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>⭐ My recent stars</b></summary>
 
-* [wustho/epy](https://github.com/wustho/epy) - CLI Ebook (epub2, epub3, fb2, mobi) Reader (1 day ago)
+* [wustho/epy](https://github.com/wustho/epy) - CLI Ebook (epub2, epub3, fb2, mobi) Reader (2 days ago)
 * [sonnyp/Tangram](https://github.com/sonnyp/Tangram) - Browser for your pinned tabs (2 weeks ago)
 * [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community (2 weeks ago)
 * [gnif/LookingGlass](https://github.com/gnif/LookingGlass) - An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough. (2 weeks ago)
@@ -173,13 +176,13 @@ Seeking a profile page that creates content automatically?
   <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         105 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   11.30%
-• Tuesday                        186 commits                    █████░░░░░░░░░░░░░░░░░░░░   20.02%
-• Wednesday                      224 commits                    ██████░░░░░░░░░░░░░░░░░░░   24.11%
-• Thursday                       120 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   12.92%
-• Friday                         106 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   11.41%
-• Saturday                       96 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   10.33%
-• Sunday                         92 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   9.90%
+• Monday                         105 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   11.29%
+• Tuesday                        186 commits                    █████░░░░░░░░░░░░░░░░░░░░   20.00%
+• Wednesday                      224 commits                    ██████░░░░░░░░░░░░░░░░░░░   24.09%
+• Thursday                       120 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   12.90%
+• Friday                         106 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   11.40%
+• Saturday                       97 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   10.43%
+• Sunday                         92 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   9.89%
 ```
 
 </details>
@@ -187,13 +190,14 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     288 commits                    ████████░░░░░░░░░░░░░░░░░   31.00%
-• 🌞 Daytime                     317 commits                    █████████░░░░░░░░░░░░░░░░   34.12%
-• 🌇 Evening                     36 commits                     █░░░░░░░░░░░░░░░░░░░░░░░░   3.88%
-• 🌃 Night                       288 commits                    ████████░░░░░░░░░░░░░░░░░   31.00%
+• 🌅 Morning                     288 commits                    ████████░░░░░░░░░░░░░░░░░   30.97%
+• 🌞 Daytime                     317 commits                    █████████░░░░░░░░░░░░░░░░   34.09%
+• 🌇 Evening                     36 commits                     █░░░░░░░░░░░░░░░░░░░░░░░░   3.87%
+• 🌃 Night                       289 commits                    ████████░░░░░░░░░░░░░░░░░   31.08%
 ```
 
 </details>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsimonwoodtli&count_bg=%23689D6A&title_bg=%23282828&icon=&icon_color=%23E7E7E7&title=views+%28today+%2F+total%29&edge_flat=false)](https://hits.seeyoufarm.com)
+
 [readme-writer]: <https://github.com/SimonWoodtli/readme-writer>
