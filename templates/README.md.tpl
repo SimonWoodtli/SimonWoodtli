@@ -2,11 +2,28 @@
 
 ## 👋 &nbsp;Hey there! I’m Simon
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsimonwoodtli&count_bg=%23689D6A&title_bg=%23282828&icon=&icon_color=%23E7E7E7&title=views+%28today+%2F+total%29&edge_flat=false)](https://hits.seeyoufarm.com)
+Through freelancing, I help empower businesses in my community who lack
+an online presence and technological expertise. I'm also an open source
+enthusiast and like to contribute to projects.
 
-### 👨‍💻 About Me
+Seeking a profile page that creates content automatically?
+[readme-writer] might be just what you need!
 
-* 👯 I’m looking to collaborate on a fullstack project
+### 🤝 &nbsp;Connect with Me
+
+<div align="center">
+<a href="https://twitter.com/simonwoodtlidev" target="_blank">
+<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter" />
+</a>
+<a href="https://github.com/simonwoodtli" target="_blank">
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github" />
+</a>
+<a href="https://linkedin.com/in/simonwoodtli" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin" />
+</a>
+</div>
+<br/>
+
 
 <details>
   <summary><b>🧰 Tech Stack</b></summary>
@@ -45,7 +62,7 @@
   <!--wakatime-languages-start-->
   <!--wakatime-languages-end-->
 
-  <h4><b>👷 I've been working on the following projects over the last 7 days</b></h4>
+  <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
   <!--wakatime-projects-start-->
   <!--wakatime-projects-end-->
@@ -115,30 +132,19 @@
 
 </details>
 <details open="">
-  <summary><b>📆 My most productive week day over last year</b></summary>
+  <summary><b>📆 My most productive week day over the last year</b></summary>
 
   <!--github-productiveDay-start-->
   <!--github-productiveDay-end-->
 
 </details>
 <details>
-  <summary><b>🔥 My most productive day time over last year</b></summary>
+  <summary><b>🔥 My most productive day time over the last year</b></summary>
 
   <!--github-productiveTime-start-->
   <!--github-productiveTime-end-->
 
 </details>
-### 🤝 &nbsp;Connect with Me
 
-<div align="center">
-<a href="https://twitter.com/simonwoodtlidev" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter" />
-</a>
-<a href="https://github.com/simonwoodtli" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github" />
-</a>
-<a href="https://linkedin.com/in/simonwoodtli" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin" />
-</a>
-</div>
-<br/>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsimonwoodtli&count_bg=%23689D6A&title_bg=%23282828&icon=&icon_color=%23E7E7E7&title=views+%28today+%2F+total%29&edge_flat=false)](https://hits.seeyoufarm.com)
+[readme-writer]: <https://github.com/SimonWoodtli/readme-writer>
