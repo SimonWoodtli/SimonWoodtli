@@ -12,17 +12,17 @@ Seeking a profile page that creates content automatically?
 ### 🤝 &nbsp;Connect with Me
 
 <div align="left">
-<a href="https://twitter.com/simonwoodtlidev" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%2324292ej.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter" />
-</a>
 <a href="https://linkedin.com/in/simonwoodtli" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin" />
+<img src="https://img.shields.io/badge/linkedin-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin" />
 </a>
 <a href="https://github.com/simonwoodtli" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github" />
+<img src="https://img.shields.io/badge/github-24292E?style=for-the-badge&logo=github&logoColor=white alt=github" />
+</a>
+<a href="https://twitter.com/simonwoodtlidev" target="_blank">
+<img src="https://img.shields.io/badge/twitter-26a7de?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
 </a>
 <a href="https://simonwoodtli.com" target="_blank">
-<img src="https://img.shields.io/badge/website-%231E77B5.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/website-E2925F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website"/>
 </a>
 </div>
 <br/>
@@ -141,7 +141,7 @@ Seeking a profile page that creates content automatically?
   <!--github-productiveDay-end-->
 
 </details>
-<details>
+<details open="">
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
   <!--github-productiveTime-start-->
