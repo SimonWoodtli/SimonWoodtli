@@ -63,40 +63,40 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• Markdown                       5 hrs 42 mins                  ██████████░░░░░░░░░░░░░░░   41.93%
-• Smarty                         4 hrs 20 mins                  ████████░░░░░░░░░░░░░░░░░   31.82%
-• sh                             1 hr 38 mins                   ███░░░░░░░░░░░░░░░░░░░░░░   12.07%
-• YAML                           1 hr 3 mins                    ██░░░░░░░░░░░░░░░░░░░░░░░   7.81%
-• Other                          33 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   4.1%
-• conf                           7 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.89%
-• sshconfig                      6 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.74%
-• Perl                           4 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.49%
-• JavaScript                     1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
+• Markdown                       5 hrs 43 mins                  █████████████░░░░░░░░░░░░   52.82%
+• Smarty                         2 hrs 43 mins                  ██████░░░░░░░░░░░░░░░░░░░   25.22%
+• YAML                           1 hr 3 mins                    ██░░░░░░░░░░░░░░░░░░░░░░░   9.83%
+• sh                             42 mins                        ██░░░░░░░░░░░░░░░░░░░░░░░   6.55%
+• Other                          20 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.19%
+• conf                           7 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12%
+• sshconfig                      6 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.93%
+• JavaScript                     1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
+• dircolors                      1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
 • gitignore                      0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• readme-writer                  8 hrs 18 mins                  ███████████████░░░░░░░░░░   60.98%
-• SimonWoodtli                   3 hrs 35 mins                  ███████░░░░░░░░░░░░░░░░░░   26.32%
-• Private                        41 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   5.13%
-• dotfiles                       23 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.88%
-• zet                            22 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.7%
-• Unknown Project                15 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.86%
-• projects                       1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
+• readme-writer                  5 hrs 36 mins                  █████████████░░░░░░░░░░░░   51.82%
+• SimonWoodtli                   3 hrs 27 mins                  ████████░░░░░░░░░░░░░░░░░   31.94%
+• Private                        41 mins                        ██░░░░░░░░░░░░░░░░░░░░░░░   6.45%
+• dotfiles                       22 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.45%
+• zet                            22 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.4%
+• Unknown Project                18 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.78%
+• projects                       1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            13 hrs 37 mins                 █████████████████████████   100%
+• Vim                            10 hrs 49 mins                 █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          13 hrs 37 mins                 █████████████████████████   100%
+• Linux                          10 hrs 49 mins                 █████████████████████████   100%
 ```
 
 </details>
@@ -114,21 +114,21 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (0 hours ago)
-* [SimonWoodtli/readme-writer](https://github.com/SimonWoodtli/readme-writer) - 🤖 command to read from a template, fetch API data and create a README.md for your GitHub profile (4 days ago)
+* [SimonWoodtli/cmd-zet](https://github.com/SimonWoodtli/cmd-zet) - 👨‍💻 zet - a command line tool to manage a  Zettelkasten (notebox) repository (14 hours ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 day ago)
+* [SimonWoodtli/readme-writer](https://github.com/SimonWoodtli/readme-writer) - 🤖 command to read from a template, fetch API data and create a README.md for your GitHub profile (5 days ago)
 * [SimonWoodtli/test](https://github.com/SimonWoodtli/test) - 👷 test GitHub and git stuff (2 weeks ago)
-* [SimonWoodtli/readme-writer-old](https://github.com/SimonWoodtli/readme-writer-old) - 🤖 command to read from a template, fetch API data and create a README.md for your GitHub profile (1 month ago)
-* [SimonWoodtli/cmd-zet](https://github.com/SimonWoodtli/cmd-zet) - 👨‍💻 zet - a command line tool to manage a  Zettelkasten (notebox) repository (2 months ago)
+* [SimonWoodtli/readme-writer-old](https://github.com/SimonWoodtli/readme-writer-old) - 🤖 command to read from a template, fetch API data and create a README.md for your GitHub profile (2 months ago)
 
 </details>
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (0 hours ago)
-* [SimonWoodtli/readme-writer](https://github.com/SimonWoodtli/readme-writer) - 🤖 command to read from a template, fetch API data and create a README.md for your GitHub profile (4 days ago)
+* [SimonWoodtli/cmd-zet](https://github.com/SimonWoodtli/cmd-zet) - 👨‍💻 zet - a command line tool to manage a  Zettelkasten (notebox) repository (14 hours ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 day ago)
+* [SimonWoodtli/readme-writer](https://github.com/SimonWoodtli/readme-writer) - 🤖 command to read from a template, fetch API data and create a README.md for your GitHub profile (5 days ago)
 * [SimonWoodtli/test](https://github.com/SimonWoodtli/test) - 👷 test GitHub and git stuff (2 weeks ago)
-* [SimonWoodtli/readme-writer-old](https://github.com/SimonWoodtli/readme-writer-old) - 🤖 command to read from a template, fetch API data and create a README.md for your GitHub profile (1 month ago)
-* [SimonWoodtli/cmd-zet](https://github.com/SimonWoodtli/cmd-zet) - 👨‍💻 zet - a command line tool to manage a  Zettelkasten (notebox) repository (2 months ago)
+* [SimonWoodtli/readme-writer-old](https://github.com/SimonWoodtli/readme-writer-old) - 🤖 command to read from a template, fetch API data and create a README.md for your GitHub profile (2 months ago)
 
 </details>
 <details>
@@ -154,7 +154,7 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>⭐ My recent stars</b></summary>
 
-* [wustho/epy](https://github.com/wustho/epy) - CLI Ebook (epub2, epub3, fb2, mobi) Reader (5 days ago)
+* [wustho/epy](https://github.com/wustho/epy) - CLI Ebook (epub2, epub3, fb2, mobi) Reader (6 days ago)
 * [sonnyp/Tangram](https://github.com/sonnyp/Tangram) - Browser for your pinned tabs (2 weeks ago)
 * [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community (2 weeks ago)
 * [gnif/LookingGlass](https://github.com/gnif/LookingGlass) - An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough. (3 weeks ago)
@@ -176,13 +176,13 @@ Seeking a profile page that creates content automatically?
   <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         101 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   10.88%
-• Tuesday                        182 commits                    █████░░░░░░░░░░░░░░░░░░░░   19.61%
-• Wednesday                      224 commits                    ██████░░░░░░░░░░░░░░░░░░░   24.14%
-• Thursday                       121 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.04%
-• Friday                         107 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   11.53%
-• Saturday                       90 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   9.70%
-• Sunday                         103 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   11.10%
+• Monday                         101 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   12.23%
+• Tuesday                        182 commits                    ██████░░░░░░░░░░░░░░░░░░░   22.03%
+• Wednesday                      120 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.53%
+• Thursday                       121 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.65%
+• Friday                         107 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   12.95%
+• Saturday                       90 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   10.90%
+• Sunday                         105 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   12.71%
 ```
 
 </details>
@@ -190,10 +190,10 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     285 commits                    ████████░░░░░░░░░░░░░░░░░   30.71%
-• 🌞 Daytime                     321 commits                    █████████░░░░░░░░░░░░░░░░   34.59%
-• 🌇 Evening                     36 commits                     █░░░░░░░░░░░░░░░░░░░░░░░░   3.88%
-• 🌃 Night                       286 commits                    ████████░░░░░░░░░░░░░░░░░   30.82%
+• 🌅 Morning                     274 commits                    ████████░░░░░░░░░░░░░░░░░   33.17%
+• 🌞 Daytime                     275 commits                    ████████░░░░░░░░░░░░░░░░░   33.29%
+• 🌇 Evening                     0 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00%
+• 🌃 Night                       277 commits                    ████████░░░░░░░░░░░░░░░░░   33.54%
 ```
 
 </details>
