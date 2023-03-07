@@ -63,36 +63,34 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• Markdown                       5 hrs 3 mins                   ███████████████████░░░░░░   75.63%
-• Smarty                         1 hr                           ████░░░░░░░░░░░░░░░░░░░░░   15.03%
-• sh                             24 mins                        ██░░░░░░░░░░░░░░░░░░░░░░░   6.05%
-• Other                          10 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.63%
-• fstab                          1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
-• dircolors                      1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
+• Markdown                       8 hrs 8 mins                   ███████████████████████░░   92.85%
+• sh                             24 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   4.62%
+• Other                          10 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.01%
+• fstab                          1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
+• dircolors                      1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
 • Text                           0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
-• JSON                           0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+• JSON                           0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• zet                            4 hrs 58 mins                  ███████████████████░░░░░░   74.38%
-• SimonWoodtli                   1 hr                           ████░░░░░░░░░░░░░░░░░░░░░   15.03%
-• Unknown Project                31 mins                        ██░░░░░░░░░░░░░░░░░░░░░░░   7.78%
-• dotfiles                       7 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.96%
-• readme-writer                  3 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.85%
+• zet                            8 hrs 3 mins                   ███████████████████████░░   91.89%
+• Unknown Project                31 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   5.96%
+• dotfiles                       7 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.49%
+• readme-writer                  3 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.65%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            6 hrs 41 mins                  █████████████████████████   100%
+• Vim                            8 hrs 46 mins                  █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          6 hrs 41 mins                  █████████████████████████   100%
+• Linux                          8 hrs 46 mins                  █████████████████████████   100%
 ```
 
 </details>
@@ -110,21 +108,21 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/cmd-zet](https://github.com/SimonWoodtli/cmd-zet) - 👨‍💻 zet - a command line tool to manage a  Zettelkasten (notebox) repository (3 days ago)
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (4 days ago)
+* [SimonWoodtli/nixos-config](https://github.com/SimonWoodtli/nixos-config) - 🏡 My personal NixOS system configuration flake (21 hours ago)
+* [SimonWoodtli/cmd-zet](https://github.com/SimonWoodtli/cmd-zet) - 👨‍💻 zet - a command line tool to manage a  Zettelkasten (notebox) repository (4 days ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (5 days ago)
 * [SimonWoodtli/readme-writer](https://github.com/SimonWoodtli/readme-writer) - 🤖 command to read from a template, fetch API data and create a README.md for your GitHub profile (1 week ago)
 * [SimonWoodtli/test](https://github.com/SimonWoodtli/test) - 👷 test GitHub and git stuff (2 weeks ago)
-* [SimonWoodtli/readme-writer-old](https://github.com/SimonWoodtli/readme-writer-old) - 🤖 command to read from a template, fetch API data and create a README.md for your GitHub profile (2 months ago)
 
 </details>
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/cmd-zet](https://github.com/SimonWoodtli/cmd-zet) - 👨‍💻 zet - a command line tool to manage a  Zettelkasten (notebox) repository (3 days ago)
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (4 days ago)
+* [SimonWoodtli/nixos-config](https://github.com/SimonWoodtli/nixos-config) - 🏡 My personal NixOS system configuration flake (21 hours ago)
+* [SimonWoodtli/cmd-zet](https://github.com/SimonWoodtli/cmd-zet) - 👨‍💻 zet - a command line tool to manage a  Zettelkasten (notebox) repository (4 days ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (5 days ago)
 * [SimonWoodtli/readme-writer](https://github.com/SimonWoodtli/readme-writer) - 🤖 command to read from a template, fetch API data and create a README.md for your GitHub profile (1 week ago)
 * [SimonWoodtli/test](https://github.com/SimonWoodtli/test) - 👷 test GitHub and git stuff (2 weeks ago)
-* [SimonWoodtli/readme-writer-old](https://github.com/SimonWoodtli/readme-writer-old) - 🤖 command to read from a template, fetch API data and create a README.md for your GitHub profile (2 months ago)
 
 </details>
 <details>
@@ -153,18 +151,19 @@ Seeking a profile page that creates content automatically?
 * [wustho/epy](https://github.com/wustho/epy) - CLI Ebook (epub2, epub3, fb2, mobi) Reader (1 week ago)
 * [sonnyp/Tangram](https://github.com/sonnyp/Tangram) - Browser for your pinned tabs (3 weeks ago)
 * [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community (3 weeks ago)
-* [gnif/LookingGlass](https://github.com/gnif/LookingGlass) - An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough. (3 weeks ago)
-* [mps-youtube/yewtube](https://github.com/mps-youtube/yewtube) - yewtube, forked from mps-youtube , is a Terminal based YouTube player and downloader. No Youtube API key required. (3 weeks ago)
+* [gnif/LookingGlass](https://github.com/gnif/LookingGlass) - An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough. (1 month ago)
+* [mps-youtube/yewtube](https://github.com/mps-youtube/yewtube) - yewtube, forked from mps-youtube , is a Terminal based YouTube player and downloader. No Youtube API key required. (1 month ago)
 
 </details>
 <details>
   <summary><b>💬 My most used language per repos</b></summary>
 
 ```
-• Shell                          6 repos                        ██████████████░░░░░░░░░░░   54.55%
-• JavaScript                     1 repo                         ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
-• CSS                            3 repos                        ███████░░░░░░░░░░░░░░░░░░   27.27%
-• HTML                           1 repo                         ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+• Shell                          6 repos                        █████████████░░░░░░░░░░░░   50.00%
+• JavaScript                     1 repo                         ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+• CSS                            3 repos                        ██████░░░░░░░░░░░░░░░░░░░   25.00%
+• Nix                            1 repo                         ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+• HTML                           1 repo                         ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
 ```
 
 </details>
@@ -172,13 +171,13 @@ Seeking a profile page that creates content automatically?
   <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         101 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   12.47%
-• Tuesday                        182 commits                    ██████░░░░░░░░░░░░░░░░░░░   22.47%
-• Wednesday                      120 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.81%
-• Thursday                       119 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.69%
-• Friday                         97 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   11.98%
-• Saturday                       93 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   11.48%
-• Sunday                         98 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   12.10%
+• Monday                         109 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.36%
+• Tuesday                        182 commits                    ██████░░░░░░░░░░░░░░░░░░░   22.30%
+• Wednesday                      120 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.71%
+• Thursday                       119 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.58%
+• Friday                         97 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   11.89%
+• Saturday                       91 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   11.15%
+• Sunday                         98 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   12.01%
 ```
 
 </details>
