@@ -63,35 +63,37 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• Markdown                       9 hrs 26 mins                  ███████████████████████░░   92.94%
-• sh                             24 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.99%
-• Other                          10 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.74%
-• Text                           5 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.95%
-• fstab                          1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
-• dircolors                      1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
+• Markdown                       11 hrs 41 mins                 ████████████████████░░░░░   81.52%
+• sh                             2 hrs 7 mins                   ████░░░░░░░░░░░░░░░░░░░░░   14.82%
+• Other                          11 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.37%
+• Smarty                         11 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.35%
+• Text                           5 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68%
+• fstab                          1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
+• dircolors                      1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
 • JSON                           0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• zet                            9 hrs 13 mins                  ███████████████████████░░   90.75%
-• Unknown Project                31 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   5.15%
-• nixos-config                   13 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.25%
-• dotfiles                       7 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.29%
-• readme-writer                  3 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.56%
+• zet                            11 hrs 18 mins                 ████████████████████░░░░░   78.87%
+• cmd-zet                        1 hr 31 mins                   ███░░░░░░░░░░░░░░░░░░░░░░   10.67%
+• readme-writer                  37 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   4.3%
+• Unknown Project                31 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.65%
+• nixos-config                   13 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.6%
+• dotfiles                       7 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.91%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            10 hrs 9 mins                  █████████████████████████   100%
+• Vim                            14 hrs 20 mins                 █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          10 hrs 9 mins                  █████████████████████████   100%
+• Linux                          14 hrs 20 mins                 █████████████████████████   100%
 ```
 
 </details>
@@ -109,21 +111,21 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/readme-writer](https://github.com/SimonWoodtli/readme-writer) - 🤖 command to read from a template, fetch API data and create a README.md for your GitHub profile (7 hours ago)
-* [SimonWoodtli/nixos-config](https://github.com/SimonWoodtli/nixos-config) - 🏡 My personal NixOS system configuration flake (1 day ago)
-* [SimonWoodtli/cmd-zet](https://github.com/SimonWoodtli/cmd-zet) - 👨‍💻 zet - a command line tool to manage a  Zettelkasten (notebox) repository (5 days ago)
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (6 days ago)
-* [SimonWoodtli/test](https://github.com/SimonWoodtli/test) - 👷 test GitHub and git stuff (2 weeks ago)
+* [SimonWoodtli/readme-writer](https://github.com/SimonWoodtli/readme-writer) - 🤖 command to read from a template, fetch API data and create a README.md for your GitHub profile (0 hours ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (10 hours ago)
+* [SimonWoodtli/cmd-zet](https://github.com/SimonWoodtli/cmd-zet) - 👨‍💻 zet - a command line tool to manage a  Zettelkasten (notebox) repository (11 hours ago)
+* [SimonWoodtli/nixos-config](https://github.com/SimonWoodtli/nixos-config) - 🏡 My personal NixOS system configuration flake (2 days ago)
+* [SimonWoodtli/test](https://github.com/SimonWoodtli/test) - 👷 test GitHub and git stuff (3 weeks ago)
 
 </details>
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/readme-writer](https://github.com/SimonWoodtli/readme-writer) - 🤖 command to read from a template, fetch API data and create a README.md for your GitHub profile (7 hours ago)
-* [SimonWoodtli/nixos-config](https://github.com/SimonWoodtli/nixos-config) - 🏡 My personal NixOS system configuration flake (1 day ago)
-* [SimonWoodtli/cmd-zet](https://github.com/SimonWoodtli/cmd-zet) - 👨‍💻 zet - a command line tool to manage a  Zettelkasten (notebox) repository (5 days ago)
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (6 days ago)
-* [SimonWoodtli/test](https://github.com/SimonWoodtli/test) - 👷 test GitHub and git stuff (2 weeks ago)
+* [SimonWoodtli/readme-writer](https://github.com/SimonWoodtli/readme-writer) - 🤖 command to read from a template, fetch API data and create a README.md for your GitHub profile (0 hours ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (10 hours ago)
+* [SimonWoodtli/cmd-zet](https://github.com/SimonWoodtli/cmd-zet) - 👨‍💻 zet - a command line tool to manage a  Zettelkasten (notebox) repository (11 hours ago)
+* [SimonWoodtli/nixos-config](https://github.com/SimonWoodtli/nixos-config) - 🏡 My personal NixOS system configuration flake (2 days ago)
+* [SimonWoodtli/test](https://github.com/SimonWoodtli/test) - 👷 test GitHub and git stuff (3 weeks ago)
 
 </details>
 <details>
@@ -132,18 +134,18 @@ Seeking a profile page that creates content automatically?
 * [feat: add wireguard-generate-keys script](https://github.com/SimonWoodtli/dotfiles/pull/14) on [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) (5 months ago)
 * [feat: add video-to-gif script](https://github.com/SimonWoodtli/dotfiles/pull/13) on [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) (5 months ago)
 * [feat: add spoof-mac-linux script](https://github.com/SimonWoodtli/dotfiles/pull/12) on [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) (5 months ago)
-* [feat: add sp-tmux script](https://github.com/SimonWoodtli/dotfiles/pull/11) on [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) (5 months ago)
+* [feat: add sp-tmux script](https://github.com/SimonWoodtli/dotfiles/pull/11) on [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) (6 months ago)
 * [feat: add sp script](https://github.com/SimonWoodtli/dotfiles/pull/10) on [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) (6 months ago)
 
 </details>
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/9cf3673d707baccfcaaee7f43bbce8f3c7609d63/20230128231131) - Bash Arithmetics with Floats Caveats (1 month ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/a2f1f0ae084a0ecd7b99b7bab900328ef903bd6e/20230119010353) - Using flags or options for a script in Bash (1 month ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/46011f0d5f3000e70ed25df226896163272cb8b8/20230117144015) - Split variable/string into array in Bash (1 month ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/b693c1904301dfd1756a9bb8cb65385e0e853ab3/20230117143605) - Test if variable is an array in Bash (1 month ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/88dbaafe08b99881132f6c704345b742b307ae8c/20230116233517) - Difference between `<`, `<<` and `<<<` operators in Bash (2 months ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/7e661294042334003f50654468726cdeb20c72a2/20230304205635) - NixOS cheatsheet (19 hours ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/d16c4dc1016f1f52114e6d0b05ad561ab66a715f/20230303072940) - NixOS install with LUKS encryption and multiple partitions/disks (20 hours ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/fc744c2fc72702ca12de02a193488925df91f282/20230117144015) - Bash: Split variable|string into array (11 hours ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/4cac15d77709e50a8dd4dfb94a663f78c9931459/20230307182811) - Fedora Silverblue cheatsheet (1 day ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/05381f805f37270157c2a180aa962a1df6dac618/20230306230424) - Install and Setup Fedora Silverblue (2 days ago)
 
 </details>
 <details>
@@ -172,13 +174,13 @@ Seeking a profile page that creates content automatically?
   <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         110 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.41%
-• Tuesday                        184 commits                    ██████░░░░░░░░░░░░░░░░░░░   22.44%
-• Wednesday                      121 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.76%
-• Thursday                       119 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.51%
-• Friday                         97 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   11.83%
-• Saturday                       91 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   11.10%
-• Sunday                         98 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   11.95%
+• Monday                         110 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.35%
+• Tuesday                        185 commits                    ██████░░░░░░░░░░░░░░░░░░░   22.45%
+• Wednesday                      123 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.93%
+• Thursday                       119 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.44%
+• Friday                         97 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   11.77%
+• Saturday                       91 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   11.04%
+• Sunday                         99 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   12.01%
 ```
 
 </details>
@@ -186,7 +188,10 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• No Data found                                                   
+• 🌅 Morning                     287 commits                    █████████░░░░░░░░░░░░░░░░   34.83%
+• 🌞 Daytime                     261 commits                    ████████░░░░░░░░░░░░░░░░░   31.67%
+• 🌇 Evening                     3 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36%
+• 🌃 Night                       273 commits                    ████████░░░░░░░░░░░░░░░░░   33.13%
 ```
 
 </details>
