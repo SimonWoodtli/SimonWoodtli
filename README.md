@@ -63,44 +63,51 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• Cheetah                        15 hrs 21 mins                 ███████████░░░░░░░░░░░░░░   45.36%
-• Markdown                       8 hrs 30 mins                  ██████░░░░░░░░░░░░░░░░░░░   25.11%
-• Bash                           3 hrs 9 mins                   ██░░░░░░░░░░░░░░░░░░░░░░░   9.35%
-• YAML                           2 hrs 16 mins                  ██░░░░░░░░░░░░░░░░░░░░░░░   6.71%
-• sh                             1 hr 43 mins                   █░░░░░░░░░░░░░░░░░░░░░░░░   5.11%
-• Other                          1 hr 23 mins                   █░░░░░░░░░░░░░░░░░░░░░░░░   4.11%
-• calendar                       21 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.06%
-• gitconfig                      20 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.99%
-• Vim Script                     17 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88%
-• Perl                           14 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.69%
-• TOML                           8 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43%
-• conf                           3 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
-• Text                           0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+• Cheetah                        17 hrs 45 mins                 ████████████░░░░░░░░░░░░░   48.8%
+• Markdown                       6 hrs 49 mins                  █████░░░░░░░░░░░░░░░░░░░░   18.74%
+• Bash                           4 hrs 19 mins                  ███░░░░░░░░░░░░░░░░░░░░░░   11.88%
+• sh                             2 hrs 14 mins                  ██░░░░░░░░░░░░░░░░░░░░░░░   6.15%
+• YAML                           1 hr 35 mins                   █░░░░░░░░░░░░░░░░░░░░░░░░   4.36%
+• Other                          55 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.54%
+• gitconfig                      32 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.51%
+• Vim Script                     22 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.05%
+• calendar                       21 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.99%
+• conf                           17 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8%
+• Perl                           14 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.64%
+• Nix                            12 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58%
+• tmux                           11 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55%
+• dosini                         8 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4%
+• TOML                           8 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4%
+• Python                         4 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
+• sshconfig                      4 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
+• log                            2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
+• Text                           1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• chezmoi                        15 hrs 6 mins                  ███████████░░░░░░░░░░░░░░   44.6%
-• zet                            6 hrs 36 mins                  █████░░░░░░░░░░░░░░░░░░░░   19.53%
-• Unknown Project                3 hrs 59 mins                  ███░░░░░░░░░░░░░░░░░░░░░░   11.77%
-• dotfiles                       3 hrs 48 mins                  ███░░░░░░░░░░░░░░░░░░░░░░   11.25%
-• Private                        1 hr 35 mins                   █░░░░░░░░░░░░░░░░░░░░░░░░   4.7%
-• silverblue-os                  1 hr 14 mins                   █░░░░░░░░░░░░░░░░░░░░░░░░   3.68%
-• workspace                      45 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.26%
-• dotfiles-old                   44 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.2%
+• chezmoi                        15 hrs 6 mins                  ██████████░░░░░░░░░░░░░░░   41.5%
+• dotfiles                       7 hrs 46 mins                  █████░░░░░░░░░░░░░░░░░░░░   21.35%
+• Unknown Project                4 hrs 47 mins                  ███░░░░░░░░░░░░░░░░░░░░░░   13.19%
+• zet                            4 hrs 35 mins                  ███░░░░░░░░░░░░░░░░░░░░░░   12.64%
+• Private                        1 hr 55 mins                   █░░░░░░░░░░░░░░░░░░░░░░░░   5.29%
+• dotfiles-old                   57 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.62%
+• workspace                      45 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.11%
+• nixos-config                   15 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7%
+• silverblue-os                  13 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.61%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            33 hrs 51 mins                 █████████████████████████   100%
+• Vim                            36 hrs 23 mins                 █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          33 hrs 51 mins                 █████████████████████████   100%
+• Linux                          36 hrs 23 mins                 █████████████████████████   100%
 ```
 
 </details>
@@ -118,21 +125,21 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 hours ago)
-* [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) - 🏡 My personal dotfiles (2 days ago)
-* [SimonWoodtli/chezmoi](https://github.com/SimonWoodtli/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (4 days ago)
-* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (6 days ago)
-* [SimonWoodtli/workspace](https://github.com/SimonWoodtli/workspace) - 🤖🐳 My personal workspace image (6 days ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (7 hours ago)
+* [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) - 🏡 My personal dotfiles (9 hours ago)
+* [SimonWoodtli/projects](https://github.com/SimonWoodtli/projects) - 🌳 My learning environment | lab (11 hours ago)
+* [SimonWoodtli/nixos-config](https://github.com/SimonWoodtli/nixos-config) - 🏡 My personal NixOS system configuration flake (22 hours ago)
+* [SimonWoodtli/chezmoi](https://github.com/SimonWoodtli/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (5 days ago)
 
 </details>
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 hours ago)
-* [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) - 🏡 My personal dotfiles (2 days ago)
-* [SimonWoodtli/chezmoi](https://github.com/SimonWoodtli/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (4 days ago)
-* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (6 days ago)
-* [SimonWoodtli/workspace](https://github.com/SimonWoodtli/workspace) - 🤖🐳 My personal workspace image (6 days ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (7 hours ago)
+* [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) - 🏡 My personal dotfiles (9 hours ago)
+* [SimonWoodtli/projects](https://github.com/SimonWoodtli/projects) - 🌳 My learning environment | lab (11 hours ago)
+* [SimonWoodtli/nixos-config](https://github.com/SimonWoodtli/nixos-config) - 🏡 My personal NixOS system configuration flake (22 hours ago)
+* [SimonWoodtli/chezmoi](https://github.com/SimonWoodtli/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (5 days ago)
 
 </details>
 <details>
@@ -148,21 +155,21 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/322a3fb47e64015a1a697c6d21b3cdecf50d3f05/20230315195114) - age - cheatsheet (1 day ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/0ec4f91235d41f624f80b323fff7cd40397c597f/20230315153248) - `when` calendar cli - cheatsheet (1 day ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/010b4685fc8ab4d656f91decb0e76e5f01ff6cfb/20230309195404) - Silverblue install KVM/Qemu with virt-manager (6 days ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/838e837b1d7741f388c1928cbcd8d8a635fd3a17/20230309230811) - Install nix package manager inside container (7 days ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/67a4363f35268f0258c9e57594e64ecfe876df2c/20230309135207) - Distrobox cheatsheet (7 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/922c07ce713a428d56ac4af1b8c8572533e26066/20230317140539) - Install and Setup `mutt` (10 hours ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/322a3fb47e64015a1a697c6d21b3cdecf50d3f05/20230315195114) - age - cheatsheet (2 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/0ec4f91235d41f624f80b323fff7cd40397c597f/20230315153248) - `when` calendar cli - cheatsheet (2 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/010b4685fc8ab4d656f91decb0e76e5f01ff6cfb/20230309195404) - Silverblue install KVM/Qemu with virt-manager (7 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/838e837b1d7741f388c1928cbcd8d8a635fd3a17/20230309230811) - Install nix package manager inside container (1 week ago)
 
 </details>
 <details>
   <summary><b>⭐ My recent stars</b></summary>
 
-* [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (5 days ago)
-* [ublue-os/main](https://github.com/ublue-os/main) - An OCI base image of Fedora with batteries included (6 days ago)
-* [ublue-os/boxkit](https://github.com/ublue-os/boxkit) - A blingier starting image for Toolbx and Distrobox. (6 days ago)
-* [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (6 days ago)
-* [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox (6 days ago)
+* [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (6 days ago)
+* [ublue-os/main](https://github.com/ublue-os/main) - An OCI base image of Fedora with batteries included (7 days ago)
+* [ublue-os/boxkit](https://github.com/ublue-os/boxkit) - A blingier starting image for Toolbx and Distrobox. (7 days ago)
+* [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (7 days ago)
+* [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox (7 days ago)
 
 </details>
 <details>
@@ -181,13 +188,13 @@ Seeking a profile page that creates content automatically?
   <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         111 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   12.53%
-• Tuesday                        192 commits                    █████░░░░░░░░░░░░░░░░░░░░   21.67%
-• Wednesday                      137 commits                    ████░░░░░░░░░░░░░░░░░░░░░   15.46%
-• Thursday                       117 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.21%
-• Friday                         101 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   11.40%
-• Saturday                       91 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   10.27%
-• Sunday                         137 commits                    ████░░░░░░░░░░░░░░░░░░░░░   15.46%
+• Monday                         111 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   12.22%
+• Tuesday                        192 commits                    █████░░░░░░░░░░░░░░░░░░░░   21.15%
+• Wednesday                      137 commits                    ████░░░░░░░░░░░░░░░░░░░░░   15.09%
+• Thursday                       117 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   12.89%
+• Friday                         123 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.55%
+• Saturday                       91 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   10.02%
+• Sunday                         137 commits                    ████░░░░░░░░░░░░░░░░░░░░░   15.09%
 ```
 
 </details>
@@ -195,10 +202,10 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     306 commits                    █████████░░░░░░░░░░░░░░░░   34.54%
-• 🌞 Daytime                     276 commits                    ████████░░░░░░░░░░░░░░░░░   31.15%
-• 🌇 Evening                     3 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34%
-• 🌃 Night                       301 commits                    ████████░░░░░░░░░░░░░░░░░   33.97%
+• 🌅 Morning                     306 commits                    ████████░░░░░░░░░░░░░░░░░   33.70%
+• 🌞 Daytime                     278 commits                    ████████░░░░░░░░░░░░░░░░░   30.62%
+• 🌇 Evening                     3 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
+• 🌃 Night                       321 commits                    █████████░░░░░░░░░░░░░░░░   35.35%
 ```
 
 </details>
