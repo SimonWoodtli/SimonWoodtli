@@ -63,39 +63,42 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• sh                             10 hrs 18 mins                 █████████████████████░░░░   82.16%
-• YAML                           47 mins                        ██░░░░░░░░░░░░░░░░░░░░░░░   6.32%
-• Other                          38 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   5.05%
-• Markdown                       26 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.54%
-• Perl                           10 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.38%
-• Bash                           8 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.07%
-• tmux                           2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38%
-• conf                           0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
+• sh                             10 hrs 49 mins                 ███████████████████░░░░░░   77.51%
+• Other                          1 hr 12 mins                   ██░░░░░░░░░░░░░░░░░░░░░░░   8.64%
+• YAML                           47 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   5.68%
+• mail                           18 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.25%
+• Markdown                       15 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.79%
+• Perl                           10 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.24%
+• neomuttrc                      9 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.13%
+• Bash                           9 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.1%
+• tmux                           2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34%
+• conf                           2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26%
 • Boo                            0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+• muttrc                         0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• dotfiles                       10 hrs 14 mins                 ████████████████████░░░░░   81.7%
-• foo                            1 hr 5 mins                    ██░░░░░░░░░░░░░░░░░░░░░░░   8.71%
-• Unknown Project                39 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   5.31%
-• zet                            13 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.79%
-• dotfiles-old                   8 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.07%
-• cmd-zet                        6 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.91%
-• Private                        3 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51%
+• dotfiles                       10 hrs 28 mins                 ███████████████████░░░░░░   75.04%
+• Unknown Project                1 hr 34 mins                   ███░░░░░░░░░░░░░░░░░░░░░░   11.29%
+• foo                            1 hr 5 mins                    ██░░░░░░░░░░░░░░░░░░░░░░░   7.82%
+• Private                        31 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.8%
+• cmd-zet                        8 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.06%
+• dotfiles-old                   8 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.96%
+• zet                            0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            12 hrs 32 mins                 █████████████████████████   100%
+• Vim                            13 hrs 57 mins                 █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          12 hrs 32 mins                 █████████████████████████   100%
+• Linux                          13 hrs 57 mins                 █████████████████████████   100%
 ```
 
 </details>
@@ -113,21 +116,21 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (22 hours ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 day ago)
 * [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) - 🏡 My personal dotfiles (1 week ago)
 * [SimonWoodtli/projects](https://github.com/SimonWoodtli/projects) - 🌳 My learning environment | lab (1 week ago)
 * [SimonWoodtli/nixos-config](https://github.com/SimonWoodtli/nixos-config) - 🏡 My personal NixOS system configuration flake (1 week ago)
-* [SimonWoodtli/chezmoi](https://github.com/SimonWoodtli/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (1 week ago)
+* [SimonWoodtli/chezmoi](https://github.com/SimonWoodtli/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (2 weeks ago)
 
 </details>
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (22 hours ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 day ago)
 * [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) - 🏡 My personal dotfiles (1 week ago)
 * [SimonWoodtli/projects](https://github.com/SimonWoodtli/projects) - 🌳 My learning environment | lab (1 week ago)
 * [SimonWoodtli/nixos-config](https://github.com/SimonWoodtli/nixos-config) - 🏡 My personal NixOS system configuration flake (1 week ago)
-* [SimonWoodtli/chezmoi](https://github.com/SimonWoodtli/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (1 week ago)
+* [SimonWoodtli/chezmoi](https://github.com/SimonWoodtli/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (2 weeks ago)
 
 </details>
 <details>
