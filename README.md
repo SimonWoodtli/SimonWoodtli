@@ -63,47 +63,47 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• sh                             5 hrs 1 min                    ███████████░░░░░░░░░░░░░░   44.17%
-• Cheetah                        2 hrs 52 mins                  ██████░░░░░░░░░░░░░░░░░░░   25.2%
-• Markdown                       1 hr 12 mins                   ███░░░░░░░░░░░░░░░░░░░░░░   10.61%
-• Other                          50 mins                        ██░░░░░░░░░░░░░░░░░░░░░░░   7.36%
-• gitconfig                      23 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.48%
-• Bash                           21 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.08%
-• YAML                           18 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.71%
-• Python                         11 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.74%
-• Go                             5 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.85%
-• JSON                           2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
-• gitignore                      1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
-• zip                            0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
-• HTML                           0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
-• conf                           0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+• sh                             5 hrs 20 mins                  █████████░░░░░░░░░░░░░░░░   37.42%
+• Other                          4 hrs 24 mins                  ████████░░░░░░░░░░░░░░░░░   30.93%
+• Markdown                       1 hr 41 mins                   ███░░░░░░░░░░░░░░░░░░░░░░   11.86%
+• Cheetah                        49 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   5.75%
+• conf                           47 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   5.58%
+• gitconfig                      21 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.47%
+• Bash                           21 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.46%
+• Vim Script                     11 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.4%
+• Python                         11 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.39%
+• JSON                           2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27%
+• YAML                           1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
+• gitignore                      1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
+• zip                            0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
+• HTML                           0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• dotfiles                       4 hrs 46 mins                  ██████████░░░░░░░░░░░░░░░   41.97%
-• Unknown Project                4 hrs 32 mins                  ██████████░░░░░░░░░░░░░░░   39.83%
-• zet                            52 mins                        ██░░░░░░░░░░░░░░░░░░░░░░░   7.62%
-• Private                        33 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   4.87%
-• cmd-zet                        33 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   4.84%
-• projects                       2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34%
-• readme-writer                  1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28%
-• foo                            0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
-• cookiecutter-pypackage         0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
-• dotfiles-old                   0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+• Private                        4 hrs 46 mins                  ████████░░░░░░░░░░░░░░░░░   33.52%
+• Unknown Project                4 hrs 5 mins                   ███████░░░░░░░░░░░░░░░░░░   28.66%
+• dotfiles                       3 hrs 23 mins                  ██████░░░░░░░░░░░░░░░░░░░   23.79%
+• zet                            1 hr 21 mins                   ██░░░░░░░░░░░░░░░░░░░░░░░   9.47%
+• cmd-zet                        33 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.87%
+• projects                       2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28%
+• readme-writer                  1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
+• foo                            0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
+• cookiecutter-pypackage         0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
+• dotfiles-old                   0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            11 hrs 23 mins                 █████████████████████████   100%
+• Vim                            14 hrs 15 mins                 █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          11 hrs 23 mins                 █████████████████████████   100%
+• Linux                          14 hrs 15 mins                 █████████████████████████   100%
 ```
 
 </details>
@@ -121,8 +121,8 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (11 hours ago)
-* [SimonWoodtli/cmd-zet](https://github.com/SimonWoodtli/cmd-zet) - 👨‍💻 zet - a command line tool to manage a  Zettelkasten (notebox) repository (6 days ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 day ago)
+* [SimonWoodtli/cmd-zet](https://github.com/SimonWoodtli/cmd-zet) - 👨‍💻 zet - a command line tool to manage a  Zettelkasten (notebox) repository (7 days ago)
 * [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) - 🏡 My personal dotfiles (2 weeks ago)
 * [SimonWoodtli/projects](https://github.com/SimonWoodtli/projects) - 🌳 My learning environment | lab (2 weeks ago)
 * [SimonWoodtli/nixos-config](https://github.com/SimonWoodtli/nixos-config) - 🏡 My personal NixOS system configuration flake (2 weeks ago)
@@ -131,8 +131,8 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (11 hours ago)
-* [SimonWoodtli/cmd-zet](https://github.com/SimonWoodtli/cmd-zet) - 👨‍💻 zet - a command line tool to manage a  Zettelkasten (notebox) repository (6 days ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 day ago)
+* [SimonWoodtli/cmd-zet](https://github.com/SimonWoodtli/cmd-zet) - 👨‍💻 zet - a command line tool to manage a  Zettelkasten (notebox) repository (7 days ago)
 * [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) - 🏡 My personal dotfiles (2 weeks ago)
 * [SimonWoodtli/projects](https://github.com/SimonWoodtli/projects) - 🌳 My learning environment | lab (2 weeks ago)
 * [SimonWoodtli/nixos-config](https://github.com/SimonWoodtli/nixos-config) - 🏡 My personal NixOS system configuration flake (2 weeks ago)
@@ -145,23 +145,23 @@ Seeking a profile page that creates content automatically?
 * [feat: add video-to-gif script](https://github.com/SimonWoodtli/dotfiles-old/pull/13) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (6 months ago)
 * [feat: add spoof-mac-linux script](https://github.com/SimonWoodtli/dotfiles-old/pull/12) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (6 months ago)
 * [feat: add sp-tmux script](https://github.com/SimonWoodtli/dotfiles-old/pull/11) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (6 months ago)
-* [feat: add sp script](https://github.com/SimonWoodtli/dotfiles-old/pull/10) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (6 months ago)
+* [feat: add sp script](https://github.com/SimonWoodtli/dotfiles-old/pull/10) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (7 months ago)
 
 </details>
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/ac39e3c3413746ceaca835b27435b1307b8ece5a/20230405141750) - calcurse - cheatsheet (9 hours ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/048ec158f111c6e045c75a30f62ef4ab1aee72f4/20230402010650) - Termux Setup (3 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/ac39e3c3413746ceaca835b27435b1307b8ece5a/20230405141750) - calcurse - cheatsheet (1 day ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/048ec158f111c6e045c75a30f62ef4ab1aee72f4/20230402010650) - Termux Setup (4 days ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/922c07ce713a428d56ac4af1b8c8572533e26066/20230317140539) - Install and Setup `mutt` (2 weeks ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/322a3fb47e64015a1a697c6d21b3cdecf50d3f05/20230315195114) - age - cheatsheet (2 weeks ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/0ec4f91235d41f624f80b323fff7cd40397c597f/20230315153248) - `when` calendar cli - cheatsheet (2 weeks ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/322a3fb47e64015a1a697c6d21b3cdecf50d3f05/20230315195114) - age - cheatsheet (3 weeks ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/0ec4f91235d41f624f80b323fff7cd40397c597f/20230315153248) - `when` calendar cli - cheatsheet (3 weeks ago)
 
 </details>
 <details>
   <summary><b>⭐ My recent stars</b></summary>
 
-* [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4" (4 days ago)
+* [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4" (5 days ago)
 * [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets (2 weeks ago)
 * [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (3 weeks ago)
 * [ublue-os/main](https://github.com/ublue-os/main) - An OCI base image of Fedora with batteries included (3 weeks ago)
