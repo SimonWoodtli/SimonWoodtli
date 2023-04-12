@@ -63,36 +63,37 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• conf                           9 hrs 37 mins                  ████████████░░░░░░░░░░░░░   49.32%
-• sh                             4 hrs 29 mins                  ██████░░░░░░░░░░░░░░░░░░░   23.06%
-• Other                          3 hrs 54 mins                  █████░░░░░░░░░░░░░░░░░░░░   20.07%
-• Markdown                       51 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   4.42%
-• Vim Script                     31 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.68%
-• Cheetah                        3 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27%
-• Bash                           2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
+• conf                           11 hrs 14 mins                 ████████████░░░░░░░░░░░░░   48.22%
+• sh                             5 hrs 42 mins                  ██████░░░░░░░░░░░░░░░░░░░   24.44%
+• Other                          4 hrs 8 mins                   ████░░░░░░░░░░░░░░░░░░░░░   17.74%
+• Markdown                       1 hr 18 mins                   █░░░░░░░░░░░░░░░░░░░░░░░░   5.63%
+• Vim Script                     31 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.24%
+• tmux                           18 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.34%
+• Cheetah                        3 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
+• Bash                           2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• Private                        13 hrs 24 mins                 █████████████████░░░░░░░░   68.74%
-• Unknown Project                2 hrs 57 mins                  ████░░░░░░░░░░░░░░░░░░░░░   15.14%
-• dotfiles                       2 hrs 9 mins                   ███░░░░░░░░░░░░░░░░░░░░░░   11.1%
-• zet                            51 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   4.42%
-• dotfiles-old                   5 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.47%
-• readme-writer                  1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
+• Private                        14 hrs 27 mins                 ███████████████░░░░░░░░░░   61.98%
+• dotfiles                       3 hrs 45 mins                  ████░░░░░░░░░░░░░░░░░░░░░   16.1%
+• Unknown Project                3 hrs 40 mins                  ████░░░░░░░░░░░░░░░░░░░░░   15.79%
+• zet                            1 hr 18 mins                   █░░░░░░░░░░░░░░░░░░░░░░░░   5.63%
+• dotfiles-old                   5 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39%
+• readme-writer                  1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            19 hrs 30 mins                 █████████████████████████   100%
+• Vim                            23 hrs 19 mins                 █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          19 hrs 30 mins                 █████████████████████████   100%
+• Linux                          23 hrs 19 mins                 █████████████████████████   100%
 ```
 
 </details>
@@ -110,8 +111,8 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (21 hours ago)
-* [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) - 🏡 My personal dotfiles (3 days ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 day ago)
+* [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) - 🏡 My personal dotfiles (4 days ago)
 * [SimonWoodtli/cmd-zet](https://github.com/SimonWoodtli/cmd-zet) - 👨‍💻 zet - a command line tool to manage a  Zettelkasten (notebox) repository (1 week ago)
 * [SimonWoodtli/projects](https://github.com/SimonWoodtli/projects) - 🌳 My learning environment | lab (3 weeks ago)
 * [SimonWoodtli/nixos-config](https://github.com/SimonWoodtli/nixos-config) - 🏡 My personal NixOS system configuration flake (3 weeks ago)
@@ -120,8 +121,8 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (21 hours ago)
-* [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) - 🏡 My personal dotfiles (3 days ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 day ago)
+* [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) - 🏡 My personal dotfiles (4 days ago)
 * [SimonWoodtli/cmd-zet](https://github.com/SimonWoodtli/cmd-zet) - 👨‍💻 zet - a command line tool to manage a  Zettelkasten (notebox) repository (1 week ago)
 * [SimonWoodtli/projects](https://github.com/SimonWoodtli/projects) - 🌳 My learning environment | lab (3 weeks ago)
 * [SimonWoodtli/nixos-config](https://github.com/SimonWoodtli/nixos-config) - 🏡 My personal NixOS system configuration flake (3 weeks ago)
@@ -140,7 +141,7 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/ac39e3c3413746ceaca835b27435b1307b8ece5a/20230405141750) - calcurse - cheatsheet (5 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/ac39e3c3413746ceaca835b27435b1307b8ece5a/20230405141750) - calcurse - cheatsheet (6 days ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/048ec158f111c6e045c75a30f62ef4ab1aee72f4/20230402010650) - Termux Setup (1 week ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/922c07ce713a428d56ac4af1b8c8572533e26066/20230317140539) - Install and Setup `mutt` (3 weeks ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/322a3fb47e64015a1a697c6d21b3cdecf50d3f05/20230315195114) - age - cheatsheet (3 weeks ago)
@@ -173,13 +174,13 @@ Seeking a profile page that creates content automatically?
   <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         104 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   11.97%
-• Tuesday                        181 commits                    █████░░░░░░░░░░░░░░░░░░░░   20.83%
-• Wednesday                      124 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.27%
-• Thursday                       116 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.35%
-• Friday                         122 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.04%
-• Saturday                       81 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   9.32%
-• Sunday                         141 commits                    ████░░░░░░░░░░░░░░░░░░░░░   16.23%
+• Monday                         104 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   11.93%
+• Tuesday                        183 commits                    █████░░░░░░░░░░░░░░░░░░░░   20.99%
+• Wednesday                      125 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.33%
+• Thursday                       116 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.30%
+• Friday                         122 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.99%
+• Saturday                       81 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   9.29%
+• Sunday                         141 commits                    ████░░░░░░░░░░░░░░░░░░░░░   16.17%
 ```
 
 </details>
@@ -187,10 +188,10 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     280 commits                    ████████░░░░░░░░░░░░░░░░░   32.22%
-• 🌞 Daytime                     269 commits                    ████████░░░░░░░░░░░░░░░░░   30.96%
-• 🌇 Evening                     3 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35%
-• 🌃 Night                       317 commits                    █████████░░░░░░░░░░░░░░░░   36.48%
+• 🌅 Morning                     280 commits                    ████████░░░░░░░░░░░░░░░░░   32.11%
+• 🌞 Daytime                     271 commits                    ████████░░░░░░░░░░░░░░░░░   31.08%
+• 🌇 Evening                     3 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34%
+• 🌃 Night                       318 commits                    █████████░░░░░░░░░░░░░░░░   36.47%
 ```
 
 </details>
