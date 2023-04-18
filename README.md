@@ -63,20 +63,20 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• conf                           4 hrs 11 mins                  ██████░░░░░░░░░░░░░░░░░░░   22.57%
-• YAML                           3 hrs 46 mins                  █████░░░░░░░░░░░░░░░░░░░░   20.32%
-• Bash                           2 hrs 58 mins                  ████░░░░░░░░░░░░░░░░░░░░░   16.01%
-• sh                             2 hrs 19 mins                  ███░░░░░░░░░░░░░░░░░░░░░░   12.54%
-• Markdown                       1 hr 54 mins                   ███░░░░░░░░░░░░░░░░░░░░░░   10.25%
-• Docker                         46 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   4.16%
-• JSON                           43 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.93%
-• Other                          41 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.73%
-• dockerfile                     35 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.21%
-• tmux                           18 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.68%
-• desktop                        13 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.24%
+• YAML                           4 hrs 37 mins                  ███████░░░░░░░░░░░░░░░░░░   26.36%
+• Bash                           2 hrs 58 mins                  ████░░░░░░░░░░░░░░░░░░░░░   16.95%
+• sh                             2 hrs 19 mins                  ███░░░░░░░░░░░░░░░░░░░░░░   13.27%
+• Markdown                       2 hrs 5 mins                   ███░░░░░░░░░░░░░░░░░░░░░░   11.87%
+• conf                           1 hr 59 mins                   ███░░░░░░░░░░░░░░░░░░░░░░   11.35%
+• Docker                         47 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
+• JSON                           43 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   4.16%
+• dockerfile                     42 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   4.08%
+• Other                          41 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.94%
+• tmux                           18 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.78%
+• desktop                        13 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.31%
 • just                           1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
-• gitconfig                      1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
-• Vim Script                     0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
+• gitconfig                      1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
+• Vim Script                     0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
 • gitignore                      0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 • RPMSpec                        0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 • Text                           0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
@@ -85,27 +85,28 @@ Seeking a profile page that creates content automatically?
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• cloud-os                       7 hrs 31 mins                  ██████████░░░░░░░░░░░░░░░   40.51%
-• Private                        3 hrs 59 mins                  █████░░░░░░░░░░░░░░░░░░░░   21.43%
-• dotfiles                       3 hrs 51 mins                  █████░░░░░░░░░░░░░░░░░░░░   20.78%
-• Unknown Project                2 hrs 2 mins                   ███░░░░░░░░░░░░░░░░░░░░░░   10.98%
-• zet                            41 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.69%
-• cmd-zet                        11 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.07%
-• dotfiles-old                   7 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.64%
-• workspace                      5 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.53%
-• readme-writer                  4 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37%
+• cloud-os                       8 hrs 35 mins                  ████████████░░░░░░░░░░░░░   48.95%
+• dotfiles                       3 hrs 51 mins                  ██████░░░░░░░░░░░░░░░░░░░   22%
+• Unknown Project                2 hrs 5 mins                   ███░░░░░░░░░░░░░░░░░░░░░░   11.9%
+• Private                        1 hr 44 mins                   ██░░░░░░░░░░░░░░░░░░░░░░░   9.91%
+• zet                            39 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.74%
+• cmd-zet                        11 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.13%
+• ublue-main                     7 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.74%
+• dotfiles-old                   7 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68%
+• workspace                      5 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.56%
+• readme-writer                  4 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            18 hrs 35 mins                 █████████████████████████   100%
+• Vim                            17 hrs 33 mins                 █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          18 hrs 35 mins                 █████████████████████████   100%
+• Linux                          17 hrs 33 mins                 █████████████████████████   100%
 ```
 
 </details>
@@ -123,21 +124,21 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (1 hours ago)
-* [SimonWoodtli/ublue-os-main](https://github.com/SimonWoodtli/ublue-os-main) - An OCI base image of Fedora with batteries included (8 hours ago)
-* [SimonWoodtli/workspace](https://github.com/SimonWoodtli/workspace) - 🤖🐳 My personal workspace image (2 days ago)
-* [SimonWoodtli/cmd-zet](https://github.com/SimonWoodtli/cmd-zet) - 👨‍💻 zet - a command line tool to manage a  Zettelkasten (notebox) repository (2 days ago)
-* [SimonWoodtli/readme-writer](https://github.com/SimonWoodtli/readme-writer) - 🤖 command to read from a template, fetch API data and create a README.md for your GitHub profile (2 days ago)
+* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (6 hours ago)
+* [SimonWoodtli/ublue-os-main](https://github.com/SimonWoodtli/ublue-os-main) - An OCI base image of Fedora with batteries included (1 day ago)
+* [SimonWoodtli/workspace](https://github.com/SimonWoodtli/workspace) - 🤖🐳 My personal workspace image (3 days ago)
+* [SimonWoodtli/cmd-zet](https://github.com/SimonWoodtli/cmd-zet) - 👨‍💻 zet - a command line tool to manage a  Zettelkasten (notebox) repository (3 days ago)
+* [SimonWoodtli/readme-writer](https://github.com/SimonWoodtli/readme-writer) - 🤖 command to read from a template, fetch API data and create a README.md for your GitHub profile (3 days ago)
 
 </details>
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (1 hours ago)
-* [SimonWoodtli/ublue-os-main](https://github.com/SimonWoodtli/ublue-os-main) - An OCI base image of Fedora with batteries included (8 hours ago)
-* [SimonWoodtli/workspace](https://github.com/SimonWoodtli/workspace) - 🤖🐳 My personal workspace image (2 days ago)
-* [SimonWoodtli/cmd-zet](https://github.com/SimonWoodtli/cmd-zet) - 👨‍💻 zet - a command line tool to manage a  Zettelkasten (notebox) repository (2 days ago)
-* [SimonWoodtli/readme-writer](https://github.com/SimonWoodtli/readme-writer) - 🤖 command to read from a template, fetch API data and create a README.md for your GitHub profile (2 days ago)
+* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (6 hours ago)
+* [SimonWoodtli/ublue-os-main](https://github.com/SimonWoodtli/ublue-os-main) - An OCI base image of Fedora with batteries included (1 day ago)
+* [SimonWoodtli/workspace](https://github.com/SimonWoodtli/workspace) - 🤖🐳 My personal workspace image (3 days ago)
+* [SimonWoodtli/cmd-zet](https://github.com/SimonWoodtli/cmd-zet) - 👨‍💻 zet - a command line tool to manage a  Zettelkasten (notebox) repository (3 days ago)
+* [SimonWoodtli/readme-writer](https://github.com/SimonWoodtli/readme-writer) - 🤖 command to read from a template, fetch API data and create a README.md for your GitHub profile (3 days ago)
 
 </details>
 <details>
@@ -154,7 +155,7 @@ Seeking a profile page that creates content automatically?
   <summary><b>📝 My recent zet notes</b></summary>
 
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/ac39e3c3413746ceaca835b27435b1307b8ece5a/20230405141750) - calcurse - cheatsheet (1 week ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/048ec158f111c6e045c75a30f62ef4ab1aee72f4/20230402010650) - Termux Setup (1 week ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/048ec158f111c6e045c75a30f62ef4ab1aee72f4/20230402010650) - Termux Setup (2 weeks ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/922c07ce713a428d56ac4af1b8c8572533e26066/20230317140539) - Install and Setup `mutt` (1 month ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/322a3fb47e64015a1a697c6d21b3cdecf50d3f05/20230315195114) - age - cheatsheet (1 month ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/0ec4f91235d41f624f80b323fff7cd40397c597f/20230315153248) - `when` calendar cli - cheatsheet (1 month ago)
