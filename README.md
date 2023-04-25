@@ -63,49 +63,50 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• Vim Script                     4 hrs 42 mins                  █████░░░░░░░░░░░░░░░░░░░░   21.55%
-• RPMSpec                        4 hrs 9 mins                   █████░░░░░░░░░░░░░░░░░░░░   19.08%
-• Bash                           3 hrs 3 mins                   ████░░░░░░░░░░░░░░░░░░░░░   14.05%
-• sh                             2 hrs 50 mins                  ███░░░░░░░░░░░░░░░░░░░░░░   13.01%
-• Python                         1 hr 11 mins                   █░░░░░░░░░░░░░░░░░░░░░░░░   5.49%
-• Go                             1 hr 5 mins                    █░░░░░░░░░░░░░░░░░░░░░░░░   5%
-• YAML                           54 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   4.15%
-• dockerfile                     53 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   4.12%
-• Markdown                       49 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.75%
-• conf                           32 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.48%
-• Text                           29 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.23%
-• just                           23 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.8%
-• JavaScript                     19 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.47%
-• JSON                           11 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9%
-• Other                          7 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.57%
-• Perl                           3 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
-• tmux                           1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
-• Docker                         0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+• RPMSpec                        5 hrs 41 mins                  █████░░░░░░░░░░░░░░░░░░░░   21.75%
+• Vim Script                     4 hrs 42 mins                  ████░░░░░░░░░░░░░░░░░░░░░   17.99%
+• Bash                           3 hrs 47 mins                  ████░░░░░░░░░░░░░░░░░░░░░   14.54%
+• sh                             2 hrs 54 mins                  ███░░░░░░░░░░░░░░░░░░░░░░   11.1%
+• dockerfile                     1 hr 52 mins                   ██░░░░░░░░░░░░░░░░░░░░░░░   7.16%
+• Markdown                       1 hr 42 mins                   ██░░░░░░░░░░░░░░░░░░░░░░░   6.54%
+• Python                         1 hr 11 mins                   █░░░░░░░░░░░░░░░░░░░░░░░░   4.58%
+• Go                             1 hr 5 mins                    █░░░░░░░░░░░░░░░░░░░░░░░░   4.18%
+• YAML                           40 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.55%
+• conf                           32 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.05%
+• Text                           29 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.86%
+• Other                          24 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.55%
+• just                           23 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.51%
+• JavaScript                     19 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.23%
+• JSON                           17 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.13%
+• Perl                           3 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
+• tmux                           1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+• systemd                        0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• cloud-os                       10 hrs 23 mins                 ████████████░░░░░░░░░░░░░   47.6%
-• dotfiles                       5 hrs 44 mins                  ███████░░░░░░░░░░░░░░░░░░   26.29%
-• Unknown Project                4 hrs 46 mins                  █████░░░░░░░░░░░░░░░░░░░░   21.92%
-• Private                        27 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.07%
-• cmd-zet                        12 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.92%
-• ublue-main                     7 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59%
-• zet                            6 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48%
-• vim-devdocs                    1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
+• cloud-os                       12 hrs 36 mins                 ████████████░░░░░░░░░░░░░   48.24%
+• dotfiles                       5 hrs 44 mins                  █████░░░░░░░░░░░░░░░░░░░░   21.95%
+• Unknown Project                4 hrs 47 mins                  █████░░░░░░░░░░░░░░░░░░░░   18.35%
+• fonts                          1 hr 19 mins                   █░░░░░░░░░░░░░░░░░░░░░░░░   5.05%
+• zet                            38 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.43%
+• Private                        28 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.82%
+• wallpapers                     20 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.29%
+• cmd-zet                        12 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.77%
+• vim-devdocs                    1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            21 hrs 49 mins                 █████████████████████████   100%
+• Vim                            26 hrs 8 mins                  █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          21 hrs 49 mins                 █████████████████████████   100%
+• Linux                          26 hrs 8 mins                  █████████████████████████   100%
 ```
 
 </details>
@@ -123,21 +124,21 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/wallpapers](https://github.com/SimonWoodtli/wallpapers) - 🖼️  My wallpapers (0 hours ago)
-* [SimonWoodtli/fonts](https://github.com/SimonWoodtli/fonts) - 🗛 My fonts (1 hours ago)
-* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (22 hours ago)
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 day ago)
-* [SimonWoodtli/ublue-os-main](https://github.com/SimonWoodtli/ublue-os-main) - An OCI base image of Fedora with batteries included (2 days ago)
+* [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (0 hours ago)
+* [SimonWoodtli/wallpapers](https://github.com/SimonWoodtli/wallpapers) - 🖼️  My wallpapers (8 hours ago)
+* [SimonWoodtli/fonts](https://github.com/SimonWoodtli/fonts) - 🗛 My fonts (8 hours ago)
+* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (10 hours ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (2 days ago)
 
 </details>
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/wallpapers](https://github.com/SimonWoodtli/wallpapers) - 🖼️  My wallpapers (0 hours ago)
-* [SimonWoodtli/fonts](https://github.com/SimonWoodtli/fonts) - 🗛 My fonts (1 hours ago)
-* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (22 hours ago)
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 day ago)
-* [SimonWoodtli/ublue-os-main](https://github.com/SimonWoodtli/ublue-os-main) - An OCI base image of Fedora with batteries included (2 days ago)
+* [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (0 hours ago)
+* [SimonWoodtli/wallpapers](https://github.com/SimonWoodtli/wallpapers) - 🖼️  My wallpapers (8 hours ago)
+* [SimonWoodtli/fonts](https://github.com/SimonWoodtli/fonts) - 🗛 My fonts (8 hours ago)
+* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (10 hours ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (2 days ago)
 
 </details>
 <details>
@@ -153,9 +154,9 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/3d9625f8bc632c595fa8b28b6f6f09026dd9eec2/20230418171555) - rpm-ostree - cheatsheet (5 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/3d9625f8bc632c595fa8b28b6f6f09026dd9eec2/20230418171555) - rpm-ostree - cheatsheet (6 days ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/ac39e3c3413746ceaca835b27435b1307b8ece5a/20230405141750) - calcurse - cheatsheet (2 weeks ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/048ec158f111c6e045c75a30f62ef4ab1aee72f4/20230402010650) - Termux Setup (2 weeks ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/048ec158f111c6e045c75a30f62ef4ab1aee72f4/20230402010650) - Termux Setup (3 weeks ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/922c07ce713a428d56ac4af1b8c8572533e26066/20230317140539) - Install and Setup `mutt` (1 month ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/322a3fb47e64015a1a697c6d21b3cdecf50d3f05/20230315195114) - age - cheatsheet (1 month ago)
 
@@ -163,22 +164,22 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>⭐ My recent stars</b></summary>
 
+* [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (8 hours ago)
 * [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4" (3 weeks ago)
 * [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets (1 month ago)
 * [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (1 month ago)
 * [ublue-os/main](https://github.com/ublue-os/main) - An OCI base image of Fedora with batteries included (1 month ago)
-* [ublue-os/boxkit](https://github.com/ublue-os/boxkit) - A blingier starting image for Toolbx and Distrobox. (1 month ago)
 
 </details>
 <details>
   <summary><b>💬 My most used language per repos</b></summary>
 
 ```
-• Shell                          8 repos                        ██████████████░░░░░░░░░░░   57.14%
-• JavaScript                     1 repo                         ██░░░░░░░░░░░░░░░░░░░░░░░   7.14%
-• CSS                            3 repos                        █████░░░░░░░░░░░░░░░░░░░░   21.43%
-• Nix                            1 repo                         ██░░░░░░░░░░░░░░░░░░░░░░░   7.14%
-• HTML                           1 repo                         ██░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+• Shell                          9 repos                        ███████████████░░░░░░░░░░   60.00%
+• JavaScript                     1 repo                         ██░░░░░░░░░░░░░░░░░░░░░░░   6.67%
+• CSS                            3 repos                        █████░░░░░░░░░░░░░░░░░░░░   20.00%
+• Nix                            1 repo                         ██░░░░░░░░░░░░░░░░░░░░░░░   6.67%
+• HTML                           1 repo                         ██░░░░░░░░░░░░░░░░░░░░░░░   6.67%
 ```
 
 </details>
@@ -186,13 +187,13 @@ Seeking a profile page that creates content automatically?
   <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         108 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   11.33%
-• Tuesday                        190 commits                    █████░░░░░░░░░░░░░░░░░░░░   19.94%
-• Wednesday                      136 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.27%
-• Thursday                       137 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.38%
-• Friday                         140 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.69%
-• Saturday                       94 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   9.86%
-• Sunday                         148 commits                    ████░░░░░░░░░░░░░░░░░░░░░   15.53%
+• Monday                         56 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   8.54%
+• Tuesday                        163 commits                    ██████░░░░░░░░░░░░░░░░░░░   24.85%
+• Wednesday                      104 commits                    ████░░░░░░░░░░░░░░░░░░░░░   15.85%
+• Thursday                       85 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   12.96%
+• Friday                         93 commits                     ████░░░░░░░░░░░░░░░░░░░░░   14.18%
+• Saturday                       74 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   11.28%
+• Sunday                         81 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   12.35%
 ```
 
 </details>
@@ -200,10 +201,10 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     306 commits                    ████████░░░░░░░░░░░░░░░░░   32.11%
-• 🌞 Daytime                     309 commits                    ████████░░░░░░░░░░░░░░░░░   32.42%
-• 🌇 Evening                     3 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
-• 🌃 Night                       335 commits                    █████████░░░░░░░░░░░░░░░░   35.15%
+• 🌅 Morning                     218 commits                    ████████░░░░░░░░░░░░░░░░░   33.23%
+• 🌞 Daytime                     230 commits                    █████████░░░░░░░░░░░░░░░░   35.06%
+• 🌇 Evening                     1 commit                       ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
+• 🌃 Night                       207 commits                    ████████░░░░░░░░░░░░░░░░░   31.55%
 ```
 
 </details>
