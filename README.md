@@ -110,21 +110,21 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/workspace-toolbox](https://github.com/SimonWoodtli/workspace-toolbox) - 🤖🐳 My personal workspace image (1 day ago)
-* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (2 days ago)
-* [SimonWoodtli/wallpapers](https://github.com/SimonWoodtli/wallpapers) - 🖼️  My wallpapers (6 days ago)
-* [SimonWoodtli/fonts](https://github.com/SimonWoodtli/fonts) - 🗛 My fonts (6 days ago)
-* [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (7 days ago)
+* [SimonWoodtli/workspace-toolbox](https://github.com/SimonWoodtli/workspace-toolbox) - 🤖🐳 My personal workspace image (9 hours ago)
+* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (3 days ago)
+* [SimonWoodtli/wallpapers](https://github.com/SimonWoodtli/wallpapers) - 🖼️  My wallpapers (7 days ago)
+* [SimonWoodtli/fonts](https://github.com/SimonWoodtli/fonts) - 🗛 My fonts (7 days ago)
+* [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (1 week ago)
 
 </details>
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/workspace-toolbox](https://github.com/SimonWoodtli/workspace-toolbox) - 🤖🐳 My personal workspace image (1 day ago)
-* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (2 days ago)
-* [SimonWoodtli/wallpapers](https://github.com/SimonWoodtli/wallpapers) - 🖼️  My wallpapers (6 days ago)
-* [SimonWoodtli/fonts](https://github.com/SimonWoodtli/fonts) - 🗛 My fonts (6 days ago)
-* [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (7 days ago)
+* [SimonWoodtli/workspace-toolbox](https://github.com/SimonWoodtli/workspace-toolbox) - 🤖🐳 My personal workspace image (9 hours ago)
+* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (3 days ago)
+* [SimonWoodtli/wallpapers](https://github.com/SimonWoodtli/wallpapers) - 🖼️  My wallpapers (7 days ago)
+* [SimonWoodtli/fonts](https://github.com/SimonWoodtli/fonts) - 🗛 My fonts (7 days ago)
+* [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (1 week ago)
 
 </details>
 <details>
@@ -140,7 +140,7 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/3d9625f8bc632c595fa8b28b6f6f09026dd9eec2/20230418171555) - rpm-ostree - cheatsheet (1 week ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/3d9625f8bc632c595fa8b28b6f6f09026dd9eec2/20230418171555) - rpm-ostree - cheatsheet (2 weeks ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/ac39e3c3413746ceaca835b27435b1307b8ece5a/20230405141750) - calcurse - cheatsheet (3 weeks ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/048ec158f111c6e045c75a30f62ef4ab1aee72f4/20230402010650) - Termux Setup (1 month ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/922c07ce713a428d56ac4af1b8c8572533e26066/20230317140539) - Install and Setup `mutt` (1 month ago)
@@ -150,8 +150,8 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>⭐ My recent stars</b></summary>
 
-* [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative. (2 days ago)
-* [essembeh/gnome-extensions-cli](https://github.com/essembeh/gnome-extensions-cli) - Command line tool to manage your Gnome Shell extensions (2 days ago)
+* [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative. (3 days ago)
+* [essembeh/gnome-extensions-cli](https://github.com/essembeh/gnome-extensions-cli) - Command line tool to manage your Gnome Shell extensions (3 days ago)
 * [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (1 week ago)
 * [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4" (1 month ago)
 * [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets (1 month ago)
@@ -173,13 +173,13 @@ Seeking a profile page that creates content automatically?
   <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         153 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.68%
-• Tuesday                        194 commits                    █████░░░░░░░░░░░░░░░░░░░░   18.62%
-• Wednesday                      150 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.40%
-• Thursday                       140 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.44%
-• Friday                         154 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.78%
-• Saturday                       102 commits                    ██░░░░░░░░░░░░░░░░░░░░░░░   9.79%
-• Sunday                         149 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.30%
+• Monday                         153 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.59%
+• Tuesday                        194 commits                    █████░░░░░░░░░░░░░░░░░░░░   18.49%
+• Wednesday                      157 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.97%
+• Thursday                       140 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.35%
+• Friday                         154 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.68%
+• Saturday                       102 commits                    ██░░░░░░░░░░░░░░░░░░░░░░░   9.72%
+• Sunday                         149 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.20%
 ```
 
 </details>
@@ -187,10 +187,10 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     338 commits                    ████████░░░░░░░░░░░░░░░░░   32.44%
-• 🌞 Daytime                     331 commits                    ████████░░░░░░░░░░░░░░░░░   31.77%
+• 🌅 Morning                     338 commits                    ████████░░░░░░░░░░░░░░░░░   32.22%
+• 🌞 Daytime                     331 commits                    ████████░░░░░░░░░░░░░░░░░   31.55%
 • 🌇 Evening                     3 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
-• 🌃 Night                       370 commits                    █████████░░░░░░░░░░░░░░░░   35.51%
+• 🌃 Night                       377 commits                    █████████░░░░░░░░░░░░░░░░   35.94%
 ```
 
 </details>
