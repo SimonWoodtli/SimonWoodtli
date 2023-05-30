@@ -99,8 +99,8 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 week ago)
-* [SimonWoodtli/workspace-toolbox](https://github.com/SimonWoodtli/workspace-toolbox) - 🤖🐳 My personal workspace image (1 week ago)
+* [SimonWoodtli/workspace-toolbox](https://github.com/SimonWoodtli/workspace-toolbox) - 🤖🐳 My personal workspace image (4 hours ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (5 hours ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (1 week ago)
 * [SimonWoodtli/lab](https://github.com/SimonWoodtli/lab) - null (2 weeks ago)
 * [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) - 🏡 My personal dotfiles (2 weeks ago)
@@ -109,8 +109,8 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 week ago)
-* [SimonWoodtli/workspace-toolbox](https://github.com/SimonWoodtli/workspace-toolbox) - 🤖🐳 My personal workspace image (1 week ago)
+* [SimonWoodtli/workspace-toolbox](https://github.com/SimonWoodtli/workspace-toolbox) - 🤖🐳 My personal workspace image (4 hours ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (5 hours ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (1 week ago)
 * [SimonWoodtli/lab](https://github.com/SimonWoodtli/lab) - null (2 weeks ago)
 * [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) - 🏡 My personal dotfiles (2 weeks ago)
@@ -133,14 +133,14 @@ Seeking a profile page that creates content automatically?
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/ac39e3c3413746ceaca835b27435b1307b8ece5a/20230405141750) - calcurse - cheatsheet (2 months ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/048ec158f111c6e045c75a30f62ef4ab1aee72f4/20230402010650) - Termux Setup (2 months ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/922c07ce713a428d56ac4af1b8c8572533e26066/20230317140539) - Install and Setup `mutt` (2 months ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/322a3fb47e64015a1a697c6d21b3cdecf50d3f05/20230315195114) - age - cheatsheet (2 months ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/322a3fb47e64015a1a697c6d21b3cdecf50d3f05/20230315195114) - age - cheatsheet (3 months ago)
 
 </details>
 <details>
   <summary><b>⭐ My recent stars</b></summary>
 
-* [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative. (3 weeks ago)
-* [essembeh/gnome-extensions-cli](https://github.com/essembeh/gnome-extensions-cli) - Command line tool to manage your Gnome Shell extensions (3 weeks ago)
+* [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative. (1 month ago)
+* [essembeh/gnome-extensions-cli](https://github.com/essembeh/gnome-extensions-cli) - Command line tool to manage your Gnome Shell extensions (1 month ago)
 * [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (1 month ago)
 * [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5. (2 months ago)
 * [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets (2 months ago)
@@ -162,13 +162,13 @@ Seeking a profile page that creates content automatically?
   <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         155 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.19%
-• Tuesday                        194 commits                    ████░░░░░░░░░░░░░░░░░░░░░   17.77%
-• Wednesday                      157 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.38%
-• Thursday                       141 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   12.91%
-• Friday                         172 commits                    ████░░░░░░░░░░░░░░░░░░░░░   15.75%
-• Saturday                       101 commits                    ██░░░░░░░░░░░░░░░░░░░░░░░   9.25%
-• Sunday                         172 commits                    ████░░░░░░░░░░░░░░░░░░░░░   15.75%
+• Monday                         163 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.82%
+• Tuesday                        194 commits                    ████░░░░░░░░░░░░░░░░░░░░░   17.64%
+• Wednesday                      157 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.27%
+• Thursday                       141 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   12.82%
+• Friday                         172 commits                    ████░░░░░░░░░░░░░░░░░░░░░   15.64%
+• Saturday                       101 commits                    ██░░░░░░░░░░░░░░░░░░░░░░░   9.18%
+• Sunday                         172 commits                    ████░░░░░░░░░░░░░░░░░░░░░   15.64%
 ```
 
 </details>
@@ -176,10 +176,10 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     349 commits                    ████████░░░░░░░░░░░░░░░░░   31.96%
-• 🌞 Daytime                     332 commits                    ████████░░░░░░░░░░░░░░░░░   30.40%
+• 🌅 Morning                     352 commits                    ████████░░░░░░░░░░░░░░░░░   32.00%
+• 🌞 Daytime                     332 commits                    ████████░░░░░░░░░░░░░░░░░   30.18%
 • 🌇 Evening                     3 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27%
-• 🌃 Night                       408 commits                    █████████░░░░░░░░░░░░░░░░   37.36%
+• 🌃 Night                       413 commits                    █████████░░░░░░░░░░░░░░░░   37.55%
 ```
 
 </details>
