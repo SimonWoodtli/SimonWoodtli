@@ -63,34 +63,31 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• Bash                           2 hrs 31 mins                  ███████████████░░░░░░░░░░   60.94%
-• Cheetah                        43 mins                        ████░░░░░░░░░░░░░░░░░░░░░   17.54%
-• sh                             26 mins                        ███░░░░░░░░░░░░░░░░░░░░░░   10.84%
-• YAML                           21 mins                        ██░░░░░░░░░░░░░░░░░░░░░░░   8.68%
-• conf                           3 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.49%
-• Other                          1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5%
+• Bash                           1 hr 40 mins                   ██████████████████████░░░   86.58%
+• sh                             13 mins                        ███░░░░░░░░░░░░░░░░░░░░░░   12.02%
+• Other                          1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.96%
+• YAML                           0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• dotfiles                       2 hrs 38 mins                  ████████████████░░░░░░░░░   63.97%
-• Unknown Project                44 mins                        ████░░░░░░░░░░░░░░░░░░░░░   17.83%
-• Private                        26 mins                        ███░░░░░░░░░░░░░░░░░░░░░░   10.6%
-• workspace-toolbox              17 mins                        ██░░░░░░░░░░░░░░░░░░░░░░░   7.1%
-• cloud-os                       1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51%
+• dotfiles                       1 hr 21 mins                   ██████████████████░░░░░░░   70.91%
+• Unknown Project                31 mins                        ███████░░░░░░░░░░░░░░░░░░   27.56%
+• cloud-os                       1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09%
+• workspace-toolbox              0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            4 hrs 8 mins                   █████████████████████████   100%
+• Vim                            1 hr 55 mins                   █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          4 hrs 8 mins                   █████████████████████████   100%
+• Linux                          1 hr 55 mins                   █████████████████████████   100%
 ```
 
 </details>
@@ -108,21 +105,21 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (5 days ago)
-* [SimonWoodtli/workspace-toolbox](https://github.com/SimonWoodtli/workspace-toolbox) - 🤖🐳 My personal workspace image (6 days ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (6 days ago)
+* [SimonWoodtli/workspace-toolbox](https://github.com/SimonWoodtli/workspace-toolbox) - 🤖🐳 My personal workspace image (7 days ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (2 weeks ago)
-* [SimonWoodtli/lab](https://github.com/SimonWoodtli/lab) - null (3 weeks ago)
-* [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) - 🏡 My personal dotfiles (3 weeks ago)
+* [SimonWoodtli/lab](https://github.com/SimonWoodtli/lab) - null (1 month ago)
+* [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) - 🏡 My personal dotfiles (1 month ago)
 
 </details>
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (5 days ago)
-* [SimonWoodtli/workspace-toolbox](https://github.com/SimonWoodtli/workspace-toolbox) - 🤖🐳 My personal workspace image (6 days ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (6 days ago)
+* [SimonWoodtli/workspace-toolbox](https://github.com/SimonWoodtli/workspace-toolbox) - 🤖🐳 My personal workspace image (7 days ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (2 weeks ago)
-* [SimonWoodtli/lab](https://github.com/SimonWoodtli/lab) - null (3 weeks ago)
-* [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) - 🏡 My personal dotfiles (3 weeks ago)
+* [SimonWoodtli/lab](https://github.com/SimonWoodtli/lab) - null (1 month ago)
+* [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) - 🏡 My personal dotfiles (1 month ago)
 
 </details>
 <details>
@@ -131,7 +128,7 @@ Seeking a profile page that creates content automatically?
 * [feat: add wireguard-generate-keys script](https://github.com/SimonWoodtli/dotfiles-old/pull/14) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (8 months ago)
 * [feat: add video-to-gif script](https://github.com/SimonWoodtli/dotfiles-old/pull/13) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (8 months ago)
 * [feat: add spoof-mac-linux script](https://github.com/SimonWoodtli/dotfiles-old/pull/12) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (8 months ago)
-* [feat: add sp-tmux script](https://github.com/SimonWoodtli/dotfiles-old/pull/11) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (8 months ago)
+* [feat: add sp-tmux script](https://github.com/SimonWoodtli/dotfiles-old/pull/11) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (9 months ago)
 * [feat: add sp script](https://github.com/SimonWoodtli/dotfiles-old/pull/10) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (9 months ago)
 
 </details>
