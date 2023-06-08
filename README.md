@@ -63,31 +63,28 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• Bash                           1 hr 40 mins                   ██████████████████████░░░   86.58%
-• sh                             13 mins                        ███░░░░░░░░░░░░░░░░░░░░░░   12.02%
-• Other                          1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.96%
-• YAML                           0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
+• Bash                           43 mins                        ███████████████████████░░   90.42%
+• sh                             3 mins                         ██░░░░░░░░░░░░░░░░░░░░░░░   7.72%
+• Other                          0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.86%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• dotfiles                       1 hr 21 mins                   ██████████████████░░░░░░░   70.91%
-• Unknown Project                31 mins                        ███████░░░░░░░░░░░░░░░░░░   27.56%
-• cloud-os                       1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09%
-• workspace-toolbox              0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
+• dotfiles                       26 mins                        ██████████████░░░░░░░░░░░   55.85%
+• Unknown Project                21 mins                        ███████████░░░░░░░░░░░░░░   44.15%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            1 hr 55 mins                   █████████████████████████   100%
+• Vim                            48 mins                        █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          1 hr 55 mins                   █████████████████████████   100%
+• Linux                          48 mins                        █████████████████████████   100%
 ```
 
 </details>
@@ -105,8 +102,8 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (6 days ago)
-* [SimonWoodtli/workspace-toolbox](https://github.com/SimonWoodtli/workspace-toolbox) - 🤖🐳 My personal workspace image (7 days ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (7 days ago)
+* [SimonWoodtli/workspace-toolbox](https://github.com/SimonWoodtli/workspace-toolbox) - 🤖🐳 My personal workspace image (1 week ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (2 weeks ago)
 * [SimonWoodtli/lab](https://github.com/SimonWoodtli/lab) - null (1 month ago)
 * [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) - 🏡 My personal dotfiles (1 month ago)
@@ -115,8 +112,8 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (6 days ago)
-* [SimonWoodtli/workspace-toolbox](https://github.com/SimonWoodtli/workspace-toolbox) - 🤖🐳 My personal workspace image (7 days ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (7 days ago)
+* [SimonWoodtli/workspace-toolbox](https://github.com/SimonWoodtli/workspace-toolbox) - 🤖🐳 My personal workspace image (1 week ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (2 weeks ago)
 * [SimonWoodtli/lab](https://github.com/SimonWoodtli/lab) - null (1 month ago)
 * [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) - 🏡 My personal dotfiles (1 month ago)
@@ -127,7 +124,7 @@ Seeking a profile page that creates content automatically?
 
 * [feat: add wireguard-generate-keys script](https://github.com/SimonWoodtli/dotfiles-old/pull/14) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (8 months ago)
 * [feat: add video-to-gif script](https://github.com/SimonWoodtli/dotfiles-old/pull/13) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (8 months ago)
-* [feat: add spoof-mac-linux script](https://github.com/SimonWoodtli/dotfiles-old/pull/12) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (8 months ago)
+* [feat: add spoof-mac-linux script](https://github.com/SimonWoodtli/dotfiles-old/pull/12) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (9 months ago)
 * [feat: add sp-tmux script](https://github.com/SimonWoodtli/dotfiles-old/pull/11) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (9 months ago)
 * [feat: add sp script](https://github.com/SimonWoodtli/dotfiles-old/pull/10) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (9 months ago)
 
@@ -135,7 +132,7 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/3d9625f8bc632c595fa8b28b6f6f09026dd9eec2/20230418171555) - rpm-ostree - cheatsheet (1 month ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/3d9625f8bc632c595fa8b28b6f6f09026dd9eec2/20230418171555) - rpm-ostree - cheatsheet (2 months ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/ac39e3c3413746ceaca835b27435b1307b8ece5a/20230405141750) - calcurse - cheatsheet (2 months ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/048ec158f111c6e045c75a30f62ef4ab1aee72f4/20230402010650) - Termux Setup (2 months ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/922c07ce713a428d56ac4af1b8c8572533e26066/20230317140539) - Install and Setup `mutt` (3 months ago)
