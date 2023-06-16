@@ -63,25 +63,28 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• conf                           0 secs                         █████████████████████████   100%
+• Bash                           12 mins                        █████████████████████████   99.08%
+• conf                           0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.92%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• Private                        0 secs                         █████████████████████████   100%
+• Unknown Project                12 mins                        ████████████████████████░   96.34%
+• dotfiles                       0 secs                         █░░░░░░░░░░░░░░░░░░░░░░░░   2.74%
+• Private                        0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.92%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            0 secs                         █████████████████████████   100%
+• Vim                            12 mins                        █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          0 secs                         █████████████████████████   100%
+• Linux                          12 mins                        █████████████████████████   100%
 ```
 
 </details>
@@ -99,7 +102,7 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (12 hours ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 day ago)
 * [SimonWoodtli/workspace-toolbox](https://github.com/SimonWoodtli/workspace-toolbox) - 🤖🐳 My personal workspace image (2 weeks ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (3 weeks ago)
 * [SimonWoodtli/lab](https://github.com/SimonWoodtli/lab) - null (1 month ago)
@@ -109,7 +112,7 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (12 hours ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 day ago)
 * [SimonWoodtli/workspace-toolbox](https://github.com/SimonWoodtli/workspace-toolbox) - 🤖🐳 My personal workspace image (2 weeks ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (3 weeks ago)
 * [SimonWoodtli/lab](https://github.com/SimonWoodtli/lab) - null (1 month ago)
@@ -142,7 +145,7 @@ Seeking a profile page that creates content automatically?
 * [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative. (1 month ago)
 * [essembeh/gnome-extensions-cli](https://github.com/essembeh/gnome-extensions-cli) - Command line tool to manage your Gnome Shell extensions (1 month ago)
 * [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (2 months ago)
-* [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5. (2 months ago)
+* [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5. (3 months ago)
 * [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets (3 months ago)
 
 </details>
