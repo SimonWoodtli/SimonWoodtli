@@ -63,29 +63,31 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• Bash                           43 mins                        ███████████████░░░░░░░░░░   61.45%
-• sshconfig                      18 mins                        ███████░░░░░░░░░░░░░░░░░░   26.19%
-• Other                          8 mins                         ███░░░░░░░░░░░░░░░░░░░░░░   12.36%
+• Markdown                       1 hr 16 mins                   █████████████░░░░░░░░░░░░   51.86%
+• Bash                           43 mins                        ███████░░░░░░░░░░░░░░░░░░   29.58%
+• sshconfig                      18 mins                        ███░░░░░░░░░░░░░░░░░░░░░░   12.61%
+• Other                          8 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   5.95%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• Unknown Project                27 mins                        ██████████░░░░░░░░░░░░░░░   39.31%
-• dotfiles                       22 mins                        ████████░░░░░░░░░░░░░░░░░   32.06%
-• Private                        20 mins                        ███████░░░░░░░░░░░░░░░░░░   28.63%
+• zet                            1 hr 16 mins                   █████████████░░░░░░░░░░░░   51.86%
+• Unknown Project                27 mins                        █████░░░░░░░░░░░░░░░░░░░░   18.92%
+• dotfiles                       22 mins                        ████░░░░░░░░░░░░░░░░░░░░░   15.44%
+• Private                        20 mins                        ███░░░░░░░░░░░░░░░░░░░░░░   13.78%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            1 hr 10 mins                   █████████████████████████   100%
+• Vim                            2 hrs 26 mins                  █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          1 hr 10 mins                   █████████████████████████   100%
+• Linux                          2 hrs 26 mins                  █████████████████████████   100%
 ```
 
 </details>
@@ -103,7 +105,7 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 day ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (2 days ago)
 * [SimonWoodtli/workspace-toolbox](https://github.com/SimonWoodtli/workspace-toolbox) - 🤖🐳 My personal workspace image (2 weeks ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (1 month ago)
 * [SimonWoodtli/lab](https://github.com/SimonWoodtli/lab) - null (1 month ago)
@@ -113,7 +115,7 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 day ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (2 days ago)
 * [SimonWoodtli/workspace-toolbox](https://github.com/SimonWoodtli/workspace-toolbox) - 🤖🐳 My personal workspace image (2 weeks ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (1 month ago)
 * [SimonWoodtli/lab](https://github.com/SimonWoodtli/lab) - null (1 month ago)
@@ -134,7 +136,7 @@ Seeking a profile page that creates content automatically?
   <summary><b>📝 My recent zet notes</b></summary>
 
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/3d9625f8bc632c595fa8b28b6f6f09026dd9eec2/20230418171555) - rpm-ostree - cheatsheet (2 months ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/ac39e3c3413746ceaca835b27435b1307b8ece5a/20230405141750) - calcurse - cheatsheet (2 months ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/ac39e3c3413746ceaca835b27435b1307b8ece5a/20230405141750) - calcurse - cheatsheet (3 months ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/048ec158f111c6e045c75a30f62ef4ab1aee72f4/20230402010650) - Termux Setup (3 months ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/922c07ce713a428d56ac4af1b8c8572533e26066/20230317140539) - Install and Setup `mutt` (3 months ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/322a3fb47e64015a1a697c6d21b3cdecf50d3f05/20230315195114) - age - cheatsheet (3 months ago)
@@ -143,8 +145,8 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>⭐ My recent stars</b></summary>
 
-* [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative. (1 month ago)
-* [essembeh/gnome-extensions-cli](https://github.com/essembeh/gnome-extensions-cli) - Command line tool to manage your Gnome Shell extensions (1 month ago)
+* [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative. (2 months ago)
+* [essembeh/gnome-extensions-cli](https://github.com/essembeh/gnome-extensions-cli) - Command line tool to manage your Gnome Shell extensions (2 months ago)
 * [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (2 months ago)
 * [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5. (3 months ago)
 * [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets (3 months ago)
