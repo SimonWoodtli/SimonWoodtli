@@ -143,7 +143,7 @@ Seeking a profile page that creates content automatically?
 * [essembeh/gnome-extensions-cli](https://github.com/essembeh/gnome-extensions-cli) - Command line tool to manage your Gnome Shell extensions (2 months ago)
 * [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (2 months ago)
 * [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5. (3 months ago)
-* [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets (3 months ago)
+* [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets (3 months ago)
 
 </details>
 <details>
