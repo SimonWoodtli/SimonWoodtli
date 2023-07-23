@@ -102,8 +102,8 @@ Seeking a profile page that creates content automatically?
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 month ago)
 * [SimonWoodtli/workspace-toolbox](https://github.com/SimonWoodtli/workspace-toolbox) - 🤖🐳 My personal workspace image (2 months ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (2 months ago)
-* [SimonWoodtli/lab](https://github.com/SimonWoodtli/lab) - null (2 months ago)
-* [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) - 🏡 My personal dotfiles (2 months ago)
+* [SimonWoodtli/lab](https://github.com/SimonWoodtli/lab) - null (3 months ago)
+* [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) - 🏡 My personal dotfiles (3 months ago)
 
 </details>
 <details>
@@ -112,8 +112,8 @@ Seeking a profile page that creates content automatically?
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 month ago)
 * [SimonWoodtli/workspace-toolbox](https://github.com/SimonWoodtli/workspace-toolbox) - 🤖🐳 My personal workspace image (2 months ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (2 months ago)
-* [SimonWoodtli/lab](https://github.com/SimonWoodtli/lab) - null (2 months ago)
-* [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) - 🏡 My personal dotfiles (2 months ago)
+* [SimonWoodtli/lab](https://github.com/SimonWoodtli/lab) - null (3 months ago)
+* [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) - 🏡 My personal dotfiles (3 months ago)
 
 </details>
 <details>
@@ -142,7 +142,7 @@ Seeking a profile page that creates content automatically?
 * [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative. (3 months ago)
 * [essembeh/gnome-extensions-cli](https://github.com/essembeh/gnome-extensions-cli) - Command line tool to manage your Gnome Shell extensions (3 months ago)
 * [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (3 months ago)
-* [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5. (4 months ago)
+* [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. (4 months ago)
 * [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets (4 months ago)
 
 </details>
