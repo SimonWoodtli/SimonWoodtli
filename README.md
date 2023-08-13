@@ -63,26 +63,25 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• conf                           1 min                          █████████████████████████   100%
+• No Data found                                                 
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• Unknown Project                10 mins                        ██████████████████████░░░   89.32%
-• Private                        1 min                          ███░░░░░░░░░░░░░░░░░░░░░░   10.68%
+• Unknown Project                10 mins                        █████████████████████████   100%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            1 min                          █████████████████████████   100%
+• No Data found                                                 
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          1 min                          █████████████████████████   100%
+• No Data found                                                 
 ```
 
 </details>
@@ -140,7 +139,7 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>⭐ My recent stars</b></summary>
 
-* [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source alternative to TeamViewer. (3 months ago)
+* [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer. (3 months ago)
 * [essembeh/gnome-extensions-cli](https://github.com/essembeh/gnome-extensions-cli) - Command line tool to manage your Gnome Shell extensions (3 months ago)
 * [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (4 months ago)
 * [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. (4 months ago)
@@ -163,13 +162,13 @@ Seeking a profile page that creates content automatically?
   <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         161 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.61%
-• Tuesday                        202 commits                    █████░░░░░░░░░░░░░░░░░░░░   18.33%
-• Wednesday                      158 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.34%
-• Thursday                       143 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   12.98%
-• Friday                         170 commits                    ████░░░░░░░░░░░░░░░░░░░░░   15.43%
+• Monday                         161 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.62%
+• Tuesday                        202 commits                    █████░░░░░░░░░░░░░░░░░░░░   18.35%
+• Wednesday                      158 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.35%
+• Thursday                       143 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   12.99%
+• Friday                         169 commits                    ████░░░░░░░░░░░░░░░░░░░░░   15.35%
 • Saturday                       101 commits                    ██░░░░░░░░░░░░░░░░░░░░░░░   9.17%
-• Sunday                         167 commits                    ████░░░░░░░░░░░░░░░░░░░░░   15.15%
+• Sunday                         167 commits                    ████░░░░░░░░░░░░░░░░░░░░░   15.17%
 ```
 
 </details>
@@ -177,10 +176,10 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     348 commits                    ████████░░░░░░░░░░░░░░░░░   31.58%
-• 🌞 Daytime                     332 commits                    ████████░░░░░░░░░░░░░░░░░   30.13%
+• 🌅 Morning                     347 commits                    ████████░░░░░░░░░░░░░░░░░   31.52%
+• 🌞 Daytime                     332 commits                    ████████░░░░░░░░░░░░░░░░░   30.15%
 • 🌇 Evening                     3 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27%
-• 🌃 Night                       419 commits                    ██████████░░░░░░░░░░░░░░░   38.02%
+• 🌃 Night                       419 commits                    ██████████░░░░░░░░░░░░░░░   38.06%
 ```
 
 </details>
