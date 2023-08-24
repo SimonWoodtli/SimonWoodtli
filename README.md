@@ -99,21 +99,21 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
+* [SimonWoodtli/workspace-ubuntu](https://github.com/SimonWoodtli/workspace-ubuntu) - ⛔ Deprecated (0 hours ago)
+* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (0 hours ago)
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (2 months ago)
-* [SimonWoodtli/workspace-toolbox](https://github.com/SimonWoodtli/workspace-toolbox) - 🤖🐳 My personal workspace image (3 months ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (3 months ago)
 * [SimonWoodtli/lab](https://github.com/SimonWoodtli/lab) - null (4 months ago)
-* [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) - 🏡 My personal dotfiles (4 months ago)
 
 </details>
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
+* [SimonWoodtli/workspace-ubuntu](https://github.com/SimonWoodtli/workspace-ubuntu) - ⛔ Deprecated (0 hours ago)
+* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (0 hours ago)
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (2 months ago)
-* [SimonWoodtli/workspace-toolbox](https://github.com/SimonWoodtli/workspace-toolbox) - 🤖🐳 My personal workspace image (3 months ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (3 months ago)
 * [SimonWoodtli/lab](https://github.com/SimonWoodtli/lab) - null (4 months ago)
-* [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) - 🏡 My personal dotfiles (4 months ago)
 
 </details>
 <details>
@@ -162,13 +162,13 @@ Seeking a profile page that creates content automatically?
   <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         152 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.41%
-• Tuesday                        195 commits                    █████░░░░░░░░░░░░░░░░░░░░   18.48%
-• Wednesday                      157 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.88%
-• Thursday                       140 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.27%
-• Friday                         160 commits                    ████░░░░░░░░░░░░░░░░░░░░░   15.17%
-• Saturday                       95 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   9.00%
-• Sunday                         156 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.79%
+• Monday                         152 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.38%
+• Tuesday                        192 commits                    █████░░░░░░░░░░░░░░░░░░░░   18.16%
+• Wednesday                      158 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.95%
+• Thursday                       140 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.25%
+• Friday                         160 commits                    ████░░░░░░░░░░░░░░░░░░░░░   15.14%
+• Saturday                       95 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   8.99%
+• Sunday                         160 commits                    ████░░░░░░░░░░░░░░░░░░░░░   15.14%
 ```
 
 </details>
@@ -176,10 +176,10 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     341 commits                    ████████░░░░░░░░░░░░░░░░░   32.32%
-• 🌞 Daytime                     299 commits                    ███████░░░░░░░░░░░░░░░░░░   28.34%
+• 🌅 Morning                     341 commits                    ████████░░░░░░░░░░░░░░░░░   32.26%
+• 🌞 Daytime                     301 commits                    ███████░░░░░░░░░░░░░░░░░░   28.48%
 • 🌇 Evening                     3 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28%
-• 🌃 Night                       412 commits                    ██████████░░░░░░░░░░░░░░░   39.05%
+• 🌃 Night                       412 commits                    ██████████░░░░░░░░░░░░░░░   38.98%
 ```
 
 </details>
