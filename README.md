@@ -63,25 +63,31 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• No Data found                                                 
+• Markdown                       1 hr 4 mins                    ████████████████████████░   96.35%
+• Assembly                       2 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   3.6%
+• Ezhil                          0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• Unknown Project                10 mins                        █████████████████████████   100%
+• workspace-toolbox              52 mins                        █████████████████░░░░░░░░   68.12%
+• Unknown Project                10 mins                        ███░░░░░░░░░░░░░░░░░░░░░░   13.85%
+• workspace-alpine               7 mins                         ███░░░░░░░░░░░░░░░░░░░░░░   10.31%
+• bitburner                      3 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   4.62%
+• Private                        2 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   3.1%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• No Data found                                                 
+• Vim                            1 hr 6 mins                    █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• No Data found                                                 
+• Linux                          1 hr 6 mins                    █████████████████████████   100%
 ```
 
 </details>
@@ -99,8 +105,8 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/workspace-ubuntu](https://github.com/SimonWoodtli/workspace-ubuntu) - ⛔ Deprecated (0 hours ago)
-* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (0 hours ago)
+* [SimonWoodtli/bitburner](https://github.com/SimonWoodtli/bitburner) - 🤖 automation scripts (23 hours ago)
+* [SimonWoodtli/workspace-ubuntu](https://github.com/SimonWoodtli/workspace-ubuntu) - ⛔ Deprecated (1 day ago)
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (2 months ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (3 months ago)
 * [SimonWoodtli/lab](https://github.com/SimonWoodtli/lab) - null (4 months ago)
@@ -109,8 +115,8 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/workspace-ubuntu](https://github.com/SimonWoodtli/workspace-ubuntu) - ⛔ Deprecated (0 hours ago)
-* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (0 hours ago)
+* [SimonWoodtli/bitburner](https://github.com/SimonWoodtli/bitburner) - 🤖 automation scripts (23 hours ago)
+* [SimonWoodtli/workspace-ubuntu](https://github.com/SimonWoodtli/workspace-ubuntu) - ⛔ Deprecated (1 day ago)
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (2 months ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (3 months ago)
 * [SimonWoodtli/lab](https://github.com/SimonWoodtli/lab) - null (4 months ago)
@@ -162,13 +168,13 @@ Seeking a profile page that creates content automatically?
   <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         152 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.38%
-• Tuesday                        192 commits                    █████░░░░░░░░░░░░░░░░░░░░   18.16%
-• Wednesday                      158 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.95%
-• Thursday                       140 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.25%
-• Friday                         160 commits                    ████░░░░░░░░░░░░░░░░░░░░░   15.14%
-• Saturday                       95 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   8.99%
-• Sunday                         160 commits                    ████░░░░░░░░░░░░░░░░░░░░░   15.14%
+• Monday                         152 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.41%
+• Tuesday                        192 commits                    █████░░░░░░░░░░░░░░░░░░░░   18.20%
+• Wednesday                      155 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.69%
+• Thursday                       140 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.27%
+• Friday                         160 commits                    ████░░░░░░░░░░░░░░░░░░░░░   15.17%
+• Saturday                       95 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   9.00%
+• Sunday                         161 commits                    ████░░░░░░░░░░░░░░░░░░░░░   15.26%
 ```
 
 </details>
@@ -176,10 +182,10 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     341 commits                    ████████░░░░░░░░░░░░░░░░░   32.26%
-• 🌞 Daytime                     301 commits                    ███████░░░░░░░░░░░░░░░░░░   28.48%
+• 🌅 Morning                     341 commits                    ████████░░░░░░░░░░░░░░░░░   32.32%
+• 🌞 Daytime                     299 commits                    ███████░░░░░░░░░░░░░░░░░░   28.34%
 • 🌇 Evening                     3 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28%
-• 🌃 Night                       412 commits                    ██████████░░░░░░░░░░░░░░░   38.98%
+• 🌃 Night                       412 commits                    ██████████░░░░░░░░░░░░░░░   39.05%
 ```
 
 </details>
