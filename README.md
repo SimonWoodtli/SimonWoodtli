@@ -63,37 +63,37 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• YAML                           3 hrs 57 mins                  █████████████████░░░░░░░░   67.44%
-• Markdown                       1 hr 9 mins                    █████░░░░░░░░░░░░░░░░░░░░   19.76%
-• Bash                           31 mins                        ██░░░░░░░░░░░░░░░░░░░░░░░   9.07%
-• JSON                           8 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2.3%
-• Assembly                       4 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.42%
+• YAML                           4 hrs 26 mins                  █████████████████░░░░░░░░   68.63%
+• Markdown                       1 hr 9 mins                    ████░░░░░░░░░░░░░░░░░░░░░   17.96%
+• Bash                           35 mins                        ██░░░░░░░░░░░░░░░░░░░░░░░   9.27%
+• JSON                           8 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2.09%
+• Assembly                       7 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2.04%
 • Ezhil                          0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• Unknown Project                4 hrs 2 mins                   █████████████████░░░░░░░░   66.89%
-• workspace-toolbox              54 mins                        ████░░░░░░░░░░░░░░░░░░░░░   14.98%
-• workspace-ubuntu               21 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   5.9%
-• Private                        14 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   4.1%
-• dotfiles                       9 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2.73%
-• cloud-os                       8 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2.23%
-• workspace-alpine               7 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2.19%
-• bitburner                      3 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.98%
+• Unknown Project                4 hrs 31 mins                  █████████████████░░░░░░░░   68.07%
+• workspace-toolbox              54 mins                        ███░░░░░░░░░░░░░░░░░░░░░░   13.65%
+• workspace-ubuntu               23 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   5.91%
+• Private                        17 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   4.46%
+• cloud-os                       10 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.52%
+• dotfiles                       9 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2.49%
+• workspace-alpine               7 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2%
+• bitburner                      3 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            5 hrs 52 mins                  █████████████████████████   100%
+• Vim                            6 hrs 27 mins                  █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          5 hrs 52 mins                  █████████████████████████   100%
+• Linux                          6 hrs 27 mins                  █████████████████████████   100%
 ```
 
 </details>
@@ -111,9 +111,9 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (23 hours ago)
-* [SimonWoodtli/bitburner](https://github.com/SimonWoodtli/bitburner) - 🤖 automation scripts (1 day ago)
-* [SimonWoodtli/workspace-ubuntu](https://github.com/SimonWoodtli/workspace-ubuntu) - ⛔ Deprecated (2 days ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 day ago)
+* [SimonWoodtli/bitburner](https://github.com/SimonWoodtli/bitburner) - 🤖 automation scripts (2 days ago)
+* [SimonWoodtli/workspace-ubuntu](https://github.com/SimonWoodtli/workspace-ubuntu) - ⛔ Deprecated (3 days ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (3 months ago)
 * [SimonWoodtli/lab](https://github.com/SimonWoodtli/lab) - null (4 months ago)
 
@@ -121,9 +121,9 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (23 hours ago)
-* [SimonWoodtli/bitburner](https://github.com/SimonWoodtli/bitburner) - 🤖 automation scripts (1 day ago)
-* [SimonWoodtli/workspace-ubuntu](https://github.com/SimonWoodtli/workspace-ubuntu) - ⛔ Deprecated (2 days ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 day ago)
+* [SimonWoodtli/bitburner](https://github.com/SimonWoodtli/bitburner) - 🤖 automation scripts (2 days ago)
+* [SimonWoodtli/workspace-ubuntu](https://github.com/SimonWoodtli/workspace-ubuntu) - ⛔ Deprecated (3 days ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (3 months ago)
 * [SimonWoodtli/lab](https://github.com/SimonWoodtli/lab) - null (4 months ago)
 
