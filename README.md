@@ -111,9 +111,9 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (2 days ago)
-* [SimonWoodtli/bitburner](https://github.com/SimonWoodtli/bitburner) - 🤖 automation scripts (3 days ago)
-* [SimonWoodtli/workspace-ubuntu](https://github.com/SimonWoodtli/workspace-ubuntu) - ⛔ Deprecated (4 days ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (3 days ago)
+* [SimonWoodtli/bitburner](https://github.com/SimonWoodtli/bitburner) - 🤖 automation scripts (4 days ago)
+* [SimonWoodtli/workspace-ubuntu](https://github.com/SimonWoodtli/workspace-ubuntu) - ⛔ Deprecated (5 days ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (3 months ago)
 * [SimonWoodtli/lab](https://github.com/SimonWoodtli/lab) - null (4 months ago)
 
@@ -121,9 +121,9 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (2 days ago)
-* [SimonWoodtli/bitburner](https://github.com/SimonWoodtli/bitburner) - 🤖 automation scripts (3 days ago)
-* [SimonWoodtli/workspace-ubuntu](https://github.com/SimonWoodtli/workspace-ubuntu) - ⛔ Deprecated (4 days ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (3 days ago)
+* [SimonWoodtli/bitburner](https://github.com/SimonWoodtli/bitburner) - 🤖 automation scripts (4 days ago)
+* [SimonWoodtli/workspace-ubuntu](https://github.com/SimonWoodtli/workspace-ubuntu) - ⛔ Deprecated (5 days ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (3 months ago)
 * [SimonWoodtli/lab](https://github.com/SimonWoodtli/lab) - null (4 months ago)
 
