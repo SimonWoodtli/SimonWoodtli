@@ -111,21 +111,21 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (4 days ago)
-* [SimonWoodtli/bitburner](https://github.com/SimonWoodtli/bitburner) - 🤖 automation scripts (5 days ago)
-* [SimonWoodtli/workspace-ubuntu](https://github.com/SimonWoodtli/workspace-ubuntu) - ⛔ Deprecated (6 days ago)
+* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (4 hours ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (5 days ago)
+* [SimonWoodtli/bitburner](https://github.com/SimonWoodtli/bitburner) - 🤖 automation scripts (6 days ago)
+* [SimonWoodtli/workspace-ubuntu](https://github.com/SimonWoodtli/workspace-ubuntu) - ⛔ Deprecated (7 days ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (3 months ago)
-* [SimonWoodtli/lab](https://github.com/SimonWoodtli/lab) - null (4 months ago)
 
 </details>
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (4 days ago)
-* [SimonWoodtli/bitburner](https://github.com/SimonWoodtli/bitburner) - 🤖 automation scripts (5 days ago)
-* [SimonWoodtli/workspace-ubuntu](https://github.com/SimonWoodtli/workspace-ubuntu) - ⛔ Deprecated (6 days ago)
+* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (4 hours ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (5 days ago)
+* [SimonWoodtli/bitburner](https://github.com/SimonWoodtli/bitburner) - 🤖 automation scripts (6 days ago)
+* [SimonWoodtli/workspace-ubuntu](https://github.com/SimonWoodtli/workspace-ubuntu) - ⛔ Deprecated (7 days ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (3 months ago)
-* [SimonWoodtli/lab](https://github.com/SimonWoodtli/lab) - null (4 months ago)
 
 </details>
 <details>
@@ -155,18 +155,19 @@ Seeking a profile page that creates content automatically?
 * [essembeh/gnome-extensions-cli](https://github.com/essembeh/gnome-extensions-cli) - Command line tool to manage your Gnome Shell extensions (4 months ago)
 * [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (4 months ago)
 * [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. (5 months ago)
-* [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets (5 months ago)
+* [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets (6 months ago)
 
 </details>
 <details>
   <summary><b>💬 My most used language per repos</b></summary>
 
 ```
-• Shell                          11 repos                       ████████████████░░░░░░░░░   64.71%
-• JavaScript                     1 repo                         █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
-• CSS                            3 repos                        ████░░░░░░░░░░░░░░░░░░░░░   17.65%
-• Nix                            1 repo                         █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
-• HTML                           1 repo                         █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
+• Shell                          11 repos                       ███████████████░░░░░░░░░░   61.11%
+• Dockerfile                     1 repo                         █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
+• JavaScript                     1 repo                         █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
+• CSS                            3 repos                        ████░░░░░░░░░░░░░░░░░░░░░   16.67%
+• Nix                            1 repo                         █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
+• HTML                           1 repo                         █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
 ```
 
 </details>
@@ -174,13 +175,13 @@ Seeking a profile page that creates content automatically?
   <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         152 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.42%
-• Tuesday                        192 commits                    █████░░░░░░░░░░░░░░░░░░░░   18.22%
-• Wednesday                      155 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.71%
-• Thursday                       140 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.28%
-• Friday                         162 commits                    ████░░░░░░░░░░░░░░░░░░░░░   15.37%
-• Saturday                       95 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   9.01%
-• Sunday                         158 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.99%
+• Monday                         152 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.04%
+• Tuesday                        189 commits                    ████░░░░░░░░░░░░░░░░░░░░░   17.45%
+• Wednesday                      187 commits                    ████░░░░░░░░░░░░░░░░░░░░░   17.27%
+• Thursday                       140 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   12.93%
+• Friday                         162 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.96%
+• Saturday                       95 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   8.77%
+• Sunday                         158 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.59%
 ```
 
 </details>
@@ -188,10 +189,10 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     340 commits                    ████████░░░░░░░░░░░░░░░░░   32.26%
-• 🌞 Daytime                     299 commits                    ███████░░░░░░░░░░░░░░░░░░   28.37%
+• 🌅 Morning                     359 commits                    ████████░░░░░░░░░░░░░░░░░   33.15%
+• 🌞 Daytime                     297 commits                    ███████░░░░░░░░░░░░░░░░░░   27.42%
 • 🌇 Evening                     3 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28%
-• 🌃 Night                       412 commits                    ██████████░░░░░░░░░░░░░░░   39.09%
+• 🌃 Night                       424 commits                    ██████████░░░░░░░░░░░░░░░   39.15%
 ```
 
 </details>
