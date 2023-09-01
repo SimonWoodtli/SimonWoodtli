@@ -63,37 +63,40 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• YAML                           4 hrs 26 mins                  █████████████████░░░░░░░░   68.63%
-• Markdown                       1 hr 9 mins                    ████░░░░░░░░░░░░░░░░░░░░░   17.96%
-• Bash                           35 mins                        ██░░░░░░░░░░░░░░░░░░░░░░░   9.27%
-• JSON                           8 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2.09%
-• Assembly                       7 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2.04%
-• Ezhil                          0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+• YAML                           5 hrs 47 mins                  ████████████████░░░░░░░░░   63.35%
+• Bash                           2 hrs 16 mins                  ██████░░░░░░░░░░░░░░░░░░░   24.96%
+• Markdown                       31 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   5.81%
+• ActionScript                   17 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.18%
+• JSON                           8 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.48%
+• Assembly                       5 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1%
+• Other                          0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
+• Docker                         0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• Unknown Project                4 hrs 31 mins                  █████████████████░░░░░░░░   68.07%
-• workspace-toolbox              54 mins                        ███░░░░░░░░░░░░░░░░░░░░░░   13.65%
-• workspace-ubuntu               23 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   5.91%
-• Private                        17 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   4.46%
-• cloud-os                       10 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.52%
-• dotfiles                       9 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2.49%
-• workspace-alpine               7 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2%
-• bitburner                      3 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9%
+• Unknown Project                4 hrs 56 mins                  █████████████░░░░░░░░░░░░   53.07%
+• workspace-alpine               2 hrs 22 mins                  ██████░░░░░░░░░░░░░░░░░░░   25.4%
+• dotfiles                       54 mins                        ██░░░░░░░░░░░░░░░░░░░░░░░   9.75%
+• workspace-ubuntu               24 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   4.36%
+• Private                        15 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.75%
+• readme-writer                  12 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.18%
+• cloud-os                       10 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.89%
+• workspace-toolbox              1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32%
+• zet                            1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            6 hrs 27 mins                  █████████████████████████   100%
+• Vim                            9 hrs 8 mins                   █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          6 hrs 27 mins                  █████████████████████████   100%
+• Linux                          9 hrs 8 mins                   █████████████████████████   100%
 ```
 
 </details>
@@ -111,21 +114,21 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (4 hours ago)
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (5 days ago)
-* [SimonWoodtli/bitburner](https://github.com/SimonWoodtli/bitburner) - 🤖 automation scripts (6 days ago)
-* [SimonWoodtli/workspace-ubuntu](https://github.com/SimonWoodtli/workspace-ubuntu) - ⛔ Deprecated (7 days ago)
-* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (3 months ago)
+* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (1 hours ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 hours ago)
+* [SimonWoodtli/bitburner](https://github.com/SimonWoodtli/bitburner) - 🤖 automation scripts (7 days ago)
+* [SimonWoodtli/workspace-ubuntu](https://github.com/SimonWoodtli/workspace-ubuntu) - ⛔ Deprecated (1 week ago)
+* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (4 months ago)
 
 </details>
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (4 hours ago)
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (5 days ago)
-* [SimonWoodtli/bitburner](https://github.com/SimonWoodtli/bitburner) - 🤖 automation scripts (6 days ago)
-* [SimonWoodtli/workspace-ubuntu](https://github.com/SimonWoodtli/workspace-ubuntu) - ⛔ Deprecated (7 days ago)
-* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (3 months ago)
+* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (1 hours ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 hours ago)
+* [SimonWoodtli/bitburner](https://github.com/SimonWoodtli/bitburner) - 🤖 automation scripts (7 days ago)
+* [SimonWoodtli/workspace-ubuntu](https://github.com/SimonWoodtli/workspace-ubuntu) - ⛔ Deprecated (1 week ago)
+* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (4 months ago)
 
 </details>
 <details>
@@ -142,7 +145,7 @@ Seeking a profile page that creates content automatically?
   <summary><b>📝 My recent zet notes</b></summary>
 
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/d442487a83af583abd23719912a1c1f7496cff33/20230620172505) - Chinese Keyboard Input on Android: Trime IME (2 months ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/3d9625f8bc632c595fa8b28b6f6f09026dd9eec2/20230418171555) - rpm-ostree - cheatsheet (4 months ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/3d9625f8bc632c595fa8b28b6f6f09026dd9eec2/20230418171555) - rpm-ostree - cheatsheet (5 months ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/ac39e3c3413746ceaca835b27435b1307b8ece5a/20230405141750) - calcurse - cheatsheet (5 months ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/048ec158f111c6e045c75a30f62ef4ab1aee72f4/20230402010650) - Termux Setup (5 months ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/922c07ce713a428d56ac4af1b8c8572533e26066/20230317140539) - Install and Setup `mutt` (6 months ago)
@@ -175,13 +178,13 @@ Seeking a profile page that creates content automatically?
   <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         152 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.04%
-• Tuesday                        189 commits                    ████░░░░░░░░░░░░░░░░░░░░░   17.45%
-• Wednesday                      187 commits                    ████░░░░░░░░░░░░░░░░░░░░░   17.27%
-• Thursday                       140 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   12.93%
-• Friday                         162 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.96%
-• Saturday                       95 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   8.77%
-• Sunday                         158 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.59%
+• Monday                         152 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.89%
+• Tuesday                        189 commits                    ████░░░░░░░░░░░░░░░░░░░░░   17.28%
+• Wednesday                      187 commits                    ████░░░░░░░░░░░░░░░░░░░░░   17.09%
+• Thursday                       140 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   12.80%
+• Friday                         162 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.81%
+• Saturday                       95 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   8.68%
+• Sunday                         169 commits                    ████░░░░░░░░░░░░░░░░░░░░░   15.45%
 ```
 
 </details>
@@ -189,10 +192,10 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     359 commits                    ████████░░░░░░░░░░░░░░░░░   33.15%
-• 🌞 Daytime                     297 commits                    ███████░░░░░░░░░░░░░░░░░░   27.42%
-• 🌇 Evening                     3 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28%
-• 🌃 Night                       424 commits                    ██████████░░░░░░░░░░░░░░░   39.15%
+• 🌅 Morning                     370 commits                    ████████░░░░░░░░░░░░░░░░░   33.82%
+• 🌞 Daytime                     297 commits                    ███████░░░░░░░░░░░░░░░░░░   27.15%
+• 🌇 Evening                     3 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27%
+• 🌃 Night                       424 commits                    ██████████░░░░░░░░░░░░░░░   38.76%
 ```
 
 </details>
