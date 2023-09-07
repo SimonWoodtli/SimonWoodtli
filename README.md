@@ -117,30 +117,30 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (22 hours ago)
-* [SimonWoodtli/wallpapers](https://github.com/SimonWoodtli/wallpapers) - 🖼️  My wallpapers (2 days ago)
-* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (3 days ago)
-* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (3 days ago)
-* [SimonWoodtli/rdrview](https://github.com/SimonWoodtli/rdrview) - 🐋 rdrview docker bin (3 days ago)
-* [SimonWoodtli/neo](https://github.com/SimonWoodtli/neo) - 🐋 neo matrix docker bin (4 days ago)
+* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (5 hours ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (8 hours ago)
+* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (20 hours ago)
+* [SimonWoodtli/wallpapers](https://github.com/SimonWoodtli/wallpapers) - 🖼️  My wallpapers (3 days ago)
+* [SimonWoodtli/rdrview](https://github.com/SimonWoodtli/rdrview) - 🐋 rdrview docker bin (4 days ago)
+* [SimonWoodtli/neo](https://github.com/SimonWoodtli/neo) - 🐋 neo matrix docker bin (5 days ago)
 
 </details>
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (22 hours ago)
-* [SimonWoodtli/wallpapers](https://github.com/SimonWoodtli/wallpapers) - 🖼️  My wallpapers (2 days ago)
-* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (3 days ago)
-* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (3 days ago)
-* [SimonWoodtli/rdrview](https://github.com/SimonWoodtli/rdrview) - 🐋 rdrview docker bin (3 days ago)
-* [SimonWoodtli/neo](https://github.com/SimonWoodtli/neo) - 🐋 neo matrix docker bin (4 days ago)
+* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (5 hours ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (8 hours ago)
+* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (20 hours ago)
+* [SimonWoodtli/wallpapers](https://github.com/SimonWoodtli/wallpapers) - 🖼️  My wallpapers (3 days ago)
+* [SimonWoodtli/rdrview](https://github.com/SimonWoodtli/rdrview) - 🐋 rdrview docker bin (4 days ago)
+* [SimonWoodtli/neo](https://github.com/SimonWoodtli/neo) - 🐋 neo matrix docker bin (5 days ago)
 
 </details>
 <details>
   <summary><b>🔨 My recent pull requests</b></summary>
 
 * [feat: add wireguard-generate-keys script](https://github.com/SimonWoodtli/dotfiles-old/pull/14) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (11 months ago)
-* [feat: add video-to-gif script](https://github.com/SimonWoodtli/dotfiles-old/pull/13) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (11 months ago)
+* [feat: add video-to-gif script](https://github.com/SimonWoodtli/dotfiles-old/pull/13) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (12 months ago)
 * [feat: add spoof-mac-linux script](https://github.com/SimonWoodtli/dotfiles-old/pull/12) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (12 months ago)
 * [feat: add sp-tmux script](https://github.com/SimonWoodtli/dotfiles-old/pull/11) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (12 months ago)
 * [feat: add sp script](https://github.com/SimonWoodtli/dotfiles-old/pull/10) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (12 months ago)
@@ -161,7 +161,7 @@ Seeking a profile page that creates content automatically?
 
 * [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer. (4 months ago)
 * [essembeh/gnome-extensions-cli](https://github.com/essembeh/gnome-extensions-cli) - Command line tool to manage your Gnome Shell extensions (4 months ago)
-* [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (4 months ago)
+* [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (5 months ago)
 * [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. (5 months ago)
 * [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets (6 months ago)
 
@@ -183,13 +183,13 @@ Seeking a profile page that creates content automatically?
   <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         151 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.30%
-• Tuesday                        191 commits                    ████░░░░░░░░░░░░░░░░░░░░░   16.83%
-• Wednesday                      187 commits                    ████░░░░░░░░░░░░░░░░░░░░░   16.48%
-• Thursday                       156 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.74%
-• Friday                         183 commits                    ████░░░░░░░░░░░░░░░░░░░░░   16.12%
+• Monday                         151 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.29%
+• Tuesday                        181 commits                    ████░░░░░░░░░░░░░░░░░░░░░   15.93%
+• Wednesday                      198 commits                    ████░░░░░░░░░░░░░░░░░░░░░   17.43%
+• Thursday                       156 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.73%
+• Friday                         183 commits                    ████░░░░░░░░░░░░░░░░░░░░░   16.11%
 • Saturday                       98 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   8.63%
-• Sunday                         169 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.89%
+• Sunday                         169 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.88%
 ```
 
 </details>
@@ -197,10 +197,10 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     394 commits                    █████████░░░░░░░░░░░░░░░░   34.71%
-• 🌞 Daytime                     297 commits                    ███████░░░░░░░░░░░░░░░░░░   26.17%
+• 🌅 Morning                     400 commits                    █████████░░░░░░░░░░░░░░░░   35.21%
+• 🌞 Daytime                     289 commits                    ██████░░░░░░░░░░░░░░░░░░░   25.44%
 • 🌇 Evening                     3 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26%
-• 🌃 Night                       441 commits                    ██████████░░░░░░░░░░░░░░░   38.85%
+• 🌃 Night                       444 commits                    ██████████░░░░░░░░░░░░░░░   39.08%
 ```
 
 </details>
