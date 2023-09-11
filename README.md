@@ -63,43 +63,38 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• Bash                           2 hrs                          ████████████░░░░░░░░░░░░░   48.02%
-• Markdown                       59 mins                        ██████░░░░░░░░░░░░░░░░░░░   23.58%
-• YAML                           28 mins                        ███░░░░░░░░░░░░░░░░░░░░░░   11.26%
-• ActionScript                   19 mins                        ██░░░░░░░░░░░░░░░░░░░░░░░   7.76%
-• Ezhil                          17 mins                        ██░░░░░░░░░░░░░░░░░░░░░░░   6.83%
-• Assembly                       2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.95%
-• GDScript                       2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.86%
-• Prolog                         1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.41%
-• INI                            0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
+• Markdown                       37 mins                        █████████░░░░░░░░░░░░░░░░   34.42%
+• Bash                           36 mins                        ████████░░░░░░░░░░░░░░░░░   33.88%
+• Ezhil                          17 mins                        ████░░░░░░░░░░░░░░░░░░░░░   15.8%
+• ActionScript                   10 mins                        ███░░░░░░░░░░░░░░░░░░░░░░   10.01%
+• Assembly                       2 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2.2%
+• GDScript                       2 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2%
+• Prolog                         1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.94%
+• INI                            0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.75%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• dotfiles                       1 hr 18 mins                   ████████░░░░░░░░░░░░░░░░░   31.4%
-• Unknown Project                1 hr 8 mins                    ███████░░░░░░░░░░░░░░░░░░   27.29%
-• cloud-os                       30 mins                        ███░░░░░░░░░░░░░░░░░░░░░░   12.21%
-• workspace-alpine               29 mins                        ███░░░░░░░░░░░░░░░░░░░░░░   11.88%
-• zet                            23 mins                        ██░░░░░░░░░░░░░░░░░░░░░░░   9.3%
-• Private                        13 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   5.55%
-• cmd-zet                        4 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.89%
-• netdiscover                    0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
-• neo                            0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
-• vim-wakatime                   0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
+• Unknown Project                44 mins                        ██████████░░░░░░░░░░░░░░░   40.95%
+• dotfiles                       31 mins                        ███████░░░░░░░░░░░░░░░░░░   28.65%
+• zet                            14 mins                        ███░░░░░░░░░░░░░░░░░░░░░░   12.96%
+• Private                        13 mins                        ███░░░░░░░░░░░░░░░░░░░░░░   12.84%
+• cmd-zet                        4 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   4.37%
+• vim-wakatime                   0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            4 hrs 9 mins                   █████████████████████████   99.59%
-• Unknown Editor                 1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.41%
+• Vim                            1 hr 47 mins                   █████████████████████████   99.06%
+• Unknown Editor                 1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.94%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          4 hrs 10 mins                  █████████████████████████   100%
+• Linux                          1 hr 48 mins                   █████████████████████████   100%
 ```
 
 </details>
@@ -117,21 +112,21 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (3 days ago)
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (3 days ago)
-* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (3 days ago)
-* [SimonWoodtli/wallpapers](https://github.com/SimonWoodtli/wallpapers) - 🖼️  My wallpapers (6 days ago)
-* [SimonWoodtli/rdrview](https://github.com/SimonWoodtli/rdrview) - 🐋 rdrview docker bin (7 days ago)
+* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (4 days ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (4 days ago)
+* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (4 days ago)
+* [SimonWoodtli/wallpapers](https://github.com/SimonWoodtli/wallpapers) - 🖼️  My wallpapers (7 days ago)
+* [SimonWoodtli/rdrview](https://github.com/SimonWoodtli/rdrview) - 🐋 rdrview docker bin (1 week ago)
 
 </details>
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (3 days ago)
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (3 days ago)
-* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (3 days ago)
-* [SimonWoodtli/wallpapers](https://github.com/SimonWoodtli/wallpapers) - 🖼️  My wallpapers (6 days ago)
-* [SimonWoodtli/rdrview](https://github.com/SimonWoodtli/rdrview) - 🐋 rdrview docker bin (7 days ago)
+* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (4 days ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (4 days ago)
+* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (4 days ago)
+* [SimonWoodtli/wallpapers](https://github.com/SimonWoodtli/wallpapers) - 🖼️  My wallpapers (7 days ago)
+* [SimonWoodtli/rdrview](https://github.com/SimonWoodtli/rdrview) - 🐋 rdrview docker bin (1 week ago)
 
 </details>
 <details>
@@ -147,8 +142,8 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/5c90053d8e9e429e7f6f68f557c97d080eaeb3b2/20230908235916) - Format HDDs with LUKS encryption and auto-mount (1 day ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/f4e6f009cb8f8ff44e9646977125d87dd8f845f9/20230908235236) - Linux Sysadmin: Config and other interesting file locations (1 day ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/5c90053d8e9e429e7f6f68f557c97d080eaeb3b2/20230908235916) - Format HDDs with LUKS encryption and auto-mount (2 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/f4e6f009cb8f8ff44e9646977125d87dd8f845f9/20230908235236) - Linux Sysadmin: Config and other interesting file locations (2 days ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/d442487a83af583abd23719912a1c1f7496cff33/20230620172505) - Chinese Keyboard Input on Android: Trime IME (3 months ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/3d9625f8bc632c595fa8b28b6f6f09026dd9eec2/20230418171555) - rpm-ostree - cheatsheet (5 months ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/ac39e3c3413746ceaca835b27435b1307b8ece5a/20230405141750) - calcurse - cheatsheet (5 months ago)
@@ -181,13 +176,13 @@ Seeking a profile page that creates content automatically?
   <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         151 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.39%
-• Tuesday                        181 commits                    ████░░░░░░░░░░░░░░░░░░░░░   16.05%
-• Wednesday                      195 commits                    ████░░░░░░░░░░░░░░░░░░░░░   17.29%
-• Thursday                       156 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.83%
-• Friday                         182 commits                    ████░░░░░░░░░░░░░░░░░░░░░   16.13%
-• Saturday                       98 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   8.69%
-• Sunday                         165 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.63%
+• Monday                         151 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.46%
+• Tuesday                        181 commits                    ████░░░░░░░░░░░░░░░░░░░░░   16.13%
+• Wednesday                      195 commits                    ████░░░░░░░░░░░░░░░░░░░░░   17.38%
+• Thursday                       150 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.37%
+• Friday                         182 commits                    ████░░░░░░░░░░░░░░░░░░░░░   16.22%
+• Saturday                       98 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   8.73%
+• Sunday                         165 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.71%
 ```
 
 </details>
@@ -195,10 +190,10 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     398 commits                    █████████░░░░░░░░░░░░░░░░   35.28%
-• 🌞 Daytime                     285 commits                    ██████░░░░░░░░░░░░░░░░░░░   25.27%
+• 🌅 Morning                     394 commits                    █████████░░░░░░░░░░░░░░░░   35.12%
+• 🌞 Daytime                     283 commits                    ██████░░░░░░░░░░░░░░░░░░░   25.22%
 • 🌇 Evening                     3 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27%
-• 🌃 Night                       442 commits                    ██████████░░░░░░░░░░░░░░░   39.18%
+• 🌃 Night                       442 commits                    ██████████░░░░░░░░░░░░░░░   39.39%
 ```
 
 </details>
