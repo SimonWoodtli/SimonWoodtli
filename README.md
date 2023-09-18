@@ -31,23 +31,10 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🧰 Tech Stack</b></summary>
   <div align="center">
-
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-  ![Shell](https://img.shields.io/badge/-Bash-333333?style=flat&logo=shell)&nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
-  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)&nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)&nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
-  ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=github)&nbsp;
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)&nbsp;
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)&nbsp;
-  ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim)&nbsp;
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)&nbsp;
+  <a href="https://skillicons.dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=js,html,css,bash,python,go,postgresql,docker,vim,linux" alt="JavaScript, HTML, CSS, Bash, Python, Go, PostgreSQL, Docker, Vim,
+  Linux">
+  </a>
   </div>
 </details>
 
@@ -106,32 +93,32 @@ Seeking a profile page that creates content automatically?
 
 <details>
   <summary><b>📈 GitHub Stats</b></summary>
-  <div align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img
-  src="https://github-readme-stats.vercel.app/api?username=simonwoodtli&show_icons=true&locale=en&theme=gruvbox"
-  align="center" width="40%" height="20%"/></a>
-  <a href="https://github-readme-streak-stats.herokuapp.com/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=simonwoodtli&theme=gruvbox"
-  align="center" width="40%" height="20%"/></a>
+  <div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=simonwoodtli&theme=onedark&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117%22%20alt=%22Github%20stats" alt="Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonwoodtli&layout=compact&theme=onedark&count_private=true&hide_border=true&bg_color=0d1117" alt="Top Langs">
+  </a>
   </div>
 </details>
 
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/neo](https://github.com/SimonWoodtli/neo) - 🐋 neo matrix docker bin (2 days ago)
-* [SimonWoodtli/rdrview](https://github.com/SimonWoodtli/rdrview) - 🐋 rdrview docker bin (2 days ago)
-* [SimonWoodtli/netdiscover](https://github.com/SimonWoodtli/netdiscover) - 🐋 netdiscover docker bin (2 days ago)
-* [SimonWoodtli/fsmark](https://github.com/SimonWoodtli/fsmark) - 🐋 fsmark docker bin (2 days ago)
-* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (2 days ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (17 hours ago)
+* [SimonWoodtli/neo](https://github.com/SimonWoodtli/neo) - 🐋 neo matrix docker bin (3 days ago)
+* [SimonWoodtli/rdrview](https://github.com/SimonWoodtli/rdrview) - 🐋 rdrview docker bin (3 days ago)
+* [SimonWoodtli/netdiscover](https://github.com/SimonWoodtli/netdiscover) - 🐋 netdiscover docker bin (3 days ago)
+* [SimonWoodtli/fsmark](https://github.com/SimonWoodtli/fsmark) - 🐋 fsmark docker bin (3 days ago)
 
 </details>
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/neo](https://github.com/SimonWoodtli/neo) - 🐋 neo matrix docker bin (2 days ago)
-* [SimonWoodtli/rdrview](https://github.com/SimonWoodtli/rdrview) - 🐋 rdrview docker bin (2 days ago)
-* [SimonWoodtli/netdiscover](https://github.com/SimonWoodtli/netdiscover) - 🐋 netdiscover docker bin (2 days ago)
-* [SimonWoodtli/fsmark](https://github.com/SimonWoodtli/fsmark) - 🐋 fsmark docker bin (2 days ago)
-* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (2 days ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (17 hours ago)
+* [SimonWoodtli/neo](https://github.com/SimonWoodtli/neo) - 🐋 neo matrix docker bin (3 days ago)
+* [SimonWoodtli/rdrview](https://github.com/SimonWoodtli/rdrview) - 🐋 rdrview docker bin (3 days ago)
+* [SimonWoodtli/netdiscover](https://github.com/SimonWoodtli/netdiscover) - 🐋 netdiscover docker bin (3 days ago)
+* [SimonWoodtli/fsmark](https://github.com/SimonWoodtli/fsmark) - 🐋 fsmark docker bin (3 days ago)
 
 </details>
 <details>
@@ -157,11 +144,11 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>⭐ My recent stars</b></summary>
 
-* [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel (2 days ago)
+* [SpotX-CLI/SpotX-Linux](https://github.com/SpotX-CLI/SpotX-Linux) - Spotify Ad blocker based on SpotX for Linux (5 hours ago)
+* [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel (3 days ago)
 * [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer. (5 months ago)
 * [essembeh/gnome-extensions-cli](https://github.com/essembeh/gnome-extensions-cli) - Command line tool to manage your Gnome Shell extensions (5 months ago)
 * [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (5 months ago)
-* [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. (6 months ago)
 
 </details>
 <details>
@@ -181,13 +168,13 @@ Seeking a profile page that creates content automatically?
   <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         149 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.13%
-• Tuesday                        183 commits                    ████░░░░░░░░░░░░░░░░░░░░░   16.12%
-• Wednesday                      194 commits                    ████░░░░░░░░░░░░░░░░░░░░░   17.09%
-• Thursday                       149 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.13%
-• Friday                         200 commits                    ████░░░░░░░░░░░░░░░░░░░░░   17.62%
-• Saturday                       97 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   8.55%
-• Sunday                         163 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.36%
+• Monday                         151 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.34%
+• Tuesday                        183 commits                    ████░░░░░░░░░░░░░░░░░░░░░   16.17%
+• Wednesday                      194 commits                    ████░░░░░░░░░░░░░░░░░░░░░   17.14%
+• Thursday                       149 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.16%
+• Friday                         200 commits                    ████░░░░░░░░░░░░░░░░░░░░░   17.67%
+• Saturday                       92 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   8.13%
+• Sunday                         163 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.40%
 ```
 
 </details>
@@ -195,10 +182,10 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     393 commits                    █████████░░░░░░░░░░░░░░░░   34.63%
-• 🌞 Daytime                     277 commits                    ██████░░░░░░░░░░░░░░░░░░░   24.41%
-• 🌇 Evening                     3 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26%
-• 🌃 Night                       462 commits                    ██████████░░░░░░░░░░░░░░░   40.70%
+• 🌅 Morning                     394 commits                    █████████░░░░░░░░░░░░░░░░   34.81%
+• 🌞 Daytime                     275 commits                    ██████░░░░░░░░░░░░░░░░░░░   24.29%
+• 🌇 Evening                     3 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27%
+• 🌃 Night                       460 commits                    ██████████░░░░░░░░░░░░░░░   40.64%
 ```
 
 </details>
