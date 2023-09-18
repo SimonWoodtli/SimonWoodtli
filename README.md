@@ -95,7 +95,7 @@ Seeking a profile page that creates content automatically?
   <summary><b>📈 GitHub Stats</b></summary>
   <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=simonwoodtli&theme=onedark&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117%22%20alt=%22Github%20stats" alt="Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=simonwoodtli&theme=onedark&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117" alt="Github Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonwoodtli&layout=compact&theme=onedark&count_private=true&hide_border=true&bg_color=0d1117" alt="Top Langs">
   </a>
   </div>
@@ -104,7 +104,7 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (17 hours ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (18 hours ago)
 * [SimonWoodtli/neo](https://github.com/SimonWoodtli/neo) - 🐋 neo matrix docker bin (3 days ago)
 * [SimonWoodtli/rdrview](https://github.com/SimonWoodtli/rdrview) - 🐋 rdrview docker bin (3 days ago)
 * [SimonWoodtli/netdiscover](https://github.com/SimonWoodtli/netdiscover) - 🐋 netdiscover docker bin (3 days ago)
@@ -114,7 +114,7 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (17 hours ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (18 hours ago)
 * [SimonWoodtli/neo](https://github.com/SimonWoodtli/neo) - 🐋 neo matrix docker bin (3 days ago)
 * [SimonWoodtli/rdrview](https://github.com/SimonWoodtli/rdrview) - 🐋 rdrview docker bin (3 days ago)
 * [SimonWoodtli/netdiscover](https://github.com/SimonWoodtli/netdiscover) - 🐋 netdiscover docker bin (3 days ago)
@@ -144,7 +144,7 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>⭐ My recent stars</b></summary>
 
-* [SpotX-CLI/SpotX-Linux](https://github.com/SpotX-CLI/SpotX-Linux) - Spotify Ad blocker based on SpotX for Linux (5 hours ago)
+* [SpotX-CLI/SpotX-Linux](https://github.com/SpotX-CLI/SpotX-Linux) - Spotify Ad blocker based on SpotX for Linux (6 hours ago)
 * [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel (3 days ago)
 * [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer. (5 months ago)
 * [essembeh/gnome-extensions-cli](https://github.com/essembeh/gnome-extensions-cli) - Command line tool to manage your Gnome Shell extensions (5 months ago)
@@ -168,13 +168,13 @@ Seeking a profile page that creates content automatically?
   <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         151 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.34%
-• Tuesday                        183 commits                    ████░░░░░░░░░░░░░░░░░░░░░   16.17%
-• Wednesday                      194 commits                    ████░░░░░░░░░░░░░░░░░░░░░   17.14%
-• Thursday                       149 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.16%
-• Friday                         200 commits                    ████░░░░░░░░░░░░░░░░░░░░░   17.67%
-• Saturday                       92 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   8.13%
-• Sunday                         163 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.40%
+• Monday                         152 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.42%
+• Tuesday                        183 commits                    ████░░░░░░░░░░░░░░░░░░░░░   16.15%
+• Wednesday                      194 commits                    ████░░░░░░░░░░░░░░░░░░░░░   17.12%
+• Thursday                       149 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.15%
+• Friday                         200 commits                    ████░░░░░░░░░░░░░░░░░░░░░   17.65%
+• Saturday                       92 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   8.12%
+• Sunday                         163 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.39%
 ```
 
 </details>
@@ -182,10 +182,10 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     394 commits                    █████████░░░░░░░░░░░░░░░░   34.81%
-• 🌞 Daytime                     275 commits                    ██████░░░░░░░░░░░░░░░░░░░   24.29%
-• 🌇 Evening                     3 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27%
-• 🌃 Night                       460 commits                    ██████████░░░░░░░░░░░░░░░   40.64%
+• 🌅 Morning                     395 commits                    █████████░░░░░░░░░░░░░░░░   34.86%
+• 🌞 Daytime                     275 commits                    ██████░░░░░░░░░░░░░░░░░░░   24.27%
+• 🌇 Evening                     3 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26%
+• 🌃 Night                       460 commits                    ██████████░░░░░░░░░░░░░░░   40.60%
 ```
 
 </details>
