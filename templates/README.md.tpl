@@ -31,23 +31,10 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🧰 Tech Stack</b></summary>
   <div align="center">
-
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-  ![Shell](https://img.shields.io/badge/-Bash-333333?style=flat&logo=shell)&nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
-  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)&nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)&nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
-  ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=github)&nbsp;
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)&nbsp;
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)&nbsp;
-  ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim)&nbsp;
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)&nbsp;
+  <a href="https://skillicons.dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=js,html,css,bash,python,go,postgresql,docker,vim,linux" alt="JavaScript, HTML, CSS, Bash, Python, Go, PostgreSQL, Docker, Vim,
+  Linux">
+  </a>
   </div>
 </details>
 
@@ -84,11 +71,11 @@ Seeking a profile page that creates content automatically?
 
 <details>
   <summary><b>📈 GitHub Stats</b></summary>
-  <div align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img
-  src="https://github-readme-stats.vercel.app/api?username=simonwoodtli&show_icons=true&locale=en&theme=gruvbox"
-  align="center" width="40%" height="20%"/></a>
-  <a href="https://github-readme-streak-stats.herokuapp.com/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=simonwoodtli&theme=gruvbox"
-  align="center" width="40%" height="20%"/></a>
+  <div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=simonwoodtli&theme=onedark&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117%22%20alt=%22Github%20stats" alt="Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonwoodtli&layout=compact&theme=onedark&count_private=true&hide_border=true&bg_color=0d1117" alt="Top Langs">
+  </a>
   </div>
 </details>
 
