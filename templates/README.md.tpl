@@ -73,7 +73,7 @@ Seeking a profile page that creates content automatically?
   <summary><b>📈 GitHub Stats</b></summary>
   <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=simonwoodtli&theme=onedark&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117%22%20alt=%22Github%20stats" alt="Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=simonwoodtli&theme=onedark&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117" alt="Github Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonwoodtli&layout=compact&theme=onedark&count_private=true&hide_border=true&bg_color=0d1117" alt="Top Langs">
   </a>
   </div>
