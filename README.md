@@ -50,19 +50,17 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• Prolog                         2 hrs 19 mins                  ███████░░░░░░░░░░░░░░░░░░   28.84%
-• Markdown                       2 hrs 19 mins                  ███████░░░░░░░░░░░░░░░░░░   28.76%
-• Bash                           1 hr 31 mins                   █████░░░░░░░░░░░░░░░░░░░░   18.92%
-• Smarty                         28 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   5.79%
-• Assembly                       24 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   5.14%
-• YAML                           17 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.53%
-• Text                           13 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.74%
-• TSQL                           9 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.97%
-• JSON                           7 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.61%
-• Objective-C                    4 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.86%
-• C                              3 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8%
-• Ezhil                          2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5%
-• Other                          1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35%
+• Prolog                         2 hrs 19 mins                  ███████░░░░░░░░░░░░░░░░░░   29.88%
+• Markdown                       2 hrs 17 mins                  ███████░░░░░░░░░░░░░░░░░░   29.4%
+• Bash                           1 hr 31 mins                   █████░░░░░░░░░░░░░░░░░░░░   19.54%
+• Smarty                         28 mins                        ██░░░░░░░░░░░░░░░░░░░░░░░   6%
+• Assembly                       24 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   5.32%
+• YAML                           17 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.66%
+• Text                           13 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.84%
+• JSON                           7 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.67%
+• Objective-C                    2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.6%
+• Ezhil                          2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52%
+• Other                          1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36%
 • GDScript                       0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18%
 • ActionScript                   0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 ```
@@ -70,28 +68,28 @@ Seeking a profile page that creates content automatically?
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• Private                        3 hrs 17 mins                  ██████████░░░░░░░░░░░░░░░   40.68%
-• Unknown Project                1 hr 22 mins                   ████░░░░░░░░░░░░░░░░░░░░░   17.02%
-• fsmark                         58 mins                        ███░░░░░░░░░░░░░░░░░░░░░░   12.02%
-• zet                            54 mins                        ███░░░░░░░░░░░░░░░░░░░░░░   11.14%
-• dotfiles                       44 mins                        ██░░░░░░░░░░░░░░░░░░░░░░░   9.22%
-• SimonWoodtli                   28 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   5.87%
-• cloud-os                       10 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.25%
-• rdrview                        4 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9%
-• netdiscover                    2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.57%
-• workspace-alpine               1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34%
+• Private                        3 hrs 17 mins                  ███████████░░░░░░░░░░░░░░   42.14%
+• Unknown Project                1 hr 9 mins                    ████░░░░░░░░░░░░░░░░░░░░░   14.81%
+• fsmark                         58 mins                        ███░░░░░░░░░░░░░░░░░░░░░░   12.45%
+• zet                            53 mins                        ███░░░░░░░░░░░░░░░░░░░░░░   11.44%
+• dotfiles                       41 mins                        ██░░░░░░░░░░░░░░░░░░░░░░░   8.87%
+• SimonWoodtli                   28 mins                        ██░░░░░░░░░░░░░░░░░░░░░░░   6.08%
+• cloud-os                       10 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.33%
+• rdrview                        4 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.93%
+• netdiscover                    2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59%
+• workspace-alpine               1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            8 hrs 5 mins                   █████████████████████████   100%
+• Vim                            7 hrs 48 mins                  █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          8 hrs 5 mins                   █████████████████████████   100%
+• Linux                          7 hrs 48 mins                  █████████████████████████   100%
 ```
 
 </details>
@@ -109,21 +107,21 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 day ago)
-* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (3 days ago)
-* [SimonWoodtli/neo](https://github.com/SimonWoodtli/neo) - 🐋 neo matrix docker bin (6 days ago)
-* [SimonWoodtli/rdrview](https://github.com/SimonWoodtli/rdrview) - 🐋 rdrview docker bin (6 days ago)
-* [SimonWoodtli/netdiscover](https://github.com/SimonWoodtli/netdiscover) - 🐋 netdiscover docker bin (6 days ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (2 days ago)
+* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (4 days ago)
+* [SimonWoodtli/neo](https://github.com/SimonWoodtli/neo) - 🐋 neo matrix docker bin (7 days ago)
+* [SimonWoodtli/rdrview](https://github.com/SimonWoodtli/rdrview) - 🐋 rdrview docker bin (7 days ago)
+* [SimonWoodtli/netdiscover](https://github.com/SimonWoodtli/netdiscover) - 🐋 netdiscover docker bin (7 days ago)
 
 </details>
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 day ago)
-* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (3 days ago)
-* [SimonWoodtli/neo](https://github.com/SimonWoodtli/neo) - 🐋 neo matrix docker bin (6 days ago)
-* [SimonWoodtli/rdrview](https://github.com/SimonWoodtli/rdrview) - 🐋 rdrview docker bin (6 days ago)
-* [SimonWoodtli/netdiscover](https://github.com/SimonWoodtli/netdiscover) - 🐋 netdiscover docker bin (6 days ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (2 days ago)
+* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (4 days ago)
+* [SimonWoodtli/neo](https://github.com/SimonWoodtli/neo) - 🐋 neo matrix docker bin (7 days ago)
+* [SimonWoodtli/rdrview](https://github.com/SimonWoodtli/rdrview) - 🐋 rdrview docker bin (7 days ago)
+* [SimonWoodtli/netdiscover](https://github.com/SimonWoodtli/netdiscover) - 🐋 netdiscover docker bin (7 days ago)
 
 </details>
 <details>
@@ -149,9 +147,9 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>⭐ My recent stars</b></summary>
 
-* [NetworkBlockDevice/nbd](https://github.com/NetworkBlockDevice/nbd) - Network Block Device (1 day ago)
-* [SpotX-CLI/SpotX-Linux](https://github.com/SpotX-CLI/SpotX-Linux) - Spotify Ad blocker based on SpotX for Linux (3 days ago)
-* [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel (6 days ago)
+* [NetworkBlockDevice/nbd](https://github.com/NetworkBlockDevice/nbd) - Network Block Device (2 days ago)
+* [SpotX-CLI/SpotX-Linux](https://github.com/SpotX-CLI/SpotX-Linux) - Spotify Ad blocker based on SpotX for Linux (4 days ago)
+* [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel (7 days ago)
 * [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer. (5 months ago)
 * [essembeh/gnome-extensions-cli](https://github.com/essembeh/gnome-extensions-cli) - Command line tool to manage your Gnome Shell extensions (5 months ago)
 
@@ -173,13 +171,13 @@ Seeking a profile page that creates content automatically?
   <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         149 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.19%
-• Tuesday                        185 commits                    ████░░░░░░░░░░░░░░░░░░░░░   16.37%
-• Wednesday                      192 commits                    ████░░░░░░░░░░░░░░░░░░░░░   16.99%
-• Thursday                       149 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.19%
-• Friday                         200 commits                    ████░░░░░░░░░░░░░░░░░░░░░   17.70%
-• Saturday                       92 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   8.14%
-• Sunday                         163 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.42%
+• Monday                         149 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.21%
+• Tuesday                        185 commits                    ████░░░░░░░░░░░░░░░░░░░░░   16.40%
+• Wednesday                      192 commits                    ████░░░░░░░░░░░░░░░░░░░░░   17.02%
+• Thursday                       149 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.21%
+• Friday                         200 commits                    ████░░░░░░░░░░░░░░░░░░░░░   17.73%
+• Saturday                       92 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   8.16%
+• Sunday                         161 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.27%
 ```
 
 </details>
@@ -187,10 +185,10 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     393 commits                    █████████░░░░░░░░░░░░░░░░   34.78%
-• 🌞 Daytime                     272 commits                    ██████░░░░░░░░░░░░░░░░░░░   24.07%
+• 🌅 Morning                     393 commits                    █████████░░░░░░░░░░░░░░░░   34.84%
+• 🌞 Daytime                     270 commits                    ██████░░░░░░░░░░░░░░░░░░░   23.94%
 • 🌇 Evening                     3 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27%
-• 🌃 Night                       462 commits                    ██████████░░░░░░░░░░░░░░░   40.88%
+• 🌃 Night                       462 commits                    ██████████░░░░░░░░░░░░░░░   40.96%
 ```
 
 </details>
