@@ -50,36 +50,39 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• GDScript3                      1 hr 11 mins                   ████████░░░░░░░░░░░░░░░░░   30.21%
-• SWIG                           1 hr 8 mins                    ███████░░░░░░░░░░░░░░░░░░   29.08%
-• Bash                           42 mins                        █████░░░░░░░░░░░░░░░░░░░░   18.03%
-• Markdown                       38 mins                        ████░░░░░░░░░░░░░░░░░░░░░   16.35%
-• Cheetah                        8 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   3.4%
-• ActionScript                   6 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2.7%
-• YAML                           0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
+• GDScript3                      4 hrs 57 mins                  █████████████░░░░░░░░░░░░   53.45%
+• Bash                           1 hr 50 mins                   █████░░░░░░░░░░░░░░░░░░░░   19.83%
+• SWIG                           1 hr 8 mins                    ███░░░░░░░░░░░░░░░░░░░░░░   12.34%
+• Markdown                       38 mins                        ██░░░░░░░░░░░░░░░░░░░░░░░   6.94%
+• MySQL                          23 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   4.16%
+• Cheetah                        8 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.45%
+• ActionScript                   6 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.15%
+• desktop                        1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34%
+• Vim Script                     1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26%
+• YAML                           0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• dotfiles                       2 hrs 15 mins                  ██████████████░░░░░░░░░░░   57.47%
-• Unknown Project                52 mins                        ██████░░░░░░░░░░░░░░░░░░░   22.16%
-• Private                        46 mins                        █████░░░░░░░░░░░░░░░░░░░░   19.76%
-• workspace-alpine               1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51%
-• learngo                        0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
+• dotfiles                       5 hrs 52 mins                  ████████████████░░░░░░░░░   63.32%
+• Private                        2 hrs 5 mins                   ██████░░░░░░░░░░░░░░░░░░░   22.61%
+• Unknown Project                1 hr 1 min                     ███░░░░░░░░░░░░░░░░░░░░░░   11.09%
+• workspace-alpine               16 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.93%
+• learngo                        0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            2 hrs 1 min                    █████████████░░░░░░░░░░░░   51.58%
-• Unknown Editor                 1 hr 54 mins                   ████████████░░░░░░░░░░░░░   48.42%
+• Vim                            7 hrs 22 mins                  ████████████████████░░░░░   79.45%
+• Unknown Editor                 1 hr 54 mins                   █████░░░░░░░░░░░░░░░░░░░░   20.55%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          3 hrs 56 mins                  █████████████████████████   100%
+• Linux                          9 hrs 17 mins                  █████████████████████████   100%
 ```
 
 </details>
@@ -97,9 +100,9 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (2 hours ago)
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (20 hours ago)
-* [SimonWoodtli/learngo](https://github.com/SimonWoodtli/learngo) - Learning environment for golang (2 days ago)
+* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (1 day ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 day ago)
+* [SimonWoodtli/learngo](https://github.com/SimonWoodtli/learngo) - Learning environment for golang (3 days ago)
 * [SimonWoodtli/neo](https://github.com/SimonWoodtli/neo) - 🐋 neo matrix docker bin (1 week ago)
 * [SimonWoodtli/rdrview](https://github.com/SimonWoodtli/rdrview) - 🐋 rdrview docker bin (1 week ago)
 
@@ -107,9 +110,9 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (2 hours ago)
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (20 hours ago)
-* [SimonWoodtli/learngo](https://github.com/SimonWoodtli/learngo) - Learning environment for golang (2 days ago)
+* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (1 day ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 day ago)
+* [SimonWoodtli/learngo](https://github.com/SimonWoodtli/learngo) - Learning environment for golang (3 days ago)
 * [SimonWoodtli/neo](https://github.com/SimonWoodtli/neo) - 🐋 neo matrix docker bin (1 week ago)
 * [SimonWoodtli/rdrview](https://github.com/SimonWoodtli/rdrview) - 🐋 rdrview docker bin (1 week ago)
 
