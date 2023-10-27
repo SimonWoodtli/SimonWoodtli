@@ -50,47 +50,49 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• Bash                           14 hrs 25 mins                 ███████████░░░░░░░░░░░░░░   45.57%
-• Markdown                       5 hrs 6 mins                   ████░░░░░░░░░░░░░░░░░░░░░   16.15%
-• sh                             4 hrs 22 mins                  ███░░░░░░░░░░░░░░░░░░░░░░   13.81%
-• tmux                           1 hr 49 mins                   █░░░░░░░░░░░░░░░░░░░░░░░░   5.74%
-• GDScript                       1 hr 27 mins                   █░░░░░░░░░░░░░░░░░░░░░░░░   4.63%
-• SWIG                           57 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.02%
-• Assembly                       48 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.56%
-• Objective-C                    42 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.25%
-• Other                          41 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.19%
-• ActionScript 3                 21 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.13%
-• Python                         16 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.87%
-• YAML                           16 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.84%
-• HTML                           7 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.42%
-• Ezhil                          6 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34%
-• Perl                           4 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
-• TSQL                           4 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
-• JavaScript                     0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+• Bash                           12 hrs 27 mins                 ███████████░░░░░░░░░░░░░░   43.89%
+• sh                             5 hrs 16 mins                  █████░░░░░░░░░░░░░░░░░░░░   18.58%
+• Markdown                       3 hrs 43 mins                  ███░░░░░░░░░░░░░░░░░░░░░░   13.14%
+• tmux                           1 hr 49 mins                   ██░░░░░░░░░░░░░░░░░░░░░░░   6.41%
+• GDScript                       1 hr 27 mins                   █░░░░░░░░░░░░░░░░░░░░░░░░   5.16%
+• Other                          54 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.18%
+• Objective-C                    42 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.51%
+• Assembly                       35 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.09%
+• ActionScript 3                 20 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21%
+• YAML                           18 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.07%
+• Python                         17 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.01%
+• HTML                           7 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.47%
+• Ezhil                          6 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38%
+• Perl                           5 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
+• TSQL                           4 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
+• SWIG                           3 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
+• conf                           0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
+• tags                           0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+• JavaScript                     0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+• C                              0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• dotfiles                       22 hrs 49 mins                 ██████████████████░░░░░░░   72.05%
-• Unknown Project                4 hrs 17 mins                  ███░░░░░░░░░░░░░░░░░░░░░░   13.58%
-• Private                        2 hrs 23 mins                  ██░░░░░░░░░░░░░░░░░░░░░░░   7.54%
-• foo                            1 hr 11 mins                   █░░░░░░░░░░░░░░░░░░░░░░░░   3.77%
-• cloud-os                       31 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.67%
-• workspace-alpine               18 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.96%
-• readme-writer                  8 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43%
+• dotfiles                       21 hrs 20 mins                 ███████████████████░░░░░░   75.19%
+• Unknown Project                3 hrs 55 mins                  ███░░░░░░░░░░░░░░░░░░░░░░   13.8%
+• Private                        2 hrs 11 mins                  ██░░░░░░░░░░░░░░░░░░░░░░░   7.71%
+• cloud-os                       31 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.87%
+• workspace-alpine               20 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21%
+• readme-writer                  3 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            31 hrs 40 mins                 █████████████████████████   100%
+• Vim                            28 hrs 22 mins                 █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          31 hrs 40 mins                 █████████████████████████   100%
+• Linux                          28 hrs 22 mins                 █████████████████████████   100%
 ```
 
 </details>
@@ -108,23 +110,23 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (6 hours ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (5 hours ago)
+* [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) - 🏡 My personal dotfiles (6 hours ago)
 * [SimonWoodtli/fsmark](https://github.com/SimonWoodtli/fsmark) - 🐋 fsmark docker bin (2 weeks ago)
 * [SimonWoodtli/netdiscover](https://github.com/SimonWoodtli/netdiscover) - 🐋 netdiscover docker bin (2 weeks ago)
 * [SimonWoodtli/neo](https://github.com/SimonWoodtli/neo) - 🐋 neo matrix docker bin (2 weeks ago)
 * [SimonWoodtli/rdrview](https://github.com/SimonWoodtli/rdrview) - 🐋 rdrview docker bin (2 weeks ago)
-* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (3 weeks ago)
 
 </details>
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (6 hours ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (5 hours ago)
+* [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) - 🏡 My personal dotfiles (6 hours ago)
 * [SimonWoodtli/fsmark](https://github.com/SimonWoodtli/fsmark) - 🐋 fsmark docker bin (2 weeks ago)
 * [SimonWoodtli/netdiscover](https://github.com/SimonWoodtli/netdiscover) - 🐋 netdiscover docker bin (2 weeks ago)
 * [SimonWoodtli/neo](https://github.com/SimonWoodtli/neo) - 🐋 neo matrix docker bin (2 weeks ago)
 * [SimonWoodtli/rdrview](https://github.com/SimonWoodtli/rdrview) - 🐋 rdrview docker bin (2 weeks ago)
-* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (3 weeks ago)
 
 </details>
 <details>
@@ -150,10 +152,10 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>⭐ My recent stars</b></summary>
 
-* [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md. (2 days ago)
-* [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more (3 days ago)
-* [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf :heart: vim (4 days ago)
-* [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather (4 days ago)
+* [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md. (3 days ago)
+* [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more (4 days ago)
+* [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf :heart: vim (5 days ago)
+* [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather (5 days ago)
 * [tats/w3m](https://github.com/tats/w3m) - Debian's w3m: WWW browsable pager (1 week ago)
 
 </details>
@@ -174,13 +176,13 @@ Seeking a profile page that creates content automatically?
   <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         142 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.54%
-• Tuesday                        161 commits                    ████░░░░░░░░░░░░░░░░░░░░░   15.35%
-• Wednesday                      185 commits                    ████░░░░░░░░░░░░░░░░░░░░░   17.64%
-• Thursday                       133 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   12.68%
-• Friday                         198 commits                    █████░░░░░░░░░░░░░░░░░░░░   18.88%
-• Saturday                       58 commits                     █░░░░░░░░░░░░░░░░░░░░░░░░   5.53%
-• Sunday                         172 commits                    ████░░░░░░░░░░░░░░░░░░░░░   16.40%
+• Monday                         142 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.59%
+• Tuesday                        161 commits                    ████░░░░░░░░░░░░░░░░░░░░░   15.41%
+• Wednesday                      177 commits                    ████░░░░░░░░░░░░░░░░░░░░░   16.94%
+• Thursday                       133 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   12.73%
+• Friday                         198 commits                    █████░░░░░░░░░░░░░░░░░░░░   18.95%
+• Saturday                       58 commits                     █░░░░░░░░░░░░░░░░░░░░░░░░   5.55%
+• Sunday                         176 commits                    ████░░░░░░░░░░░░░░░░░░░░░   16.84%
 ```
 
 </details>
@@ -188,10 +190,10 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     356 commits                    ████████░░░░░░░░░░░░░░░░░   33.94%
-• 🌞 Daytime                     239 commits                    ██████░░░░░░░░░░░░░░░░░░░   22.78%
+• 🌅 Morning                     360 commits                    █████████░░░░░░░░░░░░░░░░   34.45%
+• 🌞 Daytime                     234 commits                    ██████░░░░░░░░░░░░░░░░░░░   22.39%
 • 🌇 Evening                     5 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48%
-• 🌃 Night                       449 commits                    ███████████░░░░░░░░░░░░░░   42.80%
+• 🌃 Night                       446 commits                    ███████████░░░░░░░░░░░░░░   42.68%
 ```
 
 </details>
