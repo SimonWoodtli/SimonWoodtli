@@ -50,38 +50,37 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• HTML                           18 hrs 49 mins                 ████████████████░░░░░░░░░   63.19%
-• Markdown                       7 hrs 36 mins                  ██████░░░░░░░░░░░░░░░░░░░   25.54%
-• Bash                           1 hr 50 mins                   ██░░░░░░░░░░░░░░░░░░░░░░░   6.2%
-• TOML                           48 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.71%
-• Other                          17 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1%
-• sh                             11 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.67%
-• CSS                            6 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36%
-• JavaScript                     5 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
-• YAML                           0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+• HTML                           22 hrs 47 mins                 █████████████████░░░░░░░░   67.11%
+• Markdown                       7 hrs 37 mins                  ██████░░░░░░░░░░░░░░░░░░░   22.47%
+• Bash                           1 hr 50 mins                   █░░░░░░░░░░░░░░░░░░░░░░░░   5.44%
+• TOML                           1 hr 4 mins                    █░░░░░░░░░░░░░░░░░░░░░░░░   3.17%
+• Other                          17 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.87%
+• sh                             11 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59%
+• JavaScript                     6 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32%
+• XML                            0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+• CSS                            0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 • Text                           0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• simonwoodtli.com               26 hrs 1 min                   ██████████████████████░░░   87.41%
-• dotfiles                       2 hrs                          ██░░░░░░░░░░░░░░░░░░░░░░░   6.75%
-• Unknown Project                1 hr 42 mins                   █░░░░░░░░░░░░░░░░░░░░░░░░   5.72%
-• cmd-zet                        1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
-• workspace-alpine               0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+• simonwoodtli.com               30 hrs 9 mins                  ██████████████████████░░░   88.84%
+• dotfiles                       2 hrs                          █░░░░░░░░░░░░░░░░░░░░░░░░   5.92%
+• Unknown Project                1 hr 44 mins                   █░░░░░░░░░░░░░░░░░░░░░░░░   5.15%
+• cmd-zet                        1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            29 hrs 46 mins                 █████████████████████████   100%
+• Vim                            33 hrs 57 mins                 █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          29 hrs 46 mins                 █████████████████████████   100%
+• Linux                          33 hrs 57 mins                 █████████████████████████   100%
 ```
 
 </details>
@@ -99,23 +98,23 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/simonwoodtli.com](https://github.com/SimonWoodtli/simonwoodtli.com) - 👨‍💻 My personal website (1 day ago)
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 day ago)
+* [SimonWoodtli/simonwoodtli.com](https://github.com/SimonWoodtli/simonwoodtli.com) - 👨‍💻 My personal website (4 hours ago)
+* [SimonWoodtli/hugo-paginator](https://github.com/SimonWoodtli/hugo-paginator) - Hugo theme for dev bloggers (5 hours ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (2 days ago)
 * [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (2 weeks ago)
 * [SimonWoodtli/simonwoodtli.com-v2](https://github.com/SimonWoodtli/simonwoodtli.com-v2) - 🌐 My portfolio website V2 (1 month ago)
 * [SimonWoodtli/simonwoodtli.com-v1](https://github.com/SimonWoodtli/simonwoodtli.com-v1) - 🌐 My portfolio site V1 (1 month ago)
-* [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (1 month ago)
 
 </details>
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/simonwoodtli.com](https://github.com/SimonWoodtli/simonwoodtli.com) - 👨‍💻 My personal website (1 day ago)
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 day ago)
+* [SimonWoodtli/simonwoodtli.com](https://github.com/SimonWoodtli/simonwoodtli.com) - 👨‍💻 My personal website (4 hours ago)
+* [SimonWoodtli/hugo-paginator](https://github.com/SimonWoodtli/hugo-paginator) - Hugo theme for dev bloggers (5 hours ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (2 days ago)
 * [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (2 weeks ago)
 * [SimonWoodtli/simonwoodtli.com-v2](https://github.com/SimonWoodtli/simonwoodtli.com-v2) - 🌐 My portfolio website V2 (1 month ago)
 * [SimonWoodtli/simonwoodtli.com-v1](https://github.com/SimonWoodtli/simonwoodtli.com-v1) - 🌐 My portfolio site V1 (1 month ago)
-* [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (1 month ago)
 
 </details>
 <details>
@@ -159,13 +158,13 @@ Seeking a profile page that creates content automatically?
   <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         110 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.77%
-• Tuesday                        121 commits                    ████░░░░░░░░░░░░░░░░░░░░░   15.14%
-• Wednesday                      154 commits                    █████░░░░░░░░░░░░░░░░░░░░   19.27%
-• Thursday                       82 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   10.26%
-• Friday                         166 commits                    █████░░░░░░░░░░░░░░░░░░░░   20.78%
-• Saturday                       41 commits                     █░░░░░░░░░░░░░░░░░░░░░░░░   5.13%
-• Sunday                         125 commits                    ████░░░░░░░░░░░░░░░░░░░░░   15.64%
+• Monday                         110 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.61%
+• Tuesday                        123 commits                    ████░░░░░░░░░░░░░░░░░░░░░   15.22%
+• Wednesday                      154 commits                    █████░░░░░░░░░░░░░░░░░░░░   19.06%
+• Thursday                       82 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   10.15%
+• Friday                         166 commits                    █████░░░░░░░░░░░░░░░░░░░░   20.54%
+• Saturday                       41 commits                     █░░░░░░░░░░░░░░░░░░░░░░░░   5.07%
+• Sunday                         132 commits                    ████░░░░░░░░░░░░░░░░░░░░░   16.34%
 ```
 
 </details>
@@ -173,10 +172,10 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     260 commits                    ████████░░░░░░░░░░░░░░░░░   32.54%
-• 🌞 Daytime                     199 commits                    ██████░░░░░░░░░░░░░░░░░░░   24.91%
-• 🌇 Evening                     5 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.63%
-• 🌃 Night                       335 commits                    ██████████░░░░░░░░░░░░░░░   41.93%
+• 🌅 Morning                     268 commits                    ████████░░░░░░░░░░░░░░░░░   33.17%
+• 🌞 Daytime                     200 commits                    ██████░░░░░░░░░░░░░░░░░░░   24.75%
+• 🌇 Evening                     5 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.62%
+• 🌃 Night                       335 commits                    ██████████░░░░░░░░░░░░░░░   41.46%
 ```
 
 </details>
