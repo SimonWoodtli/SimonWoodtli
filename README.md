@@ -50,36 +50,33 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• HTML                           12 hrs 57 mins                 ██████████████████░░░░░░░   71.32%
-• JavaScript                     3 hrs 34 mins                  █████░░░░░░░░░░░░░░░░░░░░   19.67%
-• Markdown                       40 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.69%
-• Vim Script                     37 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.44%
-• CSS                            10 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.94%
-• conf                           4 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4%
-• sh                             3 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
-• Other                          2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
-• XML                            0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+• HTML                           12 hrs 56 mins                 ███████████████████░░░░░░   75.17%
+• JavaScript                     3 hrs 34 mins                  █████░░░░░░░░░░░░░░░░░░░░   20.77%
+• Markdown                       24 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.35%
+• CSS                            10 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.99%
+• conf                           4 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.42%
+• sh                             3 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• simonwoodtli.com               16 hrs 57 mins                 ███████████████████████░░   93.32%
-• dotfiles                       40 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.74%
-• Unknown Project                27 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.54%
-• Private                        4 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4%
+• simonwoodtli.com               16 hrs 57 mins                 █████████████████████████   98.52%
+• Unknown Project                7 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.76%
+• Private                        4 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.42%
+• dotfiles                       3 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            18 hrs 10 mins                 █████████████████████████   100%
+• Vim                            17 hrs 13 mins                 █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          18 hrs 10 mins                 █████████████████████████   100%
+• Linux                          17 hrs 13 mins                 █████████████████████████   100%
 ```
 
 </details>
@@ -97,8 +94,8 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (2 days ago)
-* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (4 days ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (3 days ago)
+* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (5 days ago)
 * [SimonWoodtli/simonwoodtli.com](https://github.com/SimonWoodtli/simonwoodtli.com) - 👨‍💻 My personal website (1 week ago)
 * [SimonWoodtli/hugo-paginator](https://github.com/SimonWoodtli/hugo-paginator) - Hugo theme for dev bloggers (2 weeks ago)
 * [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (1 month ago)
@@ -108,8 +105,8 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (2 days ago)
-* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (4 days ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (3 days ago)
+* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (5 days ago)
 * [SimonWoodtli/simonwoodtli.com](https://github.com/SimonWoodtli/simonwoodtli.com) - 👨‍💻 My personal website (1 week ago)
 * [SimonWoodtli/hugo-paginator](https://github.com/SimonWoodtli/hugo-paginator) - Hugo theme for dev bloggers (2 weeks ago)
 * [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (1 month ago)
