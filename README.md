@@ -103,27 +103,27 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (2 days ago)
-* [SimonWoodtli/simonwoodtli.com](https://github.com/SimonWoodtli/simonwoodtli.com) - 👨‍💻 My personal website (4 days ago)
+* [SimonWoodtli/simonwoodtli.com](https://github.com/SimonWoodtli/simonwoodtli.com) - 👨‍💻 My personal website (6 hours ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (3 days ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (2 weeks ago)
-* [SimonWoodtli/hugo-paginator](https://github.com/SimonWoodtli/hugo-paginator) - Hugo theme for dev bloggers (3 weeks ago)
+* [SimonWoodtli/hugo-paginator](https://github.com/SimonWoodtli/hugo-paginator) - Hugo theme for dev bloggers (1 month ago)
 * [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (1 month ago)
 
 </details>
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (2 days ago)
-* [SimonWoodtli/simonwoodtli.com](https://github.com/SimonWoodtli/simonwoodtli.com) - 👨‍💻 My personal website (4 days ago)
+* [SimonWoodtli/simonwoodtli.com](https://github.com/SimonWoodtli/simonwoodtli.com) - 👨‍💻 My personal website (6 hours ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (3 days ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (2 weeks ago)
-* [SimonWoodtli/hugo-paginator](https://github.com/SimonWoodtli/hugo-paginator) - Hugo theme for dev bloggers (3 weeks ago)
+* [SimonWoodtli/hugo-paginator](https://github.com/SimonWoodtli/hugo-paginator) - Hugo theme for dev bloggers (1 month ago)
 * [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (1 month ago)
 
 </details>
 <details>
   <summary><b>🔨 My recent pull requests</b></summary>
 
-* [feat: add wireguard-generate-keys script](https://github.com/SimonWoodtli/dotfiles-old/pull/14) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (15 months ago)
+* [feat: add wireguard-generate-keys script](https://github.com/SimonWoodtli/dotfiles-old/pull/14) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (16 months ago)
 * [feat: add video-to-gif script](https://github.com/SimonWoodtli/dotfiles-old/pull/13) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (16 months ago)
 * [feat: add spoof-mac-linux script](https://github.com/SimonWoodtli/dotfiles-old/pull/12) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (16 months ago)
 * [feat: add sp-tmux script](https://github.com/SimonWoodtli/dotfiles-old/pull/11) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (16 months ago)
@@ -133,11 +133,11 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/a6697cf92d7dfbcb3cae1c0b9eae29d2cba14e6c/20240104194645) - Grok nginx (4 hours ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/aa54e8741e53670359d53b07030041dc715ef3fd/20240104162118) - Add https cert for nginx (8 hours ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/b3a339ef43404da299d1b1eeb97f68578a642b4a/20240104161534) - How to run nginx? Host vs Container (8 hours ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/45a2cac2b0649808b1ff823bd31bdcacd5835049/20240104161046) - Fresh Server: First Steps (8 hours ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/4c2951a90d78b854f5c0022f11b44b21877cac98/20240104154437) - Server Service: Add nginx (8 hours ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/a6697cf92d7dfbcb3cae1c0b9eae29d2cba14e6c/20240104194645) - Grok nginx (1 day ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/aa54e8741e53670359d53b07030041dc715ef3fd/20240104162118) - Add https cert for nginx (1 day ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/b3a339ef43404da299d1b1eeb97f68578a642b4a/20240104161534) - How to run nginx? Host vs Container (1 day ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/45a2cac2b0649808b1ff823bd31bdcacd5835049/20240104161046) - Fresh Server: First Steps (1 day ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/4c2951a90d78b854f5c0022f11b44b21877cac98/20240104154437) - Server Service: Add nginx (1 day ago)
 
 </details>
 <details>
@@ -161,13 +161,13 @@ Seeking a profile page that creates content automatically?
   <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         107 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.40%
-• Tuesday                        86 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   11.57%
-• Wednesday                      131 commits                    ████░░░░░░░░░░░░░░░░░░░░░   17.63%
-• Thursday                       73 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   9.83%
-• Friday                         148 commits                    █████░░░░░░░░░░░░░░░░░░░░   19.92%
-• Saturday                       40 commits                     █░░░░░░░░░░░░░░░░░░░░░░░░   5.38%
-• Sunday                         158 commits                    █████░░░░░░░░░░░░░░░░░░░░   21.27%
+• Monday                         107 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.36%
+• Tuesday                        85 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   11.41%
+• Wednesday                      131 commits                    ████░░░░░░░░░░░░░░░░░░░░░   17.58%
+• Thursday                       73 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   9.80%
+• Friday                         151 commits                    █████░░░░░░░░░░░░░░░░░░░░   20.27%
+• Saturday                       40 commits                     █░░░░░░░░░░░░░░░░░░░░░░░░   5.37%
+• Sunday                         158 commits                    █████░░░░░░░░░░░░░░░░░░░░   21.21%
 ```
 
 </details>
@@ -175,10 +175,10 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     243 commits                    ████████░░░░░░░░░░░░░░░░░   32.71%
-• 🌞 Daytime                     197 commits                    ███████░░░░░░░░░░░░░░░░░░   26.51%
+• 🌅 Morning                     245 commits                    ████████░░░░░░░░░░░░░░░░░   32.89%
+• 🌞 Daytime                     197 commits                    ███████░░░░░░░░░░░░░░░░░░   26.44%
 • 🌇 Evening                     5 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.67%
-• 🌃 Night                       298 commits                    ██████████░░░░░░░░░░░░░░░   40.11%
+• 🌃 Night                       298 commits                    ██████████░░░░░░░░░░░░░░░   40.00%
 ```
 
 </details>
