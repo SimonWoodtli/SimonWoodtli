@@ -50,42 +50,40 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• Markdown                       15 hrs 51 mins                 ███████████████░░░░░░░░░░   58.15%
-• CSS                            4 hrs 25 mins                  ████░░░░░░░░░░░░░░░░░░░░░   16.25%
-• HTML                           3 hrs 48 mins                  ███░░░░░░░░░░░░░░░░░░░░░░   13.96%
-• JavaScript                     2 hrs 21 mins                  ██░░░░░░░░░░░░░░░░░░░░░░░   8.67%
-• conf                           22 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.35%
-• TOML                           10 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.62%
-• gitignore                      6 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39%
-• sshconfig                      4 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
-• Bash                           2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
-• XML                            1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
-• Other                          0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
-• sshdconfig                     0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+• Markdown                       20 hrs 38 mins                 ███████████████████████░░   91.31%
+• HTML                           52 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.91%
+• CSS                            38 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.83%
+• conf                           9 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.66%
+• gitignore                      6 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.47%
+• sshconfig                      4 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35%
+• JavaScript                     2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
+• Bash                           2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
+• Other                          0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+• sshdconfig                     0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+• XML                            0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 • sh                             0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
-• Text                           0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• simonwoodtli.com               14 hrs 52 mins                 ██████████████░░░░░░░░░░░   54.51%
-• Unknown Project                11 hrs 6 mins                  ██████████░░░░░░░░░░░░░░░   40.73%
-• zet                            48 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.99%
-• Private                        26 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.64%
-• cmd-zet                        2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
+• Unknown Project                13 hrs 31 mins                 ███████████████░░░░░░░░░░   59.83%
+• simonwoodtli.com               6 hrs 16 mins                  ███████░░░░░░░░░░░░░░░░░░   27.76%
+• zet                            2 hrs 32 mins                  ███░░░░░░░░░░░░░░░░░░░░░░   11.24%
+• Private                        13 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02%
+• cmd-zet                        2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            27 hrs 16 mins                 █████████████████████████   100%
+• Vim                            22 hrs 36 mins                 █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          27 hrs 16 mins                 █████████████████████████   100%
+• Linux                          22 hrs 36 mins                 █████████████████████████   100%
 ```
 
 </details>
@@ -103,8 +101,8 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/simonwoodtli.com](https://github.com/SimonWoodtli/simonwoodtli.com) - 👨‍💻 My personal website (6 hours ago)
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (3 days ago)
+* [SimonWoodtli/simonwoodtli.com](https://github.com/SimonWoodtli/simonwoodtli.com) - 👨‍💻 My personal website (1 day ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (4 days ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (2 weeks ago)
 * [SimonWoodtli/hugo-paginator](https://github.com/SimonWoodtli/hugo-paginator) - Hugo theme for dev bloggers (1 month ago)
 * [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (1 month ago)
@@ -113,8 +111,8 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/simonwoodtli.com](https://github.com/SimonWoodtli/simonwoodtli.com) - 👨‍💻 My personal website (6 hours ago)
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (3 days ago)
+* [SimonWoodtli/simonwoodtli.com](https://github.com/SimonWoodtli/simonwoodtli.com) - 👨‍💻 My personal website (1 day ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (4 days ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (2 weeks ago)
 * [SimonWoodtli/hugo-paginator](https://github.com/SimonWoodtli/hugo-paginator) - Hugo theme for dev bloggers (1 month ago)
 * [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (1 month ago)
@@ -133,11 +131,11 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/a6697cf92d7dfbcb3cae1c0b9eae29d2cba14e6c/20240104194645) - Grok nginx (1 day ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/aa54e8741e53670359d53b07030041dc715ef3fd/20240104162118) - Add https cert for nginx (1 day ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/b3a339ef43404da299d1b1eeb97f68578a642b4a/20240104161534) - How to run nginx? Host vs Container (1 day ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/45a2cac2b0649808b1ff823bd31bdcacd5835049/20240104161046) - Fresh Server: First Steps (1 day ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/4c2951a90d78b854f5c0022f11b44b21877cac98/20240104154437) - Server Service: Add nginx (1 day ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/a6697cf92d7dfbcb3cae1c0b9eae29d2cba14e6c/20240104194645) - Grok nginx (2 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/aa54e8741e53670359d53b07030041dc715ef3fd/20240104162118) - Add https cert for nginx (2 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/b3a339ef43404da299d1b1eeb97f68578a642b4a/20240104161534) - How to run nginx? Host vs Container (2 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/45a2cac2b0649808b1ff823bd31bdcacd5835049/20240104161046) - Fresh Server: First Steps (2 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/4c2951a90d78b854f5c0022f11b44b21877cac98/20240104154437) - Server Service: Add nginx (2 days ago)
 
 </details>
 <details>
