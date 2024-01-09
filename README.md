@@ -50,42 +50,42 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• Markdown                       20 hrs 8 mins                  █████████████████████░░░░   85.05%
-• Cheetah                        1 hr 1 min                     █░░░░░░░░░░░░░░░░░░░░░░░░   4.33%
-• HTML                           51 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.62%
-• JSON                           45 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.21%
-• CSS                            16 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.17%
-• sh                             12 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.89%
-• sshconfig                      10 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.75%
-• conf                           9 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.63%
-• Bash                           2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
-• Other                          0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
-• sshdconfig                     0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
-• gitignore                      0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
-• XML                            0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+• Markdown                       19 hrs 39 mins                 ██████████████████████░░░   86.11%
+• Cheetah                        1 hr 36 mins                   ██░░░░░░░░░░░░░░░░░░░░░░░   7.03%
+• JSON                           45 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.33%
+• sh                             14 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02%
+• sshconfig                      10 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.77%
+• conf                           9 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.66%
+• Other                          7 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.57%
+• Bash                           4 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36%
+• YAML                           1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
+• sshdconfig                     0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+• Perl                           0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+• dircolors                      0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+• HTML                           0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• Unknown Project                14 hrs 15 mins                 ███████████████░░░░░░░░░░   60.18%
-• simonwoodtli.com               4 hrs 34 mins                  █████░░░░░░░░░░░░░░░░░░░░   19.33%
-• zet                            3 hrs 14 mins                  ███░░░░░░░░░░░░░░░░░░░░░░   13.71%
-• dotfiles                       1 hr 14 mins                   █░░░░░░░░░░░░░░░░░░░░░░░░   5.25%
-• Private                        19 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.38%
-• cmd-zet                        2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
+• Unknown Project                13 hrs 41 mins                 ███████████████░░░░░░░░░░   60.01%
+• zet                            5 hrs 57 mins                  ███████░░░░░░░░░░░░░░░░░░   26.1%
+• dotfiles                       1 hr 57 mins                   ██░░░░░░░░░░░░░░░░░░░░░░░   8.56%
+• simonwoodtli.com               51 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.75%
+• Private                        19 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.43%
+• cmd-zet                        2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            23 hrs 40 mins                 █████████████████████████   100%
+• Vim                            22 hrs 49 mins                 █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          23 hrs 40 mins                 █████████████████████████   100%
+• Linux                          22 hrs 49 mins                 █████████████████████████   100%
 ```
 
 </details>
@@ -103,8 +103,8 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (5 hours ago)
-* [SimonWoodtli/simonwoodtli.com](https://github.com/SimonWoodtli/simonwoodtli.com) - 👨‍💻 My personal website (2 days ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 day ago)
+* [SimonWoodtli/simonwoodtli.com](https://github.com/SimonWoodtli/simonwoodtli.com) - 👨‍💻 My personal website (3 days ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (2 weeks ago)
 * [SimonWoodtli/hugo-paginator](https://github.com/SimonWoodtli/hugo-paginator) - Hugo theme for dev bloggers (1 month ago)
 * [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (1 month ago)
@@ -113,8 +113,8 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (5 hours ago)
-* [SimonWoodtli/simonwoodtli.com](https://github.com/SimonWoodtli/simonwoodtli.com) - 👨‍💻 My personal website (2 days ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 day ago)
+* [SimonWoodtli/simonwoodtli.com](https://github.com/SimonWoodtli/simonwoodtli.com) - 👨‍💻 My personal website (3 days ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (2 weeks ago)
 * [SimonWoodtli/hugo-paginator](https://github.com/SimonWoodtli/hugo-paginator) - Hugo theme for dev bloggers (1 month ago)
 * [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (1 month ago)
@@ -133,11 +133,11 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/a6697cf92d7dfbcb3cae1c0b9eae29d2cba14e6c/20240104194645) - Grok nginx (3 days ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/aa54e8741e53670359d53b07030041dc715ef3fd/20240104162118) - Add https cert for nginx (3 days ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/b3a339ef43404da299d1b1eeb97f68578a642b4a/20240104161534) - How to run nginx? Host vs Container (3 days ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/45a2cac2b0649808b1ff823bd31bdcacd5835049/20240104161046) - Fresh Server: First Steps (3 days ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/4c2951a90d78b854f5c0022f11b44b21877cac98/20240104154437) - Server Service: Add nginx (3 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/39e291295053de262d53fb6fd9e765a6dbf2d547/20240108132658) - Server Service: Add email server (5 hours ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/346527b8bd648558cc5f253768ee7cf37b1af5c5/20240108005229) - Server Service: Add password authentication to nginx site (22 hours ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/58ff775d22563d4ebaea92787cd7dbd013baa0e6/20240107222637) - Server Service: Add a data server with nginx (23 hours ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/4fe38b570f54028d0b07397447c25f34a2962a22/20240107205508) - Server Setup: Add domain name to your Server (23 hours ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/a6697cf92d7dfbcb3cae1c0b9eae29d2cba14e6c/20240104194645) - Grok nginx (4 days ago)
 
 </details>
 <details>
@@ -161,13 +161,13 @@ Seeking a profile page that creates content automatically?
   <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         107 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.42%
-• Tuesday                        82 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   11.05%
+• Monday                         113 commits                    ████░░░░░░░░░░░░░░░░░░░░░   15.23%
+• Tuesday                        80 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   10.78%
 • Wednesday                      130 commits                    ████░░░░░░░░░░░░░░░░░░░░░   17.52%
-• Thursday                       70 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   9.43%
+• Thursday                       69 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   9.30%
 • Friday                         151 commits                    █████░░░░░░░░░░░░░░░░░░░░   20.35%
 • Saturday                       44 commits                     █░░░░░░░░░░░░░░░░░░░░░░░░   5.93%
-• Sunday                         158 commits                    █████░░░░░░░░░░░░░░░░░░░░   21.29%
+• Sunday                         155 commits                    █████░░░░░░░░░░░░░░░░░░░░   20.89%
 ```
 
 </details>
@@ -175,10 +175,10 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     249 commits                    ████████░░░░░░░░░░░░░░░░░   33.56%
-• 🌞 Daytime                     195 commits                    ███████░░░░░░░░░░░░░░░░░░   26.28%
+• 🌅 Morning                     248 commits                    ████████░░░░░░░░░░░░░░░░░   33.42%
+• 🌞 Daytime                     197 commits                    ███████░░░░░░░░░░░░░░░░░░   26.55%
 • 🌇 Evening                     5 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.67%
-• 🌃 Night                       293 commits                    ██████████░░░░░░░░░░░░░░░   39.49%
+• 🌃 Night                       292 commits                    ██████████░░░░░░░░░░░░░░░   39.35%
 ```
 
 </details>
