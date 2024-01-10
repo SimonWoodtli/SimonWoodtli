@@ -50,16 +50,16 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• Markdown                       19 hrs 39 mins                 ██████████████████████░░░   86.11%
-• Cheetah                        1 hr 36 mins                   ██░░░░░░░░░░░░░░░░░░░░░░░   7.03%
-• JSON                           45 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.33%
-• sh                             14 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02%
-• sshconfig                      10 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.77%
-• conf                           9 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.66%
-• Other                          7 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.57%
-• Bash                           4 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36%
-• YAML                           1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
-• sshdconfig                     0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+• Markdown                       21 hrs 39 mins                 ██████████████████████░░░   87.23%
+• Cheetah                        1 hr 36 mins                   ██░░░░░░░░░░░░░░░░░░░░░░░   6.46%
+• JSON                           45 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.06%
+• sh                             14 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.94%
+• sshconfig                      10 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71%
+• conf                           9 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.6%
+• Other                          7 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.53%
+• Bash                           4 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
+• YAML                           1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
+• sshdconfig                     0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 • Perl                           0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 • dircolors                      0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 • HTML                           0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
@@ -68,24 +68,24 @@ Seeking a profile page that creates content automatically?
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• Unknown Project                13 hrs 41 mins                 ███████████████░░░░░░░░░░   60.01%
-• zet                            5 hrs 57 mins                  ███████░░░░░░░░░░░░░░░░░░   26.1%
-• dotfiles                       1 hr 57 mins                   ██░░░░░░░░░░░░░░░░░░░░░░░   8.56%
-• simonwoodtli.com               51 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.75%
-• Private                        19 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.43%
-• cmd-zet                        2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
+• Unknown Project                13 hrs 3 mins                  █████████████░░░░░░░░░░░░   52.61%
+• zet                            8 hrs 35 mins                  █████████░░░░░░░░░░░░░░░░   34.62%
+• dotfiles                       1 hr 57 mins                   ██░░░░░░░░░░░░░░░░░░░░░░░   7.87%
+• simonwoodtli.com               51 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.44%
+• Private                        19 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.32%
+• cmd-zet                        2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            22 hrs 49 mins                 █████████████████████████   100%
+• Vim                            24 hrs 50 mins                 █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          22 hrs 49 mins                 █████████████████████████   100%
+• Linux                          24 hrs 50 mins                 █████████████████████████   100%
 ```
 
 </details>
@@ -103,21 +103,21 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 day ago)
-* [SimonWoodtli/simonwoodtli.com](https://github.com/SimonWoodtli/simonwoodtli.com) - 👨‍💻 My personal website (3 days ago)
+* [SimonWoodtli/mumble](https://github.com/SimonWoodtli/mumble) - 🎧 murmur mumble server for VOIP calls (0 hours ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (2 days ago)
+* [SimonWoodtli/simonwoodtli.com](https://github.com/SimonWoodtli/simonwoodtli.com) - 👨‍💻 My personal website (4 days ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (2 weeks ago)
 * [SimonWoodtli/hugo-paginator](https://github.com/SimonWoodtli/hugo-paginator) - Hugo theme for dev bloggers (1 month ago)
-* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (1 month ago)
 
 </details>
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 day ago)
-* [SimonWoodtli/simonwoodtli.com](https://github.com/SimonWoodtli/simonwoodtli.com) - 👨‍💻 My personal website (3 days ago)
+* [SimonWoodtli/mumble](https://github.com/SimonWoodtli/mumble) - 🎧 murmur mumble server for VOIP calls (0 hours ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (2 days ago)
+* [SimonWoodtli/simonwoodtli.com](https://github.com/SimonWoodtli/simonwoodtli.com) - 👨‍💻 My personal website (4 days ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (2 weeks ago)
 * [SimonWoodtli/hugo-paginator](https://github.com/SimonWoodtli/hugo-paginator) - Hugo theme for dev bloggers (1 month ago)
-* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (1 month ago)
 
 </details>
 <details>
@@ -133,11 +133,11 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/39e291295053de262d53fb6fd9e765a6dbf2d547/20240108132658) - Server Service: Add email server (5 hours ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/346527b8bd648558cc5f253768ee7cf37b1af5c5/20240108005229) - Server Service: Add password authentication to nginx site (22 hours ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/58ff775d22563d4ebaea92787cd7dbd013baa0e6/20240107222637) - Server Service: Add a data server with nginx (23 hours ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/4fe38b570f54028d0b07397447c25f34a2962a22/20240107205508) - Server Setup: Add domain name to your Server (23 hours ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/a6697cf92d7dfbcb3cae1c0b9eae29d2cba14e6c/20240104194645) - Grok nginx (4 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/6d48c0337bea3760f654d098a4a9eea17b3b2ae1/20240108191653) - Server Service: Add yt-local YT frontend (7 hours ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/39e291295053de262d53fb6fd9e765a6dbf2d547/20240108132658) - Server Service: Add email server (1 day ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/346527b8bd648558cc5f253768ee7cf37b1af5c5/20240108005229) - Server Service: Add password authentication to nginx site (1 day ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/58ff775d22563d4ebaea92787cd7dbd013baa0e6/20240107222637) - Server Service: Add a data server with nginx (1 day ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/4fe38b570f54028d0b07397447c25f34a2962a22/20240107205508) - Server Setup: Add domain name to your Server (1 day ago)
 
 </details>
 <details>
@@ -149,11 +149,11 @@ Seeking a profile page that creates content automatically?
   <summary><b>💬 My most used language per repos</b></summary>
 
 ```
-• Shell                          15 repos                       ███████████████████░░░░░░   75.00%
-• JavaScript                     1 repo                         █░░░░░░░░░░░░░░░░░░░░░░░░   5.00%
-• CSS                            2 repos                        ███░░░░░░░░░░░░░░░░░░░░░░   10.00%
-• Nix                            1 repo                         █░░░░░░░░░░░░░░░░░░░░░░░░   5.00%
-• HTML                           1 repo                         █░░░░░░░░░░░░░░░░░░░░░░░░   5.00%
+• Shell                          16 repos                       ███████████████████░░░░░░   76.19%
+• JavaScript                     1 repo                         █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
+• CSS                            2 repos                        ██░░░░░░░░░░░░░░░░░░░░░░░   9.52%
+• Nix                            1 repo                         █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
+• HTML                           1 repo                         █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
 ```
 
 </details>
@@ -161,13 +161,13 @@ Seeking a profile page that creates content automatically?
   <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         113 commits                    ████░░░░░░░░░░░░░░░░░░░░░   15.23%
-• Tuesday                        80 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   10.78%
-• Wednesday                      130 commits                    ████░░░░░░░░░░░░░░░░░░░░░   17.52%
-• Thursday                       69 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   9.30%
-• Friday                         151 commits                    █████░░░░░░░░░░░░░░░░░░░░   20.35%
-• Saturday                       44 commits                     █░░░░░░░░░░░░░░░░░░░░░░░░   5.93%
-• Sunday                         155 commits                    █████░░░░░░░░░░░░░░░░░░░░   20.89%
+• Monday                         112 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.60%
+• Tuesday                        101 commits                    ███░░░░░░░░░░░░░░░░░░░░░░   13.17%
+• Wednesday                      136 commits                    ████░░░░░░░░░░░░░░░░░░░░░   17.73%
+• Thursday                       69 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   9.00%
+• Friday                         151 commits                    █████░░░░░░░░░░░░░░░░░░░░   19.69%
+• Saturday                       44 commits                     █░░░░░░░░░░░░░░░░░░░░░░░░   5.74%
+• Sunday                         154 commits                    █████░░░░░░░░░░░░░░░░░░░░   20.08%
 ```
 
 </details>
@@ -175,10 +175,10 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     248 commits                    ████████░░░░░░░░░░░░░░░░░   33.42%
-• 🌞 Daytime                     197 commits                    ███████░░░░░░░░░░░░░░░░░░   26.55%
-• 🌇 Evening                     5 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.67%
-• 🌃 Night                       292 commits                    ██████████░░░░░░░░░░░░░░░   39.35%
+• 🌅 Morning                     266 commits                    █████████░░░░░░░░░░░░░░░░   34.68%
+• 🌞 Daytime                     205 commits                    ███████░░░░░░░░░░░░░░░░░░   26.73%
+• 🌇 Evening                     5 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.65%
+• 🌃 Night                       291 commits                    █████████░░░░░░░░░░░░░░░░   37.94%
 ```
 
 </details>
