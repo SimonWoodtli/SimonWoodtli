@@ -50,35 +50,34 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• Markdown                       16 hrs 50 mins                 ████████████████░░░░░░░░░   64.01%
-• Bash                           4 hrs 13 mins                  ████░░░░░░░░░░░░░░░░░░░░░   16.05%
-• YAML                           3 hrs 28 mins                  ███░░░░░░░░░░░░░░░░░░░░░░   13.22%
-• conf                           55 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.49%
-• sh                             29 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.84%
-• INI                            19 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.25%
-• Other                          2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
+• Markdown                       15 hrs 33 mins                 ███████████████████░░░░░░   74.62%
+• YAML                           3 hrs 28 mins                  ████░░░░░░░░░░░░░░░░░░░░░   16.68%
+• conf                           53 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   4.25%
+• Bash                           40 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.2%
+• sh                             9 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.76%
+• INI                            6 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• Unknown Project                8 hrs 43 mins                  ████████░░░░░░░░░░░░░░░░░   33.17%
-• zet                            6 hrs 28 mins                  ██████░░░░░░░░░░░░░░░░░░░   24.64%
-• Private                        6 hrs 17 mins                  ██████░░░░░░░░░░░░░░░░░░░   23.93%
-• dotfiles                       4 hrs 33 mins                  ████░░░░░░░░░░░░░░░░░░░░░   17.32%
-• cloud-os                       14 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.95%
+• Unknown Project                8 hrs 33 mins                  ██████████░░░░░░░░░░░░░░░   41.02%
+• Private                        6 hrs 15 mins                  ████████░░░░░░░░░░░░░░░░░   30.02%
+• zet                            5 hrs 12 mins                  ██████░░░░░░░░░░░░░░░░░░░   24.96%
+• dotfiles                       35 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.87%
+• cloud-os                       14 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            26 hrs 18 mins                 █████████████████████████   100%
+• Vim                            20 hrs 51 mins                 █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          26 hrs 18 mins                 █████████████████████████   100%
+• Linux                          20 hrs 51 mins                 █████████████████████████   100%
 ```
 
 </details>
@@ -96,7 +95,7 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (6 days ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (7 days ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (1 week ago)
 * [SimonWoodtli/mumble](https://github.com/SimonWoodtli/mumble) - 🎧 murmur mumble server for VOIP calls (1 week ago)
 * [SimonWoodtli/simonwoodtli.com](https://github.com/SimonWoodtli/simonwoodtli.com) - 👨‍💻 My personal website (2 weeks ago)
@@ -106,7 +105,7 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (6 days ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (7 days ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (1 week ago)
 * [SimonWoodtli/mumble](https://github.com/SimonWoodtli/mumble) - 🎧 murmur mumble server for VOIP calls (1 week ago)
 * [SimonWoodtli/simonwoodtli.com](https://github.com/SimonWoodtli/simonwoodtli.com) - 👨‍💻 My personal website (2 weeks ago)
@@ -126,9 +125,9 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/4776d4113a5b05e300ad9ebd5da5961078c04f77/20240120233728) - Server Security: Add password/http auth and whitelists via ACCESS List for Nginx Proxy Manager (2 days ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/611dd00f3c3568e18cd65bab396a6cf70c318d5b/20240108005229) - Server Security: Add password/http authentication to nginx site (2 days ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/ae807a3c528fad84f1778a51691730bd28781301/20240115164134) - LAN Server Service: Setup USB Sharing over Network (6 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/4776d4113a5b05e300ad9ebd5da5961078c04f77/20240120233728) - Server Security: Add password/http auth and whitelists via ACCESS List for Nginx Proxy Manager (3 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/611dd00f3c3568e18cd65bab396a6cf70c318d5b/20240108005229) - Server Security: Add password/http authentication to nginx site (3 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/ae807a3c528fad84f1778a51691730bd28781301/20240115164134) - LAN Server Service: Setup USB Sharing over Network (7 days ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/039476f2d005e2239efe2c83a8757cb5614bd1a4/20240113153426) - Setup Service: DuckDNS with Auto SSL certs using reverse proxy and DNS validation for certs(DNS-01) for your homelab (1 week ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/3f76c802a4a15982f6a67af40454f6ef6a8fc16e/20240112144725) - Why would you want to run your own DNS Server? (1 week ago)
 
