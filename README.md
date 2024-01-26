@@ -50,35 +50,35 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• Markdown                       13 hrs 18 mins                 ███████████████████░░░░░░   75.71%
-• YAML                           2 hrs 37 mins                  ████░░░░░░░░░░░░░░░░░░░░░   14.91%
-• Bash                           32 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.04%
-• Other                          25 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.41%
-• conf                           24 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.29%
-• sh                             9 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9%
-• INI                            7 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.74%
+• Markdown                       13 hrs 30 mins                 █████████████████░░░░░░░░   69.79%
+• YAML                           4 hrs                          █████░░░░░░░░░░░░░░░░░░░░   20.68%
+• Bash                           41 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.54%
+• Other                          32 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.78%
+• conf                           18 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.58%
+• sh                             9 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.82%
+• INI                            9 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• Unknown Project                10 hrs 46 mins                 ███████████████░░░░░░░░░░   61.29%
-• zet                            4 hrs 1 min                    ██████░░░░░░░░░░░░░░░░░░░   22.91%
-• Private                        2 hrs 10 mins                  ███░░░░░░░░░░░░░░░░░░░░░░   12.35%
-• dotfiles                       22 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.12%
-• cloud-os                       14 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.33%
+• Unknown Project                11 hrs 22 mins                 ███████████████░░░░░░░░░░   58.74%
+• zet                            4 hrs 38 mins                  ██████░░░░░░░░░░░░░░░░░░░   24.01%
+• Private                        2 hrs 37 mins                  ███░░░░░░░░░░░░░░░░░░░░░░   13.55%
+• dotfiles                       22 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92%
+• cloud-os                       20 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.77%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            17 hrs 33 mins                 █████████████████████████   100%
+• Vim                            19 hrs 21 mins                 █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          17 hrs 33 mins                 █████████████████████████   100%
+• Linux                          19 hrs 21 mins                 █████████████████████████   100%
 ```
 
 </details>
@@ -97,8 +97,8 @@ Seeking a profile page that creates content automatically?
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 week ago)
-* [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (1 week ago)
-* [SimonWoodtli/mumble](https://github.com/SimonWoodtli/mumble) - 🎧 murmur mumble server for VOIP calls (1 week ago)
+* [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (2 weeks ago)
+* [SimonWoodtli/mumble](https://github.com/SimonWoodtli/mumble) - 🎧 murmur mumble server for VOIP calls (2 weeks ago)
 * [SimonWoodtli/simonwoodtli.com](https://github.com/SimonWoodtli/simonwoodtli.com) - 👨‍💻 My personal website (2 weeks ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (1 month ago)
 
@@ -107,8 +107,8 @@ Seeking a profile page that creates content automatically?
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 week ago)
-* [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (1 week ago)
-* [SimonWoodtli/mumble](https://github.com/SimonWoodtli/mumble) - 🎧 murmur mumble server for VOIP calls (1 week ago)
+* [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (2 weeks ago)
+* [SimonWoodtli/mumble](https://github.com/SimonWoodtli/mumble) - 🎧 murmur mumble server for VOIP calls (2 weeks ago)
 * [SimonWoodtli/simonwoodtli.com](https://github.com/SimonWoodtli/simonwoodtli.com) - 👨‍💻 My personal website (2 weeks ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (1 month ago)
 
@@ -126,11 +126,11 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/e5db021f7925acf557b7bb893f9007bda4a2f462/20240124232458) - Syncthing configuration and caveats (1 hours ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/4776d4113a5b05e300ad9ebd5da5961078c04f77/20240120233728) - Server Security: Add password/http auth and whitelists via ACCESS List for Nginx Proxy Manager (4 days ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/611dd00f3c3568e18cd65bab396a6cf70c318d5b/20240108005229) - Server Security: Add password/http authentication to nginx site (4 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/66e093378d08383f2f536175afba43c16430ea9a/20240125154231) - Linux System units/service VS. User units/service (8 hours ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/e5db021f7925acf557b7bb893f9007bda4a2f462/20240124232458) - Syncthing configuration and caveats (1 day ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/4776d4113a5b05e300ad9ebd5da5961078c04f77/20240120233728) - Server Security: Add password/http auth and whitelists via ACCESS List for Nginx Proxy Manager (5 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/611dd00f3c3568e18cd65bab396a6cf70c318d5b/20240108005229) - Server Security: Add password/http authentication to nginx site (5 days ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/ae807a3c528fad84f1778a51691730bd28781301/20240115164134) - LAN Server Service: Setup USB Sharing over Network (1 week ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/039476f2d005e2239efe2c83a8757cb5614bd1a4/20240113153426) - Setup Service: DuckDNS with Auto SSL certs using reverse proxy and DNS validation for certs(DNS-01) for your homelab (1 week ago)
 
 </details>
 <details>
@@ -161,11 +161,11 @@ Seeking a profile page that creates content automatically?
 ```
 • Monday                         107 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.46%
 • Tuesday                        76 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   10.27%
-• Wednesday                      145 commits                    █████░░░░░░░░░░░░░░░░░░░░   19.59%
+• Wednesday                      141 commits                    █████░░░░░░░░░░░░░░░░░░░░   19.05%
 • Thursday                       69 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   9.32%
 • Friday                         149 commits                    █████░░░░░░░░░░░░░░░░░░░░   20.14%
 • Saturday                       48 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   6.49%
-• Sunday                         146 commits                    █████░░░░░░░░░░░░░░░░░░░░   19.73%
+• Sunday                         150 commits                    █████░░░░░░░░░░░░░░░░░░░░   20.27%
 ```
 
 </details>
