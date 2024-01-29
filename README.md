@@ -50,35 +50,37 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• Markdown                       11 hrs 22 mins                 ████████████████░░░░░░░░░   63.26%
-• YAML                           4 hrs 58 mins                  ███████░░░░░░░░░░░░░░░░░░   27.68%
-• Bash                           39 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.65%
-• Other                          37 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.47%
-• conf                           16 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.56%
-• INI                            3 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
+• Markdown                       9 hrs 41 mins                  ██████████████░░░░░░░░░░░   56.4%
+• YAML                           4 hrs 58 mins                  ███████░░░░░░░░░░░░░░░░░░   28.95%
+• Other                          52 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   5.11%
+• HTML                           41 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.99%
+• Bash                           39 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.82%
+• conf                           13 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.34%
+• INI                            3 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
 • sshconfig                      0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• Unknown Project                9 hrs 31 mins                  █████████████░░░░░░░░░░░░   52.99%
-• zet                            5 hrs 48 mins                  ████████░░░░░░░░░░░░░░░░░   32.28%
-• Private                        2 hrs 15 mins                  ███░░░░░░░░░░░░░░░░░░░░░░   12.59%
-• cloud-os                       22 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.09%
-• simonwoodtli.com               0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+• Unknown Project                9 hrs 31 mins                  ██████████████░░░░░░░░░░░   55.41%
+• zet                            4 hrs 8 mins                   ██████░░░░░░░░░░░░░░░░░░░   24.12%
+• Private                        2 hrs 9 mins                   ███░░░░░░░░░░░░░░░░░░░░░░   12.55%
+• simonwoodtli.com               54 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   5.29%
+• cloud-os                       22 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.19%
+• dotfiles                       4 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.44%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            17 hrs 58 mins                 █████████████████████████   100%
+• Vim                            17 hrs 10 mins                 █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          17 hrs 58 mins                 █████████████████████████   100%
+• Linux                          17 hrs 10 mins                 █████████████████████████   100%
 ```
 
 </details>
@@ -96,7 +98,7 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/simonwoodtli.com](https://github.com/SimonWoodtli/simonwoodtli.com) - 👨‍💻 My personal website (1 hours ago)
+* [SimonWoodtli/simonwoodtli.com](https://github.com/SimonWoodtli/simonwoodtli.com) - 👨‍💻 My personal website (1 day ago)
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 week ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (2 weeks ago)
 * [SimonWoodtli/mumble](https://github.com/SimonWoodtli/mumble) - 🎧 murmur mumble server for VOIP calls (2 weeks ago)
@@ -106,7 +108,7 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/simonwoodtli.com](https://github.com/SimonWoodtli/simonwoodtli.com) - 👨‍💻 My personal website (1 hours ago)
+* [SimonWoodtli/simonwoodtli.com](https://github.com/SimonWoodtli/simonwoodtli.com) - 👨‍💻 My personal website (1 day ago)
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 week ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (2 weeks ago)
 * [SimonWoodtli/mumble](https://github.com/SimonWoodtli/mumble) - 🎧 murmur mumble server for VOIP calls (2 weeks ago)
@@ -126,17 +128,17 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/cb060ba9f0016da2416e33f5c68c882fa92975ea/20240127164652) - Why you probably shouldn't run Alpine Linux in production (7 hours ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/b58ec5ac2fb120ca173530fba5e57cd08a9dfe2c/20240127151000) - Install nodejs on Alpine Linux (8 hours ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/0a025e6d3acd0f0a9d5ad087bc1679969470c070/20240127140914) - Install glibc on Alpine Linux (10 hours ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/762b474b52ffcfa19be8ffe9fd64a7ded4568d48/20240125165554) - Server Service: Add git server (1 day ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/66e093378d08383f2f536175afba43c16430ea9a/20240125154231) - Linux System units/service VS. User units/service (2 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/cb060ba9f0016da2416e33f5c68c882fa92975ea/20240127164652) - Why you probably shouldn't run Alpine Linux in production (1 day ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/b58ec5ac2fb120ca173530fba5e57cd08a9dfe2c/20240127151000) - Install nodejs on Alpine Linux (1 day ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/0a025e6d3acd0f0a9d5ad087bc1679969470c070/20240127140914) - Install glibc on Alpine Linux (1 day ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/762b474b52ffcfa19be8ffe9fd64a7ded4568d48/20240125165554) - Server Service: Add git server (2 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/66e093378d08383f2f536175afba43c16430ea9a/20240125154231) - Linux System units/service VS. User units/service (3 days ago)
 
 </details>
 <details>
   <summary><b>⭐ My recent stars</b></summary>
 
-* [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition (1 day ago)
+* [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition (2 days ago)
 * [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer! (2 weeks ago)
 * [mumble-voip/mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software. (2 weeks ago)
 * [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - </> htmx - high power tools for HTML (1 month ago)
