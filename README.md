@@ -106,8 +106,8 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (5 hours ago)
-* [SimonWoodtli/www-simonwoodtli-com](https://github.com/SimonWoodtli/www-simonwoodtli-com) - 👨‍💻 My personal website (4 days ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (4 hours ago)
+* [SimonWoodtli/www-simonwoodtli-com](https://github.com/SimonWoodtli/www-simonwoodtli-com) - 👨‍💻 My personal website (5 days ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (1 month ago)
 * [SimonWoodtli/mumble](https://github.com/SimonWoodtli/mumble) - 🎧 murmur mumble server for VOIP calls (1 month ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (2 months ago)
@@ -116,8 +116,8 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (5 hours ago)
-* [SimonWoodtli/www-simonwoodtli-com](https://github.com/SimonWoodtli/www-simonwoodtli-com) - 👨‍💻 My personal website (4 days ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (4 hours ago)
+* [SimonWoodtli/www-simonwoodtli-com](https://github.com/SimonWoodtli/www-simonwoodtli-com) - 👨‍💻 My personal website (5 days ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (1 month ago)
 * [SimonWoodtli/mumble](https://github.com/SimonWoodtli/mumble) - 🎧 murmur mumble server for VOIP calls (1 month ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (2 months ago)
@@ -136,7 +136,7 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/2fdb7a1889f16dbed642b1af1f1a48b110c4dafc/20240205234225) - Add private PGP/GPG subkeys (A,E,S) to your Yubikey (7 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/2fdb7a1889f16dbed642b1af1f1a48b110c4dafc/20240205234225) - Add private PGP/GPG subkeys (A,E,S) to your Yubikey (1 week ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/1623456800f79cd0eca90f8ca0c56c1cf608fe5e/20240204194240) - Server Service: Update Simple Login (1 week ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/fd8a106b3662a107cbafca0b8ec6d0e6c2285b42/20240202162304) - Server Service: Add Simple Login (1 week ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/ff12638c33a6f133ad0c982d437b73f6b52933ff/20240202132409) - Publish a Homelab service to the internet with SSH and reverse proxy via VPS (1 week ago)
@@ -169,13 +169,13 @@ Seeking a profile page that creates content automatically?
   <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         107 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.48%
-• Tuesday                        74 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   10.01%
-• Wednesday                      138 commits                    █████░░░░░░░░░░░░░░░░░░░░   18.67%
+• Monday                         106 commits                    ████░░░░░░░░░░░░░░░░░░░░░   14.34%
+• Tuesday                        77 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   10.42%
+• Wednesday                      137 commits                    █████░░░░░░░░░░░░░░░░░░░░   18.54%
 • Thursday                       75 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   10.15%
 • Friday                         152 commits                    █████░░░░░░░░░░░░░░░░░░░░   20.57%
 • Saturday                       43 commits                     █░░░░░░░░░░░░░░░░░░░░░░░░   5.82%
-• Sunday                         150 commits                    █████░░░░░░░░░░░░░░░░░░░░   20.30%
+• Sunday                         149 commits                    █████░░░░░░░░░░░░░░░░░░░░   20.16%
 ```
 
 </details>
@@ -183,8 +183,8 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     271 commits                    █████████░░░░░░░░░░░░░░░░   36.67%
-• 🌞 Daytime                     200 commits                    ███████░░░░░░░░░░░░░░░░░░   27.06%
+• 🌅 Morning                     275 commits                    █████████░░░░░░░░░░░░░░░░   37.21%
+• 🌞 Daytime                     196 commits                    ███████░░░░░░░░░░░░░░░░░░   26.52%
 • 🌇 Evening                     4 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.54%
 • 🌃 Night                       264 commits                    █████████░░░░░░░░░░░░░░░░   35.72%
 ```
