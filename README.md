@@ -50,40 +50,44 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• Bash                           10 hrs 32 mins                 ████████████████░░░░░░░░░   62.19%
-• sh                             2 hrs 46 mins                  ████░░░░░░░░░░░░░░░░░░░░░   16.39%
-• Markdown                       1 hr 41 mins                   ███░░░░░░░░░░░░░░░░░░░░░░   10.03%
-• Other                          43 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   4.27%
-• Text                           26 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.6%
-• Cheetah                        14 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.46%
-• conf                           11 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.1%
-• Python                         10 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.98%
-• YAML                           9 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.97%
+• Bash                           14 hrs                         ███████████████░░░░░░░░░░   61.2%
+• sh                             3 hrs 6 mins                   ███░░░░░░░░░░░░░░░░░░░░░░   13.56%
+• Markdown                       1 hr 47 mins                   ██░░░░░░░░░░░░░░░░░░░░░░░   7.83%
+• Other                          1 hr 11 mins                   █░░░░░░░░░░░░░░░░░░░░░░░░   5.21%
+• Text                           1 hr 2 mins                    █░░░░░░░░░░░░░░░░░░░░░░░░   4.58%
+• Crontab                        32 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.4%
+• conf                           21 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.57%
+• Cheetah                        14 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.08%
+• tar                            10 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.79%
+• YAML                           10 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.75%
+• Python                         10 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.73%
+• JSON                           4 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• dotfiles                       13 hrs 18 mins                 ████████████████████░░░░░   78.55%
-• Unknown Project                2 hrs 8 mins                   ███░░░░░░░░░░░░░░░░░░░░░░   12.63%
-• zet                            49 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   4.87%
-• pgp                            13 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3%
-• workspace-alpine               10 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02%
-• readme-writer                  9 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.93%
-• cmd-zet                        3 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39%
-• Private                        3 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
+• dotfiles                       16 hrs 5 mins                  ██████████████████░░░░░░░   71.07%
+• Unknown Project                4 hrs 3 mins                   ████░░░░░░░░░░░░░░░░░░░░░   17.91%
+• zet                            51 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.76%
+• Private                        40 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.96%
+• cloud-os                       20 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.54%
+• pgp                            13 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.97%
+• workspace-alpine               10 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81%
+• readme-writer                  9 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7%
+• cmd-zet                        3 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            16 hrs 56 mins                 █████████████████████████   100%
+• Vim                            22 hrs 53 mins                 █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          16 hrs 56 mins                 █████████████████████████   100%
+• Linux                          22 hrs 53 mins                 █████████████████████████   100%
 ```
 
 </details>
@@ -101,7 +105,7 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (2 hours ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 day ago)
 * [SimonWoodtli/www-simonwoodtli-com](https://github.com/SimonWoodtli/www-simonwoodtli-com) - 👨‍💻 My personal website (1 week ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (1 month ago)
 * [SimonWoodtli/mumble](https://github.com/SimonWoodtli/mumble) - 🎧 murmur mumble server for VOIP calls (1 month ago)
@@ -111,7 +115,7 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (2 hours ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 day ago)
 * [SimonWoodtli/www-simonwoodtli-com](https://github.com/SimonWoodtli/www-simonwoodtli-com) - 👨‍💻 My personal website (1 week ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (1 month ago)
 * [SimonWoodtli/mumble](https://github.com/SimonWoodtli/mumble) - 🎧 murmur mumble server for VOIP calls (1 month ago)
@@ -134,15 +138,15 @@ Seeking a profile page that creates content automatically?
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/2fdb7a1889f16dbed642b1af1f1a48b110c4dafc/20240205234225) - Add private PGP/GPG subkeys (A,E,S) to your Yubikey (1 week ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/1623456800f79cd0eca90f8ca0c56c1cf608fe5e/20240204194240) - Server Service: Update Simple Login (1 week ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/fd8a106b3662a107cbafca0b8ec6d0e6c2285b42/20240202162304) - Server Service: Add Simple Login (1 week ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/ff12638c33a6f133ad0c982d437b73f6b52933ff/20240202132409) - Publish a Homelab service to the internet with SSH and reverse proxy via VPS (1 week ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/63de18254920e9c0c2b3d6f33033336e1e31c88f/20240201232741) - Common methods to expose local Homelab services to the public (1 week ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/ff12638c33a6f133ad0c982d437b73f6b52933ff/20240202132409) - Publish a Homelab service to the internet with SSH and reverse proxy via VPS (2 weeks ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/63de18254920e9c0c2b3d6f33033336e1e31c88f/20240201232741) - Common methods to expose local Homelab services to the public (2 weeks ago)
 
 </details>
 <details>
   <summary><b>⭐ My recent stars</b></summary>
 
-* [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app (1 week ago)
-* [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition (2 weeks ago)
+* [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app (2 weeks ago)
+* [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition (3 weeks ago)
 * [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer! (1 month ago)
 * [mumble-voip/mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software. (1 month ago)
 * [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - </> htmx - high power tools for HTML (2 months ago)
