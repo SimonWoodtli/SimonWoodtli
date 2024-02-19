@@ -105,7 +105,7 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 day ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (2 days ago)
 * [SimonWoodtli/www-simonwoodtli-com](https://github.com/SimonWoodtli/www-simonwoodtli-com) - 👨‍💻 My personal website (1 week ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (1 month ago)
 * [SimonWoodtli/mumble](https://github.com/SimonWoodtli/mumble) - 🎧 murmur mumble server for VOIP calls (1 month ago)
@@ -115,7 +115,7 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 day ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (2 days ago)
 * [SimonWoodtli/www-simonwoodtli-com](https://github.com/SimonWoodtli/www-simonwoodtli-com) - 👨‍💻 My personal website (1 week ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (1 month ago)
 * [SimonWoodtli/mumble](https://github.com/SimonWoodtli/mumble) - 🎧 murmur mumble server for VOIP calls (1 month ago)
@@ -135,11 +135,11 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/353c4e49e2878c41cf0724b4c8d5af432cce6624/20240218140751) - Compress files and add Password/Passphrase protection to extract (9 hours ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/2fdb7a1889f16dbed642b1af1f1a48b110c4dafc/20240205234225) - Add private PGP/GPG subkeys (A,E,S) to your Yubikey (1 week ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/1623456800f79cd0eca90f8ca0c56c1cf608fe5e/20240204194240) - Server Service: Update Simple Login (1 week ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/fd8a106b3662a107cbafca0b8ec6d0e6c2285b42/20240202162304) - Server Service: Add Simple Login (1 week ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/ff12638c33a6f133ad0c982d437b73f6b52933ff/20240202132409) - Publish a Homelab service to the internet with SSH and reverse proxy via VPS (2 weeks ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/63de18254920e9c0c2b3d6f33033336e1e31c88f/20240201232741) - Common methods to expose local Homelab services to the public (2 weeks ago)
 
 </details>
 <details>
@@ -173,8 +173,8 @@ Seeking a profile page that creates content automatically?
 • Wednesday                      138 commits                    █████░░░░░░░░░░░░░░░░░░░░   18.78%
 • Thursday                       75 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   10.20%
 • Friday                         153 commits                    █████░░░░░░░░░░░░░░░░░░░░   20.82%
-• Saturday                       43 commits                     █░░░░░░░░░░░░░░░░░░░░░░░░   5.85%
-• Sunday                         147 commits                    █████░░░░░░░░░░░░░░░░░░░░   20.00%
+• Saturday                       45 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   6.12%
+• Sunday                         145 commits                    █████░░░░░░░░░░░░░░░░░░░░   19.73%
 ```
 
 </details>
@@ -183,9 +183,9 @@ Seeking a profile page that creates content automatically?
 
 ```
 • 🌅 Morning                     273 commits                    █████████░░░░░░░░░░░░░░░░   37.14%
-• 🌞 Daytime                     197 commits                    ███████░░░░░░░░░░░░░░░░░░   26.80%
+• 🌞 Daytime                     198 commits                    ███████░░░░░░░░░░░░░░░░░░   26.94%
 • 🌇 Evening                     4 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.54%
-• 🌃 Night                       261 commits                    █████████░░░░░░░░░░░░░░░░   35.51%
+• 🌃 Night                       260 commits                    █████████░░░░░░░░░░░░░░░░   35.37%
 ```
 
 </details>
