@@ -108,8 +108,8 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (4 days ago)
-* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (6 days ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (5 days ago)
+* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (7 days ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (1 week ago)
 * [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (1 week ago)
 * [SimonWoodtli/www-simonwoodtli-com](https://github.com/SimonWoodtli/www-simonwoodtli-com) - 👨‍💻 My personal website (3 weeks ago)
@@ -118,8 +118,8 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (4 days ago)
-* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (6 days ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (5 days ago)
+* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (7 days ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (1 week ago)
 * [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (1 week ago)
 * [SimonWoodtli/www-simonwoodtli-com](https://github.com/SimonWoodtli/www-simonwoodtli-com) - 👨‍💻 My personal website (3 weeks ago)
@@ -128,7 +128,7 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🔨 My recent pull requests</b></summary>
 
-* [feat: add wireguard-generate-keys script](https://github.com/SimonWoodtli/dotfiles-old/pull/14) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (17 months ago)
+* [feat: add wireguard-generate-keys script](https://github.com/SimonWoodtli/dotfiles-old/pull/14) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (18 months ago)
 * [feat: add video-to-gif script](https://github.com/SimonWoodtli/dotfiles-old/pull/13) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (18 months ago)
 * [feat: add spoof-mac-linux script](https://github.com/SimonWoodtli/dotfiles-old/pull/12) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (18 months ago)
 * [feat: add sp-tmux script](https://github.com/SimonWoodtli/dotfiles-old/pull/11) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (18 months ago)
@@ -138,11 +138,11 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/64b06b0d48f6b18e1f342adf06a4b0a8bf05799f/20240226021020) - What are Podman Quadlets (7 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/64b06b0d48f6b18e1f342adf06a4b0a8bf05799f/20240226021020) - What are Podman Quadlets (1 week ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/87faac005c8e0178a7269bae60109ca9877cc229/20240220231311) - Enable Trim on luks encrypted SSDs (1 week ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/e070b876413072fe6c7c9630fa5c25e0cb915bdb/20240219142720) - Anacron Setup (1 week ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/e070b876413072fe6c7c9630fa5c25e0cb915bdb/20240219142720) - Anacron Setup (2 weeks ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/353c4e49e2878c41cf0724b4c8d5af432cce6624/20240218140751) - Compress files and add Password/Passphrase protection to extract (2 weeks ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/2fdb7a1889f16dbed642b1af1f1a48b110c4dafc/20240205234225) - Add private PGP/GPG subkeys (A,E,S) to your Yubikey (3 weeks ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/2fdb7a1889f16dbed642b1af1f1a48b110c4dafc/20240205234225) - Add private PGP/GPG subkeys (A,E,S) to your Yubikey (1 month ago)
 
 </details>
 <details>
