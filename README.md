@@ -89,7 +89,7 @@ Seeking a profile page that creates content automatically?
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 week ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (1 week ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (1 week ago)
-* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (1 week ago)
+* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (2 weeks ago)
 * [SimonWoodtli/www-simonwoodtli-com](https://github.com/SimonWoodtli/www-simonwoodtli-com) - 👨‍💻 My personal website (1 month ago)
 
 </details>
@@ -99,7 +99,7 @@ Seeking a profile page that creates content automatically?
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 week ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (1 week ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (1 week ago)
-* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (1 week ago)
+* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (2 weeks ago)
 * [SimonWoodtli/www-simonwoodtli-com](https://github.com/SimonWoodtli/www-simonwoodtli-com) - 👨‍💻 My personal website (1 month ago)
 
 </details>
@@ -149,13 +149,13 @@ Seeking a profile page that creates content automatically?
   <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         94 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   13.11%
-• Tuesday                        87 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   12.13%
-• Wednesday                      135 commits                    █████░░░░░░░░░░░░░░░░░░░░   18.83%
-• Thursday                       61 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   8.51%
-• Friday                         164 commits                    ██████░░░░░░░░░░░░░░░░░░░   22.87%
-• Saturday                       56 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   7.81%
-• Sunday                         120 commits                    ████░░░░░░░░░░░░░░░░░░░░░   16.74%
+• Monday                         94 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   13.13%
+• Tuesday                        87 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   12.15%
+• Wednesday                      135 commits                    █████░░░░░░░░░░░░░░░░░░░░   18.85%
+• Thursday                       61 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   8.52%
+• Friday                         163 commits                    ██████░░░░░░░░░░░░░░░░░░░   22.77%
+• Saturday                       56 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   7.82%
+• Sunday                         120 commits                    ████░░░░░░░░░░░░░░░░░░░░░   16.76%
 ```
 
 </details>
@@ -163,10 +163,10 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     290 commits                    ██████████░░░░░░░░░░░░░░░   40.45%
-• 🌞 Daytime                     151 commits                    █████░░░░░░░░░░░░░░░░░░░░   21.06%
+• 🌅 Morning                     290 commits                    ██████████░░░░░░░░░░░░░░░   40.50%
+• 🌞 Daytime                     151 commits                    █████░░░░░░░░░░░░░░░░░░░░   21.09%
 • 🌇 Evening                     2 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28%
-• 🌃 Night                       274 commits                    ██████████░░░░░░░░░░░░░░░   38.21%
+• 🌃 Night                       273 commits                    ██████████░░░░░░░░░░░░░░░   38.13%
 ```
 
 </details>
