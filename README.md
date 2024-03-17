@@ -135,7 +135,7 @@ Seeking a profile page that creates content automatically?
   <summary><b>⭐ My recent stars</b></summary>
 
 * [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app (1 month ago)
-* [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition (1 month ago)
+* [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition (2 months ago)
 * [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer! (2 months ago)
 * [mumble-voip/mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software. (2 months ago)
 * [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - </> htmx - high power tools for HTML (3 months ago)
