@@ -50,27 +50,32 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• Markdown                       1 hr 52 mins                   ████████████████████████░   97.99%
-• Other                          2 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2.01%
+• Markdown                       4 hrs 23 mins                  ████████████████████████░   94.27%
+• Bash                           7 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2.84%
+• conf                           5 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2.06%
+• Other                          2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.83%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• Unknown Project                1 hr 11 mins                   ███████████████░░░░░░░░░░   61.93%
-• zet                            43 mins                        ██████████░░░░░░░░░░░░░░░   38.07%
+• zet                            3 hrs 12 mins                  █████████████████░░░░░░░░   68.68%
+• Unknown Project                1 hr 14 mins                   ███████░░░░░░░░░░░░░░░░░░   26.56%
+• Private                        5 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2.06%
+• workspace-alpine               5 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.91%
+• dotfiles                       2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            1 hr 55 mins                   █████████████████████████   100%
+• Vim                            4 hrs 39 mins                  █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          1 hr 55 mins                   █████████████████████████   100%
+• Linux                          4 hrs 39 mins                  █████████████████████████   100%
 ```
 
 </details>
@@ -89,7 +94,7 @@ Seeking a profile page that creates content automatically?
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (2 weeks ago)
-* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (2 weeks ago)
+* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (3 weeks ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (3 weeks ago)
 * [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (3 weeks ago)
 * [SimonWoodtli/www-simonwoodtli-com](https://github.com/SimonWoodtli/www-simonwoodtli-com) - 👨‍💻 My personal website (1 month ago)
@@ -99,7 +104,7 @@ Seeking a profile page that creates content automatically?
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (2 weeks ago)
-* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (2 weeks ago)
+* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (3 weeks ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (3 weeks ago)
 * [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (3 weeks ago)
 * [SimonWoodtli/www-simonwoodtli-com](https://github.com/SimonWoodtli/www-simonwoodtli-com) - 👨‍💻 My personal website (1 month ago)
@@ -118,11 +123,11 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/2f50710b5b2f715f09d4bf36f89140933f169d29/20240319195719) - Resolve DNS names with the `dig` command (4 hours ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/747edecc15a9a342f1230e0d27d2dddae8eb2d0b/20240319193501) - /etc/hosts file explained (4 hours ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/c8c9f8cd1f396f8601a8bfcfe5bcb441615aa6a2/20240319193050) - Creating Bonding Network Interface with `nmcli` (4 hours ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/1b025d31695035d22b3eb32777f66a4ff549b656/20240319190458) - Networking create a default route (5 hours ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/e384819d2c725e0a440db747adfaf2551b2363ef/20240319190041) - Networking create a static route (5 hours ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/2f50710b5b2f715f09d4bf36f89140933f169d29/20240319195719) - Resolve DNS names with the `dig` command (1 day ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/747edecc15a9a342f1230e0d27d2dddae8eb2d0b/20240319193501) - /etc/hosts file explained (1 day ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/c8c9f8cd1f396f8601a8bfcfe5bcb441615aa6a2/20240319193050) - Creating Bonding Network Interface with `nmcli` (1 day ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/1b025d31695035d22b3eb32777f66a4ff549b656/20240319190458) - Networking create a default route (1 day ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/e384819d2c725e0a440db747adfaf2551b2363ef/20240319190041) - Networking create a static route (1 day ago)
 
 </details>
 <details>
