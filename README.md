@@ -50,32 +50,32 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• Markdown                       4 hrs 23 mins                  ████████████████████████░   94.27%
-• Bash                           7 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2.84%
-• conf                           5 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2.06%
-• Other                          2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.83%
+• Markdown                       5 hrs 12 mins                  ████████████████████████░   94.89%
+• Bash                           7 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2.42%
+• conf                           6 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.99%
+• Other                          2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• zet                            3 hrs 12 mins                  █████████████████░░░░░░░░   68.68%
-• Unknown Project                1 hr 14 mins                   ███████░░░░░░░░░░░░░░░░░░   26.56%
-• Private                        5 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2.06%
-• workspace-alpine               5 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.91%
-• dotfiles                       2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8%
+• zet                            3 hrs 45 mins                  █████████████████░░░░░░░░   68.65%
+• Unknown Project                1 hr 29 mins                   ███████░░░░░░░░░░░░░░░░░░   27.06%
+• Private                        6 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.99%
+• workspace-alpine               5 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.62%
+• dotfiles                       2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            4 hrs 39 mins                  █████████████████████████   100%
+• Vim                            5 hrs 28 mins                  █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          4 hrs 39 mins                  █████████████████████████   100%
+• Linux                          5 hrs 28 mins                  █████████████████████████   100%
 ```
 
 </details>
@@ -93,7 +93,7 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (2 weeks ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (3 weeks ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (3 weeks ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (3 weeks ago)
 * [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (3 weeks ago)
@@ -103,7 +103,7 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (2 weeks ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (3 weeks ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (3 weeks ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (3 weeks ago)
 * [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (3 weeks ago)
@@ -123,17 +123,17 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/d4042a3ca994a79689efaaf5da7c69355480612e/20240321165202) - LDAP Client Authentication Process (7 hours ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/b898474d1fbf4aadb1201d4945c546e5217167ab/20240321165126) - 🖼️ LDAP (7 hours ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/6c4f4a5bbfc15e242e8d07dd0e8aa7f78c0b5cae/20240321144537) - Networking Problem Troubleshooting (9 hours ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/2f50710b5b2f715f09d4bf36f89140933f169d29/20240319195719) - Resolve DNS names with the `dig` command (2 days ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/747edecc15a9a342f1230e0d27d2dddae8eb2d0b/20240319193501) - /etc/hosts file explained (2 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/d4042a3ca994a79689efaaf5da7c69355480612e/20240321165202) - LDAP Client Authentication Process (1 day ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/b898474d1fbf4aadb1201d4945c546e5217167ab/20240321165126) - 🖼️ LDAP (1 day ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/6c4f4a5bbfc15e242e8d07dd0e8aa7f78c0b5cae/20240321144537) - Networking Problem Troubleshooting (1 day ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/2f50710b5b2f715f09d4bf36f89140933f169d29/20240319195719) - Resolve DNS names with the `dig` command (3 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/747edecc15a9a342f1230e0d27d2dddae8eb2d0b/20240319193501) - /etc/hosts file explained (3 days ago)
 
 </details>
 <details>
   <summary><b>⭐ My recent stars</b></summary>
 
-* [turnkeylinux-apps/openldap](https://github.com/turnkeylinux-apps/openldap) - OpenLDAP - Open Source Directory Services (6 hours ago)
+* [turnkeylinux-apps/openldap](https://github.com/turnkeylinux-apps/openldap) - OpenLDAP - Open Source Directory Services (1 day ago)
 * [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app (1 month ago)
 * [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition (2 months ago)
 * [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer! (2 months ago)
