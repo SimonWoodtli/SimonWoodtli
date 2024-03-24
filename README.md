@@ -50,32 +50,32 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• Markdown                       5 hrs 12 mins                  ████████████████████████░   94.89%
-• Bash                           7 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2.42%
-• conf                           6 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.99%
-• Other                          2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7%
+• Markdown                       5 hrs 33 mins                  ████████████████████████░   95.2%
+• Bash                           7 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2.27%
+• conf                           6 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.87%
+• Other                          2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.66%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• zet                            3 hrs 45 mins                  █████████████████░░░░░░░░   68.65%
-• Unknown Project                1 hr 29 mins                   ███████░░░░░░░░░░░░░░░░░░   27.06%
-• Private                        6 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.99%
-• workspace-alpine               5 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.62%
-• dotfiles                       2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68%
+• zet                            4 hrs 1 min                    █████████████████░░░░░░░░   68.94%
+• Unknown Project                1 hr 34 mins                   ███████░░░░░░░░░░░░░░░░░░   27.03%
+• Private                        6 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.87%
+• workspace-alpine               5 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.52%
+• dotfiles                       2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.64%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            5 hrs 28 mins                  █████████████████████████   100%
+• Vim                            5 hrs 50 mins                  █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          5 hrs 28 mins                  █████████████████████████   100%
+• Linux                          5 hrs 50 mins                  █████████████████████████   100%
 ```
 
 </details>
@@ -123,18 +123,18 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/d4042a3ca994a79689efaaf5da7c69355480612e/20240321165202) - LDAP Client Authentication Process (1 day ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/b898474d1fbf4aadb1201d4945c546e5217167ab/20240321165126) - 🖼️ LDAP (1 day ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/6c4f4a5bbfc15e242e8d07dd0e8aa7f78c0b5cae/20240321144537) - Networking Problem Troubleshooting (1 day ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/2f50710b5b2f715f09d4bf36f89140933f169d29/20240319195719) - Resolve DNS names with the `dig` command (3 days ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/747edecc15a9a342f1230e0d27d2dddae8eb2d0b/20240319193501) - /etc/hosts file explained (3 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/ae4c32f2c7750c4b019d927a595e4a91d56d6c2f/20240322230223) - Firewalls explained (23 hours ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/d4042a3ca994a79689efaaf5da7c69355480612e/20240321165202) - LDAP Client Authentication Process (2 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/b898474d1fbf4aadb1201d4945c546e5217167ab/20240321165126) - 🖼️ LDAP (2 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/6c4f4a5bbfc15e242e8d07dd0e8aa7f78c0b5cae/20240321144537) - Networking Problem Troubleshooting (2 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/2f50710b5b2f715f09d4bf36f89140933f169d29/20240319195719) - Resolve DNS names with the `dig` command (4 days ago)
 
 </details>
 <details>
   <summary><b>⭐ My recent stars</b></summary>
 
-* [turnkeylinux-apps/openldap](https://github.com/turnkeylinux-apps/openldap) - OpenLDAP - Open Source Directory Services (1 day ago)
-* [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app (1 month ago)
+* [turnkeylinux-apps/openldap](https://github.com/turnkeylinux-apps/openldap) - OpenLDAP - Open Source Directory Services (2 days ago)
+* [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app (2 months ago)
 * [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition (2 months ago)
 * [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer! (2 months ago)
 * [mumble-voip/mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software. (2 months ago)
@@ -158,8 +158,8 @@ Seeking a profile page that creates content automatically?
 ```
 • Monday                         91 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   12.85%
 • Tuesday                        94 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   13.28%
-• Wednesday                      133 commits                    █████░░░░░░░░░░░░░░░░░░░░   18.79%
-• Thursday                       61 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   8.62%
+• Wednesday                      131 commits                    █████░░░░░░░░░░░░░░░░░░░░   18.50%
+• Thursday                       63 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   8.90%
 • Friday                         156 commits                    ██████░░░░░░░░░░░░░░░░░░░   22.03%
 • Saturday                       55 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   7.77%
 • Sunday                         118 commits                    ████░░░░░░░░░░░░░░░░░░░░░   16.67%
@@ -170,10 +170,10 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     287 commits                    ██████████░░░░░░░░░░░░░░░   40.54%
-• 🌞 Daytime                     145 commits                    █████░░░░░░░░░░░░░░░░░░░░   20.48%
+• 🌅 Morning                     285 commits                    ██████████░░░░░░░░░░░░░░░   40.25%
+• 🌞 Daytime                     146 commits                    █████░░░░░░░░░░░░░░░░░░░░   20.62%
 • 🌇 Evening                     2 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28%
-• 🌃 Night                       274 commits                    ██████████░░░░░░░░░░░░░░░   38.70%
+• 🌃 Night                       275 commits                    ██████████░░░░░░░░░░░░░░░   38.84%
 ```
 
 </details>
