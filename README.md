@@ -119,17 +119,17 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/ae4c32f2c7750c4b019d927a595e4a91d56d6c2f/20240322230223) - Firewalls explained (4 days ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/d4042a3ca994a79689efaaf5da7c69355480612e/20240321165202) - LDAP Client Authentication Process (6 days ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/b898474d1fbf4aadb1201d4945c546e5217167ab/20240321165126) - 🖼️ LDAP (6 days ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/6c4f4a5bbfc15e242e8d07dd0e8aa7f78c0b5cae/20240321144537) - Networking Problem Troubleshooting (6 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/ae4c32f2c7750c4b019d927a595e4a91d56d6c2f/20240322230223) - Firewalls explained (5 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/d4042a3ca994a79689efaaf5da7c69355480612e/20240321165202) - LDAP Client Authentication Process (7 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/b898474d1fbf4aadb1201d4945c546e5217167ab/20240321165126) - 🖼️ LDAP (7 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/6c4f4a5bbfc15e242e8d07dd0e8aa7f78c0b5cae/20240321144537) - Networking Problem Troubleshooting (7 days ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/2f50710b5b2f715f09d4bf36f89140933f169d29/20240319195719) - Resolve DNS names with the `dig` command (1 week ago)
 
 </details>
 <details>
   <summary><b>⭐ My recent stars</b></summary>
 
-* [turnkeylinux-apps/openldap](https://github.com/turnkeylinux-apps/openldap) - OpenLDAP - Open Source Directory Services (6 days ago)
+* [turnkeylinux-apps/openldap](https://github.com/turnkeylinux-apps/openldap) - OpenLDAP - Open Source Directory Services (7 days ago)
 * [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app (2 months ago)
 * [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition (2 months ago)
 * [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer! (3 months ago)
