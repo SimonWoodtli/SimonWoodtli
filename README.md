@@ -50,25 +50,25 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• Markdown                       55 mins                        █████████████████████████   100%
+• No Data found                                                 
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• zet                            55 mins                        █████████████████████████   100%
+• No Data found                                                 
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            55 mins                        █████████████████████████   100%
+• No Data found                                                 
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          55 mins                        █████████████████████████   100%
+• No Data found                                                 
 ```
 
 </details>
@@ -110,13 +110,13 @@ Seeking a profile page that creates content automatically?
 * [feat: add video-to-gif script](https://github.com/SimonWoodtli/dotfiles-old/pull/13) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (18 months ago)
 * [feat: add spoof-mac-linux script](https://github.com/SimonWoodtli/dotfiles-old/pull/12) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (18 months ago)
 * [feat: add sp-tmux script](https://github.com/SimonWoodtli/dotfiles-old/pull/11) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (18 months ago)
-* [feat: add sp script](https://github.com/SimonWoodtli/dotfiles-old/pull/10) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (18 months ago)
+* [feat: add sp script](https://github.com/SimonWoodtli/dotfiles-old/pull/10) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (19 months ago)
 
 </details>
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/ae4c32f2c7750c4b019d927a595e4a91d56d6c2f/20240322230223) - Firewalls explained (7 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/ae4c32f2c7750c4b019d927a595e4a91d56d6c2f/20240322230223) - Firewalls explained (1 week ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/d4042a3ca994a79689efaaf5da7c69355480612e/20240321165202) - LDAP Client Authentication Process (1 week ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/b898474d1fbf4aadb1201d4945c546e5217167ab/20240321165126) - 🖼️ LDAP (1 week ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/6c4f4a5bbfc15e242e8d07dd0e8aa7f78c0b5cae/20240321144537) - Networking Problem Troubleshooting (1 week ago)
