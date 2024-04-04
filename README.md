@@ -107,7 +107,7 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔨 My recent pull requests</b></summary>
 
 * [feat: add wireguard-generate-keys script](https://github.com/SimonWoodtli/dotfiles-old/pull/14) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (18 months ago)
-* [feat: add video-to-gif script](https://github.com/SimonWoodtli/dotfiles-old/pull/13) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (18 months ago)
+* [feat: add video-to-gif script](https://github.com/SimonWoodtli/dotfiles-old/pull/13) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (19 months ago)
 * [feat: add spoof-mac-linux script](https://github.com/SimonWoodtli/dotfiles-old/pull/12) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (19 months ago)
 * [feat: add sp-tmux script](https://github.com/SimonWoodtli/dotfiles-old/pull/11) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (19 months ago)
 * [feat: add sp script](https://github.com/SimonWoodtli/dotfiles-old/pull/10) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (19 months ago)
@@ -120,7 +120,7 @@ Seeking a profile page that creates content automatically?
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/d4042a3ca994a79689efaaf5da7c69355480612e/20240321165202) - LDAP Client Authentication Process (1 week ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/b898474d1fbf4aadb1201d4945c546e5217167ab/20240321165126) - 🖼️ LDAP (1 week ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/6c4f4a5bbfc15e242e8d07dd0e8aa7f78c0b5cae/20240321144537) - Networking Problem Troubleshooting (1 week ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/2f50710b5b2f715f09d4bf36f89140933f169d29/20240319195719) - Resolve DNS names with the `dig` command (1 week ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/2f50710b5b2f715f09d4bf36f89140933f169d29/20240319195719) - Resolve DNS names with the `dig` command (2 weeks ago)
 
 </details>
 <details>
