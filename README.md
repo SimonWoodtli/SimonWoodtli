@@ -106,7 +106,7 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🔨 My recent pull requests</b></summary>
 
-* [feat: add wireguard-generate-keys script](https://github.com/SimonWoodtli/dotfiles-old/pull/14) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (18 months ago)
+* [feat: add wireguard-generate-keys script](https://github.com/SimonWoodtli/dotfiles-old/pull/14) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (19 months ago)
 * [feat: add video-to-gif script](https://github.com/SimonWoodtli/dotfiles-old/pull/13) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (19 months ago)
 * [feat: add spoof-mac-linux script](https://github.com/SimonWoodtli/dotfiles-old/pull/12) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (19 months ago)
 * [feat: add sp-tmux script](https://github.com/SimonWoodtli/dotfiles-old/pull/11) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (19 months ago)
@@ -116,11 +116,11 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/81d1e275a84c1e1e821436766cc801ef67289cc9/20240404200457) - Systemd Cheatsheet (4 hours ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/3283a68174656e5b5063b5438bcc503fee8c68f3/20240404180508) - systemd features (6 hours ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/2c1e5a695ea2c4974b8efb87df12ec2e43e54d9b/20240404175613) - systemd init (6 hours ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/9b1d65ca924ecb5b83eff20ed0807845da910b96/20240404175338) - firewalld explained (6 hours ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/ae4c32f2c7750c4b019d927a595e4a91d56d6c2f/20240322230223) - Firewalls explained (1 week ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/d4042a3ca994a79689efaaf5da7c69355480612e/20240321165202) - LDAP Client Authentication Process (1 week ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/b898474d1fbf4aadb1201d4945c546e5217167ab/20240321165126) - 🖼️ LDAP (1 week ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/6c4f4a5bbfc15e242e8d07dd0e8aa7f78c0b5cae/20240321144537) - Networking Problem Troubleshooting (1 week ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/2f50710b5b2f715f09d4bf36f89140933f169d29/20240319195719) - Resolve DNS names with the `dig` command (2 weeks ago)
 
 </details>
 <details>
@@ -151,11 +151,11 @@ Seeking a profile page that creates content automatically?
 ```
 • Monday                         91 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   12.89%
 • Tuesday                        94 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   13.31%
-• Wednesday                      131 commits                    █████░░░░░░░░░░░░░░░░░░░░   18.56%
-• Thursday                       63 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   8.92%
-• Friday                         156 commits                    ██████░░░░░░░░░░░░░░░░░░░   22.10%
+• Wednesday                      130 commits                    █████░░░░░░░░░░░░░░░░░░░░   18.41%
+• Thursday                       62 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   8.78%
+• Friday                         154 commits                    █████░░░░░░░░░░░░░░░░░░░░   21.81%
 • Saturday                       55 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   7.79%
-• Sunday                         116 commits                    ████░░░░░░░░░░░░░░░░░░░░░   16.43%
+• Sunday                         120 commits                    ████░░░░░░░░░░░░░░░░░░░░░   17.00%
 ```
 
 </details>
@@ -163,10 +163,10 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     285 commits                    ██████████░░░░░░░░░░░░░░░   40.37%
-• 🌞 Daytime                     146 commits                    █████░░░░░░░░░░░░░░░░░░░░   20.68%
+• 🌅 Morning                     289 commits                    ██████████░░░░░░░░░░░░░░░   40.93%
+• 🌞 Daytime                     143 commits                    █████░░░░░░░░░░░░░░░░░░░░   20.25%
 • 🌇 Evening                     2 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28%
-• 🌃 Night                       273 commits                    ██████████░░░░░░░░░░░░░░░   38.67%
+• 🌃 Night                       272 commits                    ██████████░░░░░░░░░░░░░░░   38.53%
 ```
 
 </details>
