@@ -120,11 +120,11 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/81d1e275a84c1e1e821436766cc801ef67289cc9/20240404200457) - Systemd Cheatsheet (2 days ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/3283a68174656e5b5063b5438bcc503fee8c68f3/20240404180508) - systemd features (2 days ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/2c1e5a695ea2c4974b8efb87df12ec2e43e54d9b/20240404175613) - systemd init (2 days ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/9b1d65ca924ecb5b83eff20ed0807845da910b96/20240404175338) - firewalld explained (2 days ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/ae4c32f2c7750c4b019d927a595e4a91d56d6c2f/20240322230223) - Firewalls explained (1 week ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/81d1e275a84c1e1e821436766cc801ef67289cc9/20240404200457) - Systemd Cheatsheet (3 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/3283a68174656e5b5063b5438bcc503fee8c68f3/20240404180508) - systemd features (3 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/2c1e5a695ea2c4974b8efb87df12ec2e43e54d9b/20240404175613) - systemd init (3 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/9b1d65ca924ecb5b83eff20ed0807845da910b96/20240404175338) - firewalld explained (3 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/ae4c32f2c7750c4b019d927a595e4a91d56d6c2f/20240322230223) - Firewalls explained (2 weeks ago)
 
 </details>
 <details>
@@ -153,13 +153,13 @@ Seeking a profile page that creates content automatically?
   <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         91 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   12.89%
-• Tuesday                        94 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   13.31%
-• Wednesday                      130 commits                    █████░░░░░░░░░░░░░░░░░░░░   18.41%
-• Thursday                       62 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   8.78%
-• Friday                         154 commits                    █████░░░░░░░░░░░░░░░░░░░░   21.81%
-• Saturday                       55 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   7.79%
-• Sunday                         120 commits                    ████░░░░░░░░░░░░░░░░░░░░░   17.00%
+• Monday                         91 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   12.93%
+• Tuesday                        94 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   13.35%
+• Wednesday                      130 commits                    █████░░░░░░░░░░░░░░░░░░░░   18.47%
+• Thursday                       62 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   8.81%
+• Friday                         152 commits                    █████░░░░░░░░░░░░░░░░░░░░   21.59%
+• Saturday                       55 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   7.81%
+• Sunday                         120 commits                    ████░░░░░░░░░░░░░░░░░░░░░   17.05%
 ```
 
 </details>
@@ -167,10 +167,10 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     289 commits                    ██████████░░░░░░░░░░░░░░░   40.93%
-• 🌞 Daytime                     143 commits                    █████░░░░░░░░░░░░░░░░░░░░   20.25%
+• 🌅 Morning                     287 commits                    ██████████░░░░░░░░░░░░░░░   40.77%
+• 🌞 Daytime                     143 commits                    █████░░░░░░░░░░░░░░░░░░░░   20.31%
 • 🌇 Evening                     2 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28%
-• 🌃 Night                       272 commits                    ██████████░░░░░░░░░░░░░░░   38.53%
+• 🌃 Night                       272 commits                    ██████████░░░░░░░░░░░░░░░   38.64%
 ```
 
 </details>
