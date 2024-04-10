@@ -50,17 +50,16 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• Markdown                       28 mins                        ████████████████░░░░░░░░░   62.62%
-• conf                           16 mins                        █████████░░░░░░░░░░░░░░░░   36.27%
-• sshconfig                      0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.11%
+• Markdown                       28 mins                        ████████████████░░░░░░░░░   63.32%
+• conf                           16 mins                        █████████░░░░░░░░░░░░░░░░   36.68%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• zet                            24 mins                        ██████████████░░░░░░░░░░░   55.21%
-• Private                        16 mins                        █████████░░░░░░░░░░░░░░░░   37.38%
-• Unknown Project                3 mins                         ██░░░░░░░░░░░░░░░░░░░░░░░   7.41%
+• zet                            24 mins                        ██████████████░░░░░░░░░░░   55.83%
+• Private                        16 mins                        █████████░░░░░░░░░░░░░░░░   36.68%
+• Unknown Project                3 mins                         ██░░░░░░░░░░░░░░░░░░░░░░░   7.49%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
@@ -120,10 +119,10 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/81d1e275a84c1e1e821436766cc801ef67289cc9/20240404200457) - Systemd Cheatsheet (4 days ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/3283a68174656e5b5063b5438bcc503fee8c68f3/20240404180508) - systemd features (4 days ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/2c1e5a695ea2c4974b8efb87df12ec2e43e54d9b/20240404175613) - systemd init (4 days ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/9b1d65ca924ecb5b83eff20ed0807845da910b96/20240404175338) - firewalld explained (4 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/81d1e275a84c1e1e821436766cc801ef67289cc9/20240404200457) - Systemd Cheatsheet (5 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/3283a68174656e5b5063b5438bcc503fee8c68f3/20240404180508) - systemd features (5 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/2c1e5a695ea2c4974b8efb87df12ec2e43e54d9b/20240404175613) - systemd init (5 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/9b1d65ca924ecb5b83eff20ed0807845da910b96/20240404175338) - firewalld explained (5 days ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/ae4c32f2c7750c4b019d927a595e4a91d56d6c2f/20240322230223) - Firewalls explained (2 weeks ago)
 
 </details>
