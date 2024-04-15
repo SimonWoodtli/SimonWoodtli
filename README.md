@@ -89,7 +89,7 @@ Seeking a profile page that creates content automatically?
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 month ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (1 month ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (1 month ago)
-* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (1 month ago)
+* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (2 months ago)
 * [SimonWoodtli/www-simonwoodtli-com](https://github.com/SimonWoodtli/www-simonwoodtli-com) - 👨‍💻 My personal website (2 months ago)
 
 </details>
@@ -99,7 +99,7 @@ Seeking a profile page that creates content automatically?
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 month ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (1 month ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (1 month ago)
-* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (1 month ago)
+* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (2 months ago)
 * [SimonWoodtli/www-simonwoodtli-com](https://github.com/SimonWoodtli/www-simonwoodtli-com) - 👨‍💻 My personal website (2 months ago)
 
 </details>
@@ -120,7 +120,7 @@ Seeking a profile page that creates content automatically?
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/3283a68174656e5b5063b5438bcc503fee8c68f3/20240404180508) - systemd features (1 week ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/2c1e5a695ea2c4974b8efb87df12ec2e43e54d9b/20240404175613) - systemd init (1 week ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/9b1d65ca924ecb5b83eff20ed0807845da910b96/20240404175338) - firewalld explained (1 week ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/ae4c32f2c7750c4b019d927a595e4a91d56d6c2f/20240322230223) - Firewalls explained (2 weeks ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/ae4c32f2c7750c4b019d927a595e4a91d56d6c2f/20240322230223) - Firewalls explained (3 weeks ago)
 
 </details>
 <details>
@@ -149,13 +149,13 @@ Seeking a profile page that creates content automatically?
   <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         91 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   12.93%
-• Tuesday                        94 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   13.35%
-• Wednesday                      130 commits                    █████░░░░░░░░░░░░░░░░░░░░   18.47%
-• Thursday                       62 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   8.81%
-• Friday                         152 commits                    █████░░░░░░░░░░░░░░░░░░░░   21.59%
-• Saturday                       55 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   7.81%
-• Sunday                         120 commits                    ████░░░░░░░░░░░░░░░░░░░░░   17.05%
+• Monday                         91 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   13.02%
+• Tuesday                        94 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   13.45%
+• Wednesday                      130 commits                    █████░░░░░░░░░░░░░░░░░░░░   18.60%
+• Thursday                       62 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   8.87%
+• Friday                         147 commits                    █████░░░░░░░░░░░░░░░░░░░░   21.03%
+• Saturday                       55 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   7.87%
+• Sunday                         120 commits                    ████░░░░░░░░░░░░░░░░░░░░░   17.17%
 ```
 
 </details>
@@ -163,10 +163,10 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     287 commits                    ██████████░░░░░░░░░░░░░░░   40.77%
-• 🌞 Daytime                     143 commits                    █████░░░░░░░░░░░░░░░░░░░░   20.31%
-• 🌇 Evening                     2 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28%
-• 🌃 Night                       272 commits                    ██████████░░░░░░░░░░░░░░░   38.64%
+• 🌅 Morning                     287 commits                    ██████████░░░░░░░░░░░░░░░   41.06%
+• 🌞 Daytime                     138 commits                    █████░░░░░░░░░░░░░░░░░░░░   19.74%
+• 🌇 Evening                     2 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
+• 🌃 Night                       272 commits                    ██████████░░░░░░░░░░░░░░░   38.91%
 ```
 
 </details>
