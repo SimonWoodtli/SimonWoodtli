@@ -87,7 +87,7 @@ Seeking a profile page that creates content automatically?
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 month ago)
-* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (1 month ago)
+* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (2 months ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (2 months ago)
 * [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (2 months ago)
 * [SimonWoodtli/www-simonwoodtli-com](https://github.com/SimonWoodtli/www-simonwoodtli-com) - 👨‍💻 My personal website (2 months ago)
@@ -97,7 +97,7 @@ Seeking a profile page that creates content automatically?
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 month ago)
-* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (1 month ago)
+* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (2 months ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (2 months ago)
 * [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (2 months ago)
 * [SimonWoodtli/www-simonwoodtli-com](https://github.com/SimonWoodtli/www-simonwoodtli-com) - 👨‍💻 My personal website (2 months ago)
@@ -127,7 +127,7 @@ Seeking a profile page that creates content automatically?
   <summary><b>⭐ My recent stars</b></summary>
 
 * [turnkeylinux-apps/openldap](https://github.com/turnkeylinux-apps/openldap) - OpenLDAP - Open Source Directory Services (3 weeks ago)
-* [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app (2 months ago)
+* [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app (3 months ago)
 * [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition (3 months ago)
 * [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer! (3 months ago)
 * [mumble-voip/mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software. (3 months ago)
