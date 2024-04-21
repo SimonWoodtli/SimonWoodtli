@@ -50,25 +50,26 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• No Data found                                                 
+• Text                           8 mins                         ████████████████████░░░░░   80.77%
+• Other                          2 mins                         █████░░░░░░░░░░░░░░░░░░░░   19.23%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• No Data found                                                 
+• Unknown Project                10 mins                        █████████████████████████   100%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• No Data found                                                 
+• Vim                            10 mins                        █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• No Data found                                                 
+• Linux                          10 mins                        █████████████████████████   100%
 ```
 
 </details>
