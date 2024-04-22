@@ -50,26 +50,33 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• Text                           8 mins                         ████████████████████░░░░░   80.77%
-• Other                          2 mins                         █████░░░░░░░░░░░░░░░░░░░░   19.23%
+• Markdown                       35 mins                        ██████████░░░░░░░░░░░░░░░   41.04%
+• YAML                           17 mins                        █████░░░░░░░░░░░░░░░░░░░░   19.82%
+• Other                          16 mins                        █████░░░░░░░░░░░░░░░░░░░░   19.04%
+• Text                           8 mins                         ███░░░░░░░░░░░░░░░░░░░░░░   10.01%
+• sshconfig                      5 mins                         ██░░░░░░░░░░░░░░░░░░░░░░░   6.16%
+• tmux                           3 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   3.83%
+• conf                           0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• Unknown Project                10 mins                        █████████████████████████   100%
+• zet                            35 mins                        ██████████░░░░░░░░░░░░░░░   41.04%
+• Unknown Project                32 mins                        █████████░░░░░░░░░░░░░░░░   37.59%
+• Private                        18 mins                        █████░░░░░░░░░░░░░░░░░░░░   21.37%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            10 mins                        █████████████████████████   100%
+• Vim                            1 hr 27 mins                   █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          10 mins                        █████████████████████████   100%
+• Linux                          1 hr 27 mins                   █████████████████████████   100%
 ```
 
 </details>
@@ -121,7 +128,7 @@ Seeking a profile page that creates content automatically?
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/3283a68174656e5b5063b5438bcc503fee8c68f3/20240404180508) - systemd features (2 weeks ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/2c1e5a695ea2c4974b8efb87df12ec2e43e54d9b/20240404175613) - systemd init (2 weeks ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/9b1d65ca924ecb5b83eff20ed0807845da910b96/20240404175338) - firewalld explained (2 weeks ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/ae4c32f2c7750c4b019d927a595e4a91d56d6c2f/20240322230223) - Firewalls explained (3 weeks ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/ae4c32f2c7750c4b019d927a595e4a91d56d6c2f/20240322230223) - Firewalls explained (1 month ago)
 
 </details>
 <details>
