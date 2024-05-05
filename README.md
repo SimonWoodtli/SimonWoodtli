@@ -50,35 +50,34 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• Markdown                       4 hrs 24 mins                  █████████████████░░░░░░░░   66.99%
-• conf                           1 hr 19 mins                   █████░░░░░░░░░░░░░░░░░░░░   20.08%
-• Python                         22 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   5.64%
-• Text                           14 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.63%
-• sh                             8 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2.14%
-• Bash                           3 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.92%
-• Other                          2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59%
+• Markdown                       7 hrs 39 mins                  ████████████████████░░░░░   81.62%
+• conf                           1 hr 16 mins                   ███░░░░░░░░░░░░░░░░░░░░░░   13.66%
+• Text                           14 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.55%
+• sh                             8 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.5%
+• Bash                           3 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.65%
+• Other                          0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 • XML                            0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• zet                            4 hrs 19 mins                  ████████████████░░░░░░░░░   65.82%
-• Private                        1 hr 19 mins                   █████░░░░░░░░░░░░░░░░░░░░   20.08%
-• Unknown Project                40 mins                        ███░░░░░░░░░░░░░░░░░░░░░░   10.28%
-• dotfiles                       15 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.82%
+• zet                            7 hrs 34 mins                  ████████████████████░░░░░   80.8%
+• Private                        1 hr 16 mins                   ███░░░░░░░░░░░░░░░░░░░░░░   13.66%
+• Unknown Project                19 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.39%
+• dotfiles                       12 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.15%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            6 hrs 34 mins                  █████████████████████████   100%
+• Vim                            9 hrs 22 mins                  █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          6 hrs 34 mins                  █████████████████████████   100%
+• Linux                          9 hrs 22 mins                  █████████████████████████   100%
 ```
 
 </details>
@@ -96,7 +95,7 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (7 days ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 week ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (2 months ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (2 months ago)
 * [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (2 months ago)
@@ -106,7 +105,7 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (7 days ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 week ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (2 months ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (2 months ago)
 * [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (2 months ago)
@@ -116,7 +115,7 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🔨 My recent pull requests</b></summary>
 
-* [feat: add wireguard-generate-keys script](https://github.com/SimonWoodtli/dotfiles-old/pull/14) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (19 months ago)
+* [feat: add wireguard-generate-keys script](https://github.com/SimonWoodtli/dotfiles-old/pull/14) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (20 months ago)
 * [feat: add video-to-gif script](https://github.com/SimonWoodtli/dotfiles-old/pull/13) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (20 months ago)
 * [feat: add spoof-mac-linux script](https://github.com/SimonWoodtli/dotfiles-old/pull/12) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (20 months ago)
 * [feat: add sp-tmux script](https://github.com/SimonWoodtli/dotfiles-old/pull/11) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (20 months ago)
@@ -126,7 +125,7 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/1a3c4523bda38ec72b54b2d24f0d9184aaf97a22/20240503134333) - Share Folder from host to VM with KVM/Qemu Virtmanager (10 hours ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/1a3c4523bda38ec72b54b2d24f0d9184aaf97a22/20240503134333) - Share Folder from host to VM with KVM/Qemu Virtmanager (1 day ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/81d1e275a84c1e1e821436766cc801ef67289cc9/20240404200457) - Systemd Cheatsheet (1 month ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/3283a68174656e5b5063b5438bcc503fee8c68f3/20240404180508) - systemd features (1 month ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/2c1e5a695ea2c4974b8efb87df12ec2e43e54d9b/20240404175613) - systemd init (1 month ago)
