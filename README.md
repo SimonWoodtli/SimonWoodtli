@@ -50,12 +50,11 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• Markdown                       8 hrs 55 mins                  █████████████████████░░░░   83.54%
-• conf                           1 hr 16 mins                   ███░░░░░░░░░░░░░░░░░░░░░░   11.99%
-• Text                           14 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.24%
-• sh                             8 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.32%
-• Bash                           3 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.57%
-• YAML                           2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
+• Markdown                       9 hrs 47 mins                  ██████████████████████░░░   89.5%
+• conf                           54 mins                        ██░░░░░░░░░░░░░░░░░░░░░░░   8.28%
+• Text                           7 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.17%
+• sh                             4 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71%
+• YAML                           2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32%
 • Other                          0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 • XML                            0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 ```
@@ -63,23 +62,23 @@ Seeking a profile page that creates content automatically?
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• zet                            8 hrs 50 mins                  █████████████████████░░░░   82.82%
-• Private                        1 hr 16 mins                   ███░░░░░░░░░░░░░░░░░░░░░░   11.99%
-• Unknown Project                19 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.98%
-• dotfiles                       12 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.89%
-• workspace-alpine               2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
+• zet                            9 hrs 47 mins                  ██████████████████████░░░   89.5%
+• Private                        54 mins                        ██░░░░░░░░░░░░░░░░░░░░░░░   8.28%
+• Unknown Project                7 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18%
+• dotfiles                       4 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71%
+• workspace-alpine               2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            10 hrs 40 mins                 █████████████████████████   100%
+• Vim                            10 hrs 55 mins                 █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          10 hrs 40 mins                 █████████████████████████   100%
+• Linux                          10 hrs 55 mins                 █████████████████████████   100%
 ```
 
 </details>
@@ -127,7 +126,7 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/1a3c4523bda38ec72b54b2d24f0d9184aaf97a22/20240503134333) - Share Folder from host to VM with KVM/Qemu Virtmanager (3 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/1a3c4523bda38ec72b54b2d24f0d9184aaf97a22/20240503134333) - Share Folder from host to VM with KVM/Qemu Virtmanager (4 days ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/81d1e275a84c1e1e821436766cc801ef67289cc9/20240404200457) - Systemd Cheatsheet (1 month ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/3283a68174656e5b5063b5438bcc503fee8c68f3/20240404180508) - systemd features (1 month ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/2c1e5a695ea2c4974b8efb87df12ec2e43e54d9b/20240404175613) - systemd init (1 month ago)
