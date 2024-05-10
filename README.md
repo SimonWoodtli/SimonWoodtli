@@ -50,33 +50,29 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• Markdown                       9 hrs 12 mins                  ███████████████████████░░   93.61%
-• conf                           30 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   5.23%
-• sh                             4 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78%
-• YAML                           2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36%
-• Other                          0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+• Markdown                       8 hrs 51 mins                  █████████████████████████   99.59%
+• YAML                           2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39%
+• Other                          0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• zet                            9 hrs 12 mins                  ███████████████████████░░   93.61%
-• Private                        30 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   5.23%
-• dotfiles                       4 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78%
-• workspace-alpine               2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36%
-• Unknown Project                0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+• zet                            8 hrs 51 mins                  █████████████████████████   99.59%
+• workspace-alpine               2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39%
+• Unknown Project                0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            9 hrs 50 mins                  █████████████████████████   100%
+• Vim                            8 hrs 54 mins                  █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          9 hrs 50 mins                  █████████████████████████   100%
+• Linux                          8 hrs 54 mins                  █████████████████████████   100%
 ```
 
 </details>
@@ -97,7 +93,7 @@ Seeking a profile page that creates content automatically?
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 week ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (2 months ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (2 months ago)
-* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (2 months ago)
+* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (3 months ago)
 * [SimonWoodtli/www-simonwoodtli-com](https://github.com/SimonWoodtli/www-simonwoodtli-com) - 👨‍💻 My personal website (3 months ago)
 
 </details>
@@ -107,7 +103,7 @@ Seeking a profile page that creates content automatically?
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 week ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (2 months ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (2 months ago)
-* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (2 months ago)
+* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (3 months ago)
 * [SimonWoodtli/www-simonwoodtli-com](https://github.com/SimonWoodtli/www-simonwoodtli-com) - 👨‍💻 My personal website (3 months ago)
 
 </details>
@@ -124,7 +120,7 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/1a3c4523bda38ec72b54b2d24f0d9184aaf97a22/20240503134333) - Share Folder from host to VM with KVM/Qemu Virtmanager (5 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/1a3c4523bda38ec72b54b2d24f0d9184aaf97a22/20240503134333) - Share Folder from host to VM with KVM/Qemu Virtmanager (6 days ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/81d1e275a84c1e1e821436766cc801ef67289cc9/20240404200457) - Systemd Cheatsheet (1 month ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/3283a68174656e5b5063b5438bcc503fee8c68f3/20240404180508) - systemd features (1 month ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/2c1e5a695ea2c4974b8efb87df12ec2e43e54d9b/20240404175613) - systemd init (1 month ago)
@@ -134,11 +130,11 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>⭐ My recent stars</b></summary>
 
+* [dsprenkels/sss-cli](https://github.com/dsprenkels/sss-cli) - Command line program for secret-sharing strings (1 hours ago)
 * [turnkeylinux-apps/openldap](https://github.com/turnkeylinux-apps/openldap) - OpenLDAP - Open Source Directory Services (1 month ago)
 * [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app (3 months ago)
 * [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition (3 months ago)
 * [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer! (4 months ago)
-* [mumble-voip/mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software. (4 months ago)
 
 </details>
 <details>
