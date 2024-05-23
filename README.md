@@ -50,29 +50,27 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• Markdown                       12 mins                        █████████████░░░░░░░░░░░░   51.24%
-• Other                          10 mins                        ███████████░░░░░░░░░░░░░░   43.72%
-• Bash                           1 min                          █░░░░░░░░░░░░░░░░░░░░░░░░   5.04%
+• Markdown                       1 hr 8 mins                    ████████████████████░░░░░   79.52%
+• conf                           17 mins                        █████░░░░░░░░░░░░░░░░░░░░   20.48%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• zet                            12 mins                        █████████████░░░░░░░░░░░░   51.24%
-• Private                        10 mins                        ███████████░░░░░░░░░░░░░░   43.72%
-• Unknown Project                1 min                          █░░░░░░░░░░░░░░░░░░░░░░░░   5.04%
+• zet                            1 hr 8 mins                    ████████████████████░░░░░   79.52%
+• Private                        17 mins                        █████░░░░░░░░░░░░░░░░░░░░   20.48%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            23 mins                        █████████████████████████   100%
+• Vim                            1 hr 25 mins                   █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          23 mins                        █████████████████████████   100%
+• Linux                          1 hr 25 mins                   █████████████████████████   100%
 ```
 
 </details>
@@ -120,21 +118,21 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/c36f9935d59d4df01e205ca2d8386174a8a0aae7/20240522214905) - Backup Strategies (2 hours ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/b5a47f954596578c77cadc8d365370e707a59d0d/20240522214238) - Backup Methods (2 hours ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/55aa4b28b72673785f4ac11d4eb76fae99d69334/20240522212518) - Backups vs. Archive (2 hours ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/84417ef159862e7e24306def49805f0334819358/20240522211648) - What needs Backup? (3 hours ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/1a3c4523bda38ec72b54b2d24f0d9184aaf97a22/20240503134333) - Share Folder from host to VM with KVM/Qemu Virtmanager (2 weeks ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/81d1e275a84c1e1e821436766cc801ef67289cc9/20240404200457) - Systemd Cheatsheet (1 month ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/3283a68174656e5b5063b5438bcc503fee8c68f3/20240404180508) - systemd features (1 month ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/2c1e5a695ea2c4974b8efb87df12ec2e43e54d9b/20240404175613) - systemd init (1 month ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/9b1d65ca924ecb5b83eff20ed0807845da910b96/20240404175338) - firewalld explained (1 month ago)
 
 </details>
 <details>
   <summary><b>⭐ My recent stars</b></summary>
 
-* [chriscrowe/docker-pihole-unbound](https://github.com/chriscrowe/docker-pihole-unbound) - Run Pi-Hole + Unbound on Docker (4 hours ago)
+* [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative) (9 hours ago)
+* [chriscrowe/docker-pihole-unbound](https://github.com/chriscrowe/docker-pihole-unbound) - Run Pi-Hole + Unbound on Docker (1 day ago)
 * [dsprenkels/sss-cli](https://github.com/dsprenkels/sss-cli) - Command line program for secret-sharing strings (1 week ago)
 * [turnkeylinux-apps/openldap](https://github.com/turnkeylinux-apps/openldap) - OpenLDAP - Open Source Directory Services (2 months ago)
 * [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app (4 months ago)
-* [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition (4 months ago)
 
 </details>
 <details>
@@ -153,11 +151,11 @@ Seeking a profile page that creates content automatically?
   <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         57 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   9.88%
-• Tuesday                        92 commits                     ████░░░░░░░░░░░░░░░░░░░░░   15.94%
-• Wednesday                      109 commits                    █████░░░░░░░░░░░░░░░░░░░░   18.89%
-• Thursday                       52 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   9.01%
-• Friday                         125 commits                    █████░░░░░░░░░░░░░░░░░░░░   21.66%
+• Monday                         56 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   9.71%
+• Tuesday                        91 commits                     ████░░░░░░░░░░░░░░░░░░░░░   15.77%
+• Wednesday                      113 commits                    █████░░░░░░░░░░░░░░░░░░░░   19.58%
+• Thursday                       51 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   8.84%
+• Friday                         124 commits                    █████░░░░░░░░░░░░░░░░░░░░   21.49%
 • Saturday                       39 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   6.76%
 • Sunday                         103 commits                    ████░░░░░░░░░░░░░░░░░░░░░   17.85%
 ```
@@ -167,10 +165,10 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     235 commits                    ██████████░░░░░░░░░░░░░░░   40.73%
-• 🌞 Daytime                     126 commits                    █████░░░░░░░░░░░░░░░░░░░░   21.84%
+• 🌅 Morning                     239 commits                    ██████████░░░░░░░░░░░░░░░   41.42%
+• 🌞 Daytime                     124 commits                    █████░░░░░░░░░░░░░░░░░░░░   21.49%
 • 🌇 Evening                     3 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52%
-• 🌃 Night                       213 commits                    █████████░░░░░░░░░░░░░░░░   36.92%
+• 🌃 Night                       211 commits                    █████████░░░░░░░░░░░░░░░░   36.57%
 ```
 
 </details>
