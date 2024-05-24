@@ -50,27 +50,39 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• Markdown                       1 hr 8 mins                    ████████████████████░░░░░   79.52%
-• conf                           17 mins                        █████░░░░░░░░░░░░░░░░░░░░   20.48%
+• Markdown                       1 hr 50 mins                   ██████████████░░░░░░░░░░░   55.55%
+• conf                           45 mins                        ██████░░░░░░░░░░░░░░░░░░░   22.69%
+• YAML                           15 mins                        ██░░░░░░░░░░░░░░░░░░░░░░░   7.87%
+• Text                           7 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   3.88%
+• JSON                           4 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2.4%
+• sh                             4 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2.36%
+• Bash                           4 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2.32%
+• Other                          4 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2.03%
+• HTML                           1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• zet                            1 hr 8 mins                    ████████████████████░░░░░   79.52%
-• Private                        17 mins                        █████░░░░░░░░░░░░░░░░░░░░   20.48%
+• zet                            1 hr 42 mins                   █████████████░░░░░░░░░░░░   51.49%
+• Private                        45 mins                        ██████░░░░░░░░░░░░░░░░░░░   22.69%
+• Unknown Project                24 mins                        ███░░░░░░░░░░░░░░░░░░░░░░   12.33%
+• workspace-alpine               15 mins                        ██░░░░░░░░░░░░░░░░░░░░░░░   7.87%
+• cloud-os                       4 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2.4%
+• dotfiles                       4 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2.32%
+• www-template                   1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            1 hr 25 mins                   █████████████████████████   100%
+• Vim                            3 hrs 18 mins                  █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          1 hr 25 mins                   █████████████████████████   100%
+• Linux                          3 hrs 18 mins                  █████████████████████████   100%
 ```
 
 </details>
@@ -92,7 +104,7 @@ Seeking a profile page that creates content automatically?
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (3 months ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (3 months ago)
 * [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (3 months ago)
-* [SimonWoodtli/www-simonwoodtli-com](https://github.com/SimonWoodtli/www-simonwoodtli-com) - 👨‍💻 My personal website (3 months ago)
+* [SimonWoodtli/www-simonwoodtli-com](https://github.com/SimonWoodtli/www-simonwoodtli-com) - 👨‍💻 My personal website (4 months ago)
 
 </details>
 <details>
@@ -102,7 +114,7 @@ Seeking a profile page that creates content automatically?
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (3 months ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (3 months ago)
 * [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (3 months ago)
-* [SimonWoodtli/www-simonwoodtli-com](https://github.com/SimonWoodtli/www-simonwoodtli-com) - 👨‍💻 My personal website (3 months ago)
+* [SimonWoodtli/www-simonwoodtli-com](https://github.com/SimonWoodtli/www-simonwoodtli-com) - 👨‍💻 My personal website (4 months ago)
 
 </details>
 <details>
@@ -118,18 +130,18 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/c36f9935d59d4df01e205ca2d8386174a8a0aae7/20240522214905) - Backup Strategies (2 hours ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/b5a47f954596578c77cadc8d365370e707a59d0d/20240522214238) - Backup Methods (2 hours ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/55aa4b28b72673785f4ac11d4eb76fae99d69334/20240522212518) - Backups vs. Archive (2 hours ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/84417ef159862e7e24306def49805f0334819358/20240522211648) - What needs Backup? (3 hours ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/c36f9935d59d4df01e205ca2d8386174a8a0aae7/20240522214905) - Backup Strategies (1 day ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/b5a47f954596578c77cadc8d365370e707a59d0d/20240522214238) - Backup Methods (1 day ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/55aa4b28b72673785f4ac11d4eb76fae99d69334/20240522212518) - Backups vs. Archive (1 day ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/84417ef159862e7e24306def49805f0334819358/20240522211648) - What needs Backup? (1 day ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/1a3c4523bda38ec72b54b2d24f0d9184aaf97a22/20240503134333) - Share Folder from host to VM with KVM/Qemu Virtmanager (2 weeks ago)
 
 </details>
 <details>
   <summary><b>⭐ My recent stars</b></summary>
 
-* [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative) (9 hours ago)
-* [chriscrowe/docker-pihole-unbound](https://github.com/chriscrowe/docker-pihole-unbound) - Run Pi-Hole + Unbound on Docker (1 day ago)
+* [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative) (1 day ago)
+* [chriscrowe/docker-pihole-unbound](https://github.com/chriscrowe/docker-pihole-unbound) - Run Pi-Hole + Unbound on Docker (2 days ago)
 * [dsprenkels/sss-cli](https://github.com/dsprenkels/sss-cli) - Command line program for secret-sharing strings (1 week ago)
 * [turnkeylinux-apps/openldap](https://github.com/turnkeylinux-apps/openldap) - OpenLDAP - Open Source Directory Services (2 months ago)
 * [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app (4 months ago)
