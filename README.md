@@ -50,39 +50,40 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• Markdown                       1 hr 50 mins                   ██████████████░░░░░░░░░░░   55.55%
-• conf                           45 mins                        ██████░░░░░░░░░░░░░░░░░░░   22.69%
-• YAML                           15 mins                        ██░░░░░░░░░░░░░░░░░░░░░░░   7.87%
-• Text                           7 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   3.88%
-• JSON                           4 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2.4%
-• sh                             4 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2.36%
-• Bash                           4 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2.32%
-• Other                          4 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2.03%
-• HTML                           1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9%
+• Markdown                       2 hrs 24 mins                  ██████████████░░░░░░░░░░░   56.66%
+• conf                           45 mins                        ████░░░░░░░░░░░░░░░░░░░░░   17.66%
+• YAML                           15 mins                        ██░░░░░░░░░░░░░░░░░░░░░░░   6.12%
+• tar                            14 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   5.58%
+• Other                          10 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.94%
+• Text                           7 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   3.02%
+• Bash                           6 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2.62%
+• JSON                           4 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.87%
+• sh                             4 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.83%
+• HTML                           1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• zet                            1 hr 42 mins                   █████████████░░░░░░░░░░░░   51.49%
-• Private                        45 mins                        ██████░░░░░░░░░░░░░░░░░░░   22.69%
-• Unknown Project                24 mins                        ███░░░░░░░░░░░░░░░░░░░░░░   12.33%
-• workspace-alpine               15 mins                        ██░░░░░░░░░░░░░░░░░░░░░░░   7.87%
-• cloud-os                       4 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2.4%
-• dotfiles                       4 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2.32%
-• www-template                   1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9%
+• zet                            2 hrs 16 mins                  █████████████░░░░░░░░░░░░   53.5%
+• Private                        47 mins                        █████░░░░░░░░░░░░░░░░░░░░   18.47%
+• Unknown Project                44 mins                        ████░░░░░░░░░░░░░░░░░░░░░   17.53%
+• workspace-alpine               15 mins                        ██░░░░░░░░░░░░░░░░░░░░░░░   6.12%
+• cloud-os                       4 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.87%
+• dotfiles                       4 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.81%
+• www-template                   1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            3 hrs 18 mins                  █████████████████████████   100%
+• Vim                            4 hrs 15 mins                  █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          3 hrs 18 mins                  █████████████████████████   100%
+• Linux                          4 hrs 15 mins                  █████████████████████████   100%
 ```
 
 </details>
@@ -100,7 +101,7 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (3 weeks ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 month ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (3 months ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (3 months ago)
 * [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (3 months ago)
@@ -110,7 +111,7 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (3 weeks ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (1 month ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (3 months ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (3 months ago)
 * [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (3 months ago)
@@ -130,18 +131,18 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/f722bb982a54572775c7ae5993a50161eda6a744/20240524171756) - rsync cheatsheet (7 hours ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/09531c9926764b50c4742b27f16aac09cec0dea0/20240524170245) - dd cheatsheet (7 hours ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/c9955aa4016b505d19ba283a11f8eb86400db0d4/20240524164734) - tar cheatsheet (7 hours ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/c36f9935d59d4df01e205ca2d8386174a8a0aae7/20240522214905) - Backup Strategies (2 days ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/b5a47f954596578c77cadc8d365370e707a59d0d/20240522214238) - Backup Methods (2 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/f722bb982a54572775c7ae5993a50161eda6a744/20240524171756) - rsync cheatsheet (1 day ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/09531c9926764b50c4742b27f16aac09cec0dea0/20240524170245) - dd cheatsheet (1 day ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/c9955aa4016b505d19ba283a11f8eb86400db0d4/20240524164734) - tar cheatsheet (1 day ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/c36f9935d59d4df01e205ca2d8386174a8a0aae7/20240522214905) - Backup Strategies (3 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/b5a47f954596578c77cadc8d365370e707a59d0d/20240522214238) - Backup Methods (3 days ago)
 
 </details>
 <details>
   <summary><b>⭐ My recent stars</b></summary>
 
-* [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative) (2 days ago)
-* [chriscrowe/docker-pihole-unbound](https://github.com/chriscrowe/docker-pihole-unbound) - Run Pi-Hole + Unbound on Docker (3 days ago)
+* [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative) (3 days ago)
+* [chriscrowe/docker-pihole-unbound](https://github.com/chriscrowe/docker-pihole-unbound) - Run Pi-Hole + Unbound on Docker (4 days ago)
 * [dsprenkels/sss-cli](https://github.com/dsprenkels/sss-cli) - Command line program for secret-sharing strings (2 weeks ago)
 * [turnkeylinux-apps/openldap](https://github.com/turnkeylinux-apps/openldap) - OpenLDAP - Open Source Directory Services (2 months ago)
 * [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app (4 months ago)
