@@ -131,18 +131,18 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/f722bb982a54572775c7ae5993a50161eda6a744/20240524171756) - rsync cheatsheet (1 day ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/09531c9926764b50c4742b27f16aac09cec0dea0/20240524170245) - dd cheatsheet (1 day ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/c9955aa4016b505d19ba283a11f8eb86400db0d4/20240524164734) - tar cheatsheet (1 day ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/c36f9935d59d4df01e205ca2d8386174a8a0aae7/20240522214905) - Backup Strategies (3 days ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/b5a47f954596578c77cadc8d365370e707a59d0d/20240522214238) - Backup Methods (3 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/f722bb982a54572775c7ae5993a50161eda6a744/20240524171756) - rsync cheatsheet (2 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/09531c9926764b50c4742b27f16aac09cec0dea0/20240524170245) - dd cheatsheet (2 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/c9955aa4016b505d19ba283a11f8eb86400db0d4/20240524164734) - tar cheatsheet (2 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/c36f9935d59d4df01e205ca2d8386174a8a0aae7/20240522214905) - Backup Strategies (4 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/b5a47f954596578c77cadc8d365370e707a59d0d/20240522214238) - Backup Methods (4 days ago)
 
 </details>
 <details>
   <summary><b>⭐ My recent stars</b></summary>
 
-* [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative) (3 days ago)
-* [chriscrowe/docker-pihole-unbound](https://github.com/chriscrowe/docker-pihole-unbound) - Run Pi-Hole + Unbound on Docker (4 days ago)
+* [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative) (4 days ago)
+* [chriscrowe/docker-pihole-unbound](https://github.com/chriscrowe/docker-pihole-unbound) - Run Pi-Hole + Unbound on Docker (5 days ago)
 * [dsprenkels/sss-cli](https://github.com/dsprenkels/sss-cli) - Command line program for secret-sharing strings (2 weeks ago)
 * [turnkeylinux-apps/openldap](https://github.com/turnkeylinux-apps/openldap) - OpenLDAP - Open Source Directory Services (2 months ago)
 * [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app (4 months ago)
