@@ -50,30 +50,25 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• Markdown                       34 mins                        ███████████████░░░░░░░░░░   60.55%
-• tar                            14 mins                        ██████░░░░░░░░░░░░░░░░░░░   25.14%
-• Other                          6 mins                         ███░░░░░░░░░░░░░░░░░░░░░░   10.63%
-• Bash                           2 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   3.68%
+• No Data found                                                 
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• zet                            34 mins                        ███████████████░░░░░░░░░░   60.55%
-• Unknown Project                20 mins                        █████████░░░░░░░░░░░░░░░░   35.77%
-• Private                        2 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   3.68%
+• No Data found                                                 
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            56 mins                        █████████████████████████   100%
+• No Data found                                                 
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          56 mins                        █████████████████████████   100%
+• No Data found                                                 
 ```
 
 </details>
@@ -113,7 +108,7 @@ Seeking a profile page that creates content automatically?
 
 * [feat: add wireguard-generate-keys script](https://github.com/SimonWoodtli/dotfiles-old/pull/14) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (20 months ago)
 * [feat: add video-to-gif script](https://github.com/SimonWoodtli/dotfiles-old/pull/13) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (20 months ago)
-* [feat: add spoof-mac-linux script](https://github.com/SimonWoodtli/dotfiles-old/pull/12) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (20 months ago)
+* [feat: add spoof-mac-linux script](https://github.com/SimonWoodtli/dotfiles-old/pull/12) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (21 months ago)
 * [feat: add sp-tmux script](https://github.com/SimonWoodtli/dotfiles-old/pull/11) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (21 months ago)
 * [feat: add sp script](https://github.com/SimonWoodtli/dotfiles-old/pull/10) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (21 months ago)
 
@@ -121,9 +116,9 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/f722bb982a54572775c7ae5993a50161eda6a744/20240524171756) - rsync cheatsheet (7 days ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/09531c9926764b50c4742b27f16aac09cec0dea0/20240524170245) - dd cheatsheet (7 days ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/c9955aa4016b505d19ba283a11f8eb86400db0d4/20240524164734) - tar cheatsheet (7 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/f722bb982a54572775c7ae5993a50161eda6a744/20240524171756) - rsync cheatsheet (1 week ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/09531c9926764b50c4742b27f16aac09cec0dea0/20240524170245) - dd cheatsheet (1 week ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/c9955aa4016b505d19ba283a11f8eb86400db0d4/20240524164734) - tar cheatsheet (1 week ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/c36f9935d59d4df01e205ca2d8386174a8a0aae7/20240522214905) - Backup Strategies (1 week ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/b5a47f954596578c77cadc8d365370e707a59d0d/20240522214238) - Backup Methods (1 week ago)
 
