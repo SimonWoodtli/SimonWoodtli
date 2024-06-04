@@ -106,7 +106,7 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🔨 My recent pull requests</b></summary>
 
-* [feat: add wireguard-generate-keys script](https://github.com/SimonWoodtli/dotfiles-old/pull/14) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (20 months ago)
+* [feat: add wireguard-generate-keys script](https://github.com/SimonWoodtli/dotfiles-old/pull/14) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (21 months ago)
 * [feat: add video-to-gif script](https://github.com/SimonWoodtli/dotfiles-old/pull/13) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (21 months ago)
 * [feat: add spoof-mac-linux script](https://github.com/SimonWoodtli/dotfiles-old/pull/12) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (21 months ago)
 * [feat: add sp-tmux script](https://github.com/SimonWoodtli/dotfiles-old/pull/11) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (21 months ago)
@@ -116,11 +116,11 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/f722bb982a54572775c7ae5993a50161eda6a744/20240524171756) - rsync cheatsheet (1 week ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/09531c9926764b50c4742b27f16aac09cec0dea0/20240524170245) - dd cheatsheet (1 week ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/c9955aa4016b505d19ba283a11f8eb86400db0d4/20240524164734) - tar cheatsheet (1 week ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/c36f9935d59d4df01e205ca2d8386174a8a0aae7/20240522214905) - Backup Strategies (1 week ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/b5a47f954596578c77cadc8d365370e707a59d0d/20240522214238) - Backup Methods (1 week ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/aadce80214b95dcfa4992ce9ad0c5128a6538fb6/20240603210010) - SELinux Context Inheritance (3 hours ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/58372b7aa1c93e5b4a6619cef385d97b6b66cd57/20240603205157) - SELinux context cheatsheet (3 hours ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/f73da3990e6d8b8c85c53bc1770601a6f304ac2b/20240603165937) - SELinux Overview (7 hours ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/fe5c1dba7d6453d23a338eacb109c9c340826f79/20240603165720) - Main LSM Choices (7 hours ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/b733a52b9a320eae141b54502378a76b38e36d84/20240603161219) - What Are Linux Security Modules? (8 hours ago)
 
 </details>
 <details>
@@ -149,12 +149,12 @@ Seeking a profile page that creates content automatically?
   <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         54 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   9.42%
+• Monday                         59 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   10.30%
 • Tuesday                        89 commits                     ████░░░░░░░░░░░░░░░░░░░░░   15.53%
-• Wednesday                      113 commits                    █████░░░░░░░░░░░░░░░░░░░░   19.72%
+• Wednesday                      109 commits                    █████░░░░░░░░░░░░░░░░░░░░   19.02%
 • Thursday                       47 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   8.20%
 • Friday                         129 commits                    ██████░░░░░░░░░░░░░░░░░░░   22.51%
-• Saturday                       38 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   6.63%
+• Saturday                       37 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   6.46%
 • Sunday                         103 commits                    ████░░░░░░░░░░░░░░░░░░░░░   17.98%
 ```
 
@@ -163,10 +163,10 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     234 commits                    ██████████░░░░░░░░░░░░░░░   40.84%
-• 🌞 Daytime                     121 commits                    █████░░░░░░░░░░░░░░░░░░░░   21.12%
+• 🌅 Morning                     235 commits                    ██████████░░░░░░░░░░░░░░░   41.01%
+• 🌞 Daytime                     117 commits                    █████░░░░░░░░░░░░░░░░░░░░   20.42%
 • 🌇 Evening                     3 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52%
-• 🌃 Night                       215 commits                    █████████░░░░░░░░░░░░░░░░   37.52%
+• 🌃 Night                       218 commits                    ██████████░░░░░░░░░░░░░░░   38.05%
 ```
 
 </details>
