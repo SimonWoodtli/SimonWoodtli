@@ -50,37 +50,38 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• Markdown                       15 hrs 31 mins                 ███████████████████████░░   90.63%
-• conf                           37 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.68%
-• Bash                           22 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.2%
-• Text                           11 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.13%
-• YAML                           8 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.86%
-• sh                             6 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.64%
-• Other                          5 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5%
-• HTML                           2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
-• mail                           1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
+• Markdown                       16 hrs 59 mins                 ███████████████████████░░   90.65%
+• conf                           42 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   3.8%
+• Bash                           22 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.01%
+• Text                           12 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.14%
+• YAML                           8 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.79%
+• Other                          7 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.69%
+• sh                             6 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58%
+• HTML                           2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
+• mail                           1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• Unknown Project                15 hrs 10 mins                 ██████████████████████░░░   88.55%
-• zet                            1 hr 31 mins                   ██░░░░░░░░░░░░░░░░░░░░░░░   8.92%
-• dotfiles                       16 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.61%
-• cloud-os                       6 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.67%
-• workspace-alpine               2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
+• Unknown Project                16 hrs 46 mins                 ██████████████████████░░░   89.44%
+• zet                            1 hr 31 mins                   ██░░░░░░░░░░░░░░░░░░░░░░░   8.15%
+• dotfiles                       16 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.47%
+• cloud-os                       6 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.61%
+• workspace-alpine               2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
+• Private                        1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            17 hrs 7 mins                  █████████████████████████   100%
+• Vim                            18 hrs 44 mins                 █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          17 hrs 7 mins                  █████████████████████████   100%
+• Linux                          18 hrs 44 mins                 █████████████████████████   100%
 ```
 
 </details>
@@ -128,11 +129,11 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/6a85429d7a9045e11f01455134b8c8f3d1b637bd/20240604183007) - Linux Recovery: System rescue (5 days ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/87b3098a0e134d89c2e97c484bf7cf283e9d1478/20240604131658) - AppArmor cheatsheet (5 days ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/1a44e3a3a7bb90e08f57b7df7df4db5e3220dd42/20240604131004) - Linux LSM: AppArmor (5 days ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/528443772a121ac9eae4dadea40a0c85be9eea7b/20240603205157) - SELinux cheatsheet (5 days ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/aadce80214b95dcfa4992ce9ad0c5128a6538fb6/20240603210010) - SELinux Context Inheritance (6 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/6a85429d7a9045e11f01455134b8c8f3d1b637bd/20240604183007) - Linux Recovery: System rescue (6 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/87b3098a0e134d89c2e97c484bf7cf283e9d1478/20240604131658) - AppArmor cheatsheet (6 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/1a44e3a3a7bb90e08f57b7df7df4db5e3220dd42/20240604131004) - Linux LSM: AppArmor (6 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/528443772a121ac9eae4dadea40a0c85be9eea7b/20240603205157) - SELinux cheatsheet (6 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/aadce80214b95dcfa4992ce9ad0c5128a6538fb6/20240603210010) - SELinux Context Inheritance (7 days ago)
 
 </details>
 <details>
