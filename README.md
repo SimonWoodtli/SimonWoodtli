@@ -50,36 +50,37 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• Markdown                       15 hrs 24 mins                 ██████████████████████░░░   88.82%
+• Markdown                       15 hrs 24 mins                 ██████████████████████░░░   88.88%
 • conf                           42 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   4.11%
 • Text                           25 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.45%
-• Bash                           22 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.17%
+• Bash                           21 mins                        █░░░░░░░░░░░░░░░░░░░░░░░░   2.11%
 • YAML                           8 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.85%
-• Other                          7 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.75%
+• Other                          7 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.72%
 • sh                             6 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.63%
 • HTML                           2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
+• INI                            0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• Unknown Project                16 hrs 54 mins                 ████████████████████████░   97.4%
+• Unknown Project                16 hrs 52 mins                 ████████████████████████░   97.28%
 • dotfiles                       16 mins                        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.59%
 • cloud-os                       6 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.66%
 • workspace-alpine               2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
-• Private                        1 min                          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
+• Private                        2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            17 hrs 21 mins                 █████████████████████████   100%
+• Vim                            17 hrs 20 mins                 █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          17 hrs 21 mins                 █████████████████████████   100%
+• Linux                          17 hrs 20 mins                 █████████████████████████   100%
 ```
 
 </details>
@@ -137,7 +138,7 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>⭐ My recent stars</b></summary>
 
-* [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative) (2 weeks ago)
+* [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative) (3 weeks ago)
 * [chriscrowe/docker-pihole-unbound](https://github.com/chriscrowe/docker-pihole-unbound) - Run Pi-Hole + Unbound on Docker (3 weeks ago)
 * [dsprenkels/sss-cli](https://github.com/dsprenkels/sss-cli) - Command line program for secret-sharing strings (1 month ago)
 * [turnkeylinux-apps/openldap](https://github.com/turnkeylinux-apps/openldap) - OpenLDAP - Open Source Directory Services (3 months ago)
