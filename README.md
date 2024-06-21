@@ -50,28 +50,25 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• Bash                           0 secs                         ████████████░░░░░░░░░░░░░   46.96%
-• Markdown                       0 secs                         █████████░░░░░░░░░░░░░░░░   37.39%
-• INI                            0 secs                         ████░░░░░░░░░░░░░░░░░░░░░   15.65%
+• Markdown                       0 secs                         █████████████████████████   100%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• Private                        1 min                          ████████████████░░░░░░░░░   62.61%
-• Unknown Project                0 secs                         █████████░░░░░░░░░░░░░░░░   37.39%
+• Unknown Project                0 secs                         █████████████████████████   100%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            1 min                          █████████████████████████   100%
+• Vim                            0 secs                         █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          1 min                          █████████████████████████   100%
+• Linux                          0 secs                         █████████████████████████   100%
 ```
 
 </details>
@@ -129,7 +126,7 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>⭐ My recent stars</b></summary>
 
-* [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative) (3 weeks ago)
+* [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative) (1 month ago)
 * [chriscrowe/docker-pihole-unbound](https://github.com/chriscrowe/docker-pihole-unbound) - Run Pi-Hole + Unbound on Docker (1 month ago)
 * [dsprenkels/sss-cli](https://github.com/dsprenkels/sss-cli) - Command line program for secret-sharing strings (1 month ago)
 * [turnkeylinux-apps/openldap](https://github.com/turnkeylinux-apps/openldap) - OpenLDAP - Open Source Directory Services (3 months ago)
