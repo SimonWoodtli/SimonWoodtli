@@ -50,25 +50,25 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• Markdown                       0 secs                         █████████████████████████   100%
+• No Data found                                                 
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• Unknown Project                0 secs                         █████████████████████████   100%
+• No Data found                                                 
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            0 secs                         █████████████████████████   100%
+• No Data found                                                 
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          0 secs                         █████████████████████████   100%
+• No Data found                                                 
 ```
 
 </details>
