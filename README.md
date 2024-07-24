@@ -120,7 +120,7 @@ Seeking a profile page that creates content automatically?
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/87b3098a0e134d89c2e97c484bf7cf283e9d1478/20240604131658) - AppArmor cheatsheet (1 month ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/1a44e3a3a7bb90e08f57b7df7df4db5e3220dd42/20240604131004) - Linux LSM: AppArmor (1 month ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/528443772a121ac9eae4dadea40a0c85be9eea7b/20240603205157) - SELinux cheatsheet (1 month ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/aadce80214b95dcfa4992ce9ad0c5128a6538fb6/20240603210010) - SELinux Context Inheritance (1 month ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/aadce80214b95dcfa4992ce9ad0c5128a6538fb6/20240603210010) - SELinux Context Inheritance (2 months ago)
 
 </details>
 <details>
@@ -128,7 +128,7 @@ Seeking a profile page that creates content automatically?
 
 * [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative) (2 months ago)
 * [chriscrowe/docker-pihole-unbound](https://github.com/chriscrowe/docker-pihole-unbound) - Run Pi-Hole + Unbound on Docker (2 months ago)
-* [dsprenkels/sss-cli](https://github.com/dsprenkels/sss-cli) - Command line program for secret-sharing strings (2 months ago)
+* [dsprenkels/sss-cli](https://github.com/dsprenkels/sss-cli) - Command line program for secret-sharing strings (3 months ago)
 * [turnkeylinux-apps/openldap](https://github.com/turnkeylinux-apps/openldap) - OpenLDAP - Open Source Directory Services (4 months ago)
 * [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app (6 months ago)
 
