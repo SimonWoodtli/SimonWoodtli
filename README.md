@@ -120,7 +120,7 @@ Seeking a profile page that creates content automatically?
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/87b3098a0e134d89c2e97c484bf7cf283e9d1478/20240604131658) - AppArmor cheatsheet (4 months ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/1a44e3a3a7bb90e08f57b7df7df4db5e3220dd42/20240604131004) - Linux LSM: AppArmor (4 months ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/528443772a121ac9eae4dadea40a0c85be9eea7b/20240603205157) - SELinux cheatsheet (4 months ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/aadce80214b95dcfa4992ce9ad0c5128a6538fb6/20240603210010) - SELinux Context Inheritance (4 months ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/aadce80214b95dcfa4992ce9ad0c5128a6538fb6/20240603210010) - SELinux Context Inheritance (5 months ago)
 
 </details>
 <details>
