@@ -129,7 +129,7 @@ Seeking a profile page that creates content automatically?
 * [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative) (5 months ago)
 * [chriscrowe/docker-pihole-unbound](https://github.com/chriscrowe/docker-pihole-unbound) - Run Pi-Hole + Unbound on Docker (5 months ago)
 * [dsprenkels/sss-cli](https://github.com/dsprenkels/sss-cli) - Command line program for secret-sharing strings (6 months ago)
-* [turnkeylinux-apps/openldap](https://github.com/turnkeylinux-apps/openldap) - OpenLDAP - Open Source Directory Services (7 months ago)
+* [turnkeylinux-apps/openldap](https://github.com/turnkeylinux-apps/openldap) - OpenLDAP - Open Source Directory Services (8 months ago)
 * [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app (9 months ago)
 
 </details>
@@ -149,13 +149,13 @@ Seeking a profile page that creates content automatically?
   <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         52 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   13.00%
-• Tuesday                        86 commits                     █████░░░░░░░░░░░░░░░░░░░░   21.50%
-• Wednesday                      48 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   12.00%
-• Thursday                       30 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   7.50%
-• Friday                         79 commits                     █████░░░░░░░░░░░░░░░░░░░░   19.75%
-• Saturday                       33 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   8.25%
-• Sunday                         72 commits                     █████░░░░░░░░░░░░░░░░░░░░   18.00%
+• Monday                         52 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   13.03%
+• Tuesday                        86 commits                     █████░░░░░░░░░░░░░░░░░░░░   21.55%
+• Wednesday                      47 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   11.78%
+• Thursday                       30 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   7.52%
+• Friday                         79 commits                     █████░░░░░░░░░░░░░░░░░░░░   19.80%
+• Saturday                       33 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   8.27%
+• Sunday                         72 commits                     █████░░░░░░░░░░░░░░░░░░░░   18.05%
 ```
 
 </details>
@@ -163,10 +163,10 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     148 commits                    █████████░░░░░░░░░░░░░░░░   37.00%
-• 🌞 Daytime                     95 commits                     ██████░░░░░░░░░░░░░░░░░░░   23.75%
+• 🌅 Morning                     148 commits                    █████████░░░░░░░░░░░░░░░░   37.09%
+• 🌞 Daytime                     94 commits                     ██████░░░░░░░░░░░░░░░░░░░   23.56%
 • 🌇 Evening                     1 commit                       ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
-• 🌃 Night                       156 commits                    ██████████░░░░░░░░░░░░░░░   39.00%
+• 🌃 Night                       156 commits                    ██████████░░░░░░░░░░░░░░░   39.10%
 ```
 
 </details>
