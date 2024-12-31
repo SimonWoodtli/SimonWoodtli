@@ -106,7 +106,7 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🔨 My recent pull requests</b></summary>
 
-* [feat: add wireguard-generate-keys script](https://github.com/SimonWoodtli/dotfiles-old/pull/14) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (27 months ago)
+* [feat: add wireguard-generate-keys script](https://github.com/SimonWoodtli/dotfiles-old/pull/14) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (28 months ago)
 * [feat: add video-to-gif script](https://github.com/SimonWoodtli/dotfiles-old/pull/13) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (28 months ago)
 * [feat: add spoof-mac-linux script](https://github.com/SimonWoodtli/dotfiles-old/pull/12) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (28 months ago)
 * [feat: add sp-tmux script](https://github.com/SimonWoodtli/dotfiles-old/pull/11) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (28 months ago)
@@ -149,13 +149,13 @@ Seeking a profile page that creates content automatically?
   <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         26 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   9.92%
-• Tuesday                        73 commits                     ███████░░░░░░░░░░░░░░░░░░   27.86%
-• Wednesday                      31 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   11.83%
-• Thursday                       24 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   9.16%
-• Friday                         38 commits                     ████░░░░░░░░░░░░░░░░░░░░░   14.50%
-• Saturday                       30 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   11.45%
-• Sunday                         40 commits                     ████░░░░░░░░░░░░░░░░░░░░░   15.27%
+• Monday                         26 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   10.04%
+• Tuesday                        73 commits                     ███████░░░░░░░░░░░░░░░░░░   28.19%
+• Wednesday                      31 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   11.97%
+• Thursday                       21 commits                     ██░░░░░░░░░░░░░░░░░░░░░░░   8.11%
+• Friday                         38 commits                     ████░░░░░░░░░░░░░░░░░░░░░   14.67%
+• Saturday                       30 commits                     ███░░░░░░░░░░░░░░░░░░░░░░   11.58%
+• Sunday                         40 commits                     ████░░░░░░░░░░░░░░░░░░░░░   15.44%
 ```
 
 </details>
@@ -163,10 +163,10 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     109 commits                    ██████████░░░░░░░░░░░░░░░   41.60%
-• 🌞 Daytime                     41 commits                     ████░░░░░░░░░░░░░░░░░░░░░   15.65%
-• 🌇 Evening                     1 commit                       ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38%
-• 🌃 Night                       111 commits                    ███████████░░░░░░░░░░░░░░   42.37%
+• 🌅 Morning                     109 commits                    ███████████░░░░░░░░░░░░░░   42.08%
+• 🌞 Daytime                     40 commits                     ████░░░░░░░░░░░░░░░░░░░░░   15.44%
+• 🌇 Evening                     1 commit                       ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39%
+• 🌃 Night                       109 commits                    ███████████░░░░░░░░░░░░░░   42.08%
 ```
 
 </details>
