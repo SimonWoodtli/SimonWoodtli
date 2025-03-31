@@ -50,25 +50,28 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• No Data found                                                 
+• Bash                           17 mins                        █████████████░░░░░░░░░░░░   51.28%
+• Dockerfile                     12 mins                        ██████████░░░░░░░░░░░░░░░   39%
+• JSON                           2 mins                         ██░░░░░░░░░░░░░░░░░░░░░░░   6.07%
+• YAML                           1 min                          █░░░░░░░░░░░░░░░░░░░░░░░░   3.66%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• No Data found                                                 
+• cloud-os                       33 mins                        █████████████████████████   100%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• No Data found                                                 
+• Vim                            33 mins                        █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• No Data found                                                 
+• Linux                          33 mins                        █████████████████████████   100%
 ```
 
 </details>
@@ -86,7 +89,7 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (5 hours ago)
+* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (1 day ago)
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (11 months ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (13 months ago)
 * [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (13 months ago)
@@ -96,7 +99,7 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (5 hours ago)
+* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (1 day ago)
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (11 months ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (13 months ago)
 * [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (13 months ago)
@@ -106,7 +109,7 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🔨 My recent pull requests</b></summary>
 
-* [feat: add wireguard-generate-keys script](https://github.com/SimonWoodtli/dotfiles-old/pull/14) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (30 months ago)
+* [feat: add wireguard-generate-keys script](https://github.com/SimonWoodtli/dotfiles-old/pull/14) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (31 months ago)
 * [feat: add video-to-gif script](https://github.com/SimonWoodtli/dotfiles-old/pull/13) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (31 months ago)
 * [feat: add spoof-mac-linux script](https://github.com/SimonWoodtli/dotfiles-old/pull/12) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (31 months ago)
 * [feat: add sp-tmux script](https://github.com/SimonWoodtli/dotfiles-old/pull/11) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (31 months ago)
