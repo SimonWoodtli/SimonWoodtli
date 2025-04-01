@@ -50,28 +50,35 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• Bash                           17 mins                        █████████████░░░░░░░░░░░░   51.28%
-• Dockerfile                     12 mins                        ██████████░░░░░░░░░░░░░░░   39%
-• JSON                           2 mins                         ██░░░░░░░░░░░░░░░░░░░░░░░   6.07%
-• YAML                           1 min                          █░░░░░░░░░░░░░░░░░░░░░░░░   3.66%
+• Bash                           1 hr 13 mins                   ███████████████░░░░░░░░░░   58.6%
+• YAML                           16 mins                        ███░░░░░░░░░░░░░░░░░░░░░░   12.93%
+• Dockerfile                     12 mins                        ███░░░░░░░░░░░░░░░░░░░░░░   10.37%
+• Other                          7 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   5.77%
+• sh                             5 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   4.31%
+• systemd                        5 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   4.05%
+• conf                           2 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2.05%
+• JSON                           2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.61%
+• INI                            0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• cloud-os                       33 mins                        █████████████████████████   100%
+• Private                        1 hr 31 mins                   ██████████████████░░░░░░░   73.37%
+• cloud-os                       33 mins                        ███████░░░░░░░░░░░░░░░░░░   26.6%
+• Unknown Project                0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            33 mins                        █████████████████████████   100%
+• Vim                            2 hrs 5 mins                   █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          33 mins                        █████████████████████████   100%
+• Linux                          2 hrs 5 mins                   █████████████████████████   100%
 ```
 
 </details>
@@ -89,7 +96,7 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (1 day ago)
+* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (2 days ago)
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (11 months ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (13 months ago)
 * [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (13 months ago)
@@ -99,7 +106,7 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (1 day ago)
+* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (2 days ago)
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (11 months ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (13 months ago)
 * [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (13 months ago)
@@ -132,7 +139,7 @@ Seeking a profile page that creates content automatically?
 * [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative) (10 months ago)
 * [mpgirro/docker-pihole-unbound](https://github.com/mpgirro/docker-pihole-unbound) - Run Pi-Hole + Unbound on Docker (10 months ago)
 * [dsprenkels/sss-cli](https://github.com/dsprenkels/sss-cli) - Command line program for secret-sharing strings (11 months ago)
-* [turnkeylinux-apps/openldap](https://github.com/turnkeylinux-apps/openldap) - OpenLDAP - Open Source Directory Services (12 months ago)
+* [turnkeylinux-apps/openldap](https://github.com/turnkeylinux-apps/openldap) - OpenLDAP - Open Source Directory Services (13 months ago)
 * [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app (14 months ago)
 
 </details>
