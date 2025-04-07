@@ -50,35 +50,32 @@ Seeking a profile page that creates content automatically?
   <h4><b>💬 I've been working with the following languages over the last 7 days</b></h4>
 
 ```
-• Bash                           1 hr 13 mins                   ███████████████░░░░░░░░░░   58.6%
-• YAML                           16 mins                        ███░░░░░░░░░░░░░░░░░░░░░░   12.93%
-• Dockerfile                     12 mins                        ███░░░░░░░░░░░░░░░░░░░░░░   10.37%
-• Other                          7 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   5.77%
-• sh                             5 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   4.31%
-• systemd                        5 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   4.05%
-• conf                           2 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2.05%
-• JSON                           2 mins                         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.61%
-• INI                            0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
+• Bash                           56 mins                        ███████████████░░░░░░░░░░   61.25%
+• YAML                           14 mins                        ████░░░░░░░░░░░░░░░░░░░░░   16.29%
+• Other                          7 mins                         ██░░░░░░░░░░░░░░░░░░░░░░░   7.87%
+• sh                             5 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   5.87%
+• systemd                        5 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   5.52%
+• conf                           2 mins                         █░░░░░░░░░░░░░░░░░░░░░░░░   2.8%
+• INI                            0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4%
 ```
 
   <h4>👷 I've been working on the following projects over the last 7 days</h4>
 
 ```
-• Private                        1 hr 31 mins                   ██████████████████░░░░░░░   73.37%
-• cloud-os                       33 mins                        ███████░░░░░░░░░░░░░░░░░░   26.6%
-• Unknown Project                0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+• Private                        1 hr 31 mins                   █████████████████████████   99.96%
+• Unknown Project                0 secs                         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 ```
 
   <h4><b>🛠️ I've been working with the following editors over the last 7 days</b></h4>
 
 ```
-• Vim                            2 hrs 5 mins                   █████████████████████████   100%
+• Vim                            1 hr 31 mins                   █████████████████████████   100%
 ```
 
   <h4><b>💻 I've been working with the following operating systems over the last 7 days</b></h4>
 
 ```
-• Linux                          2 hrs 5 mins                   █████████████████████████   100%
+• Linux                          1 hr 31 mins                   █████████████████████████   100%
 ```
 
 </details>
@@ -96,7 +93,7 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (7 days ago)
+* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (1 week ago)
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (12 months ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (14 months ago)
 * [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (14 months ago)
@@ -106,7 +103,7 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (7 days ago)
+* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (1 week ago)
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (12 months ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (14 months ago)
 * [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (14 months ago)
