@@ -128,7 +128,7 @@ Seeking a profile page that creates content automatically?
 
 * [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative) (11 months ago)
 * [mpgirro/docker-pihole-unbound](https://github.com/mpgirro/docker-pihole-unbound) - Run Pi-Hole + Unbound on Docker (11 months ago)
-* [dsprenkels/sss-cli](https://github.com/dsprenkels/sss-cli) - Command line program for secret-sharing strings (11 months ago)
+* [dsprenkels/sss-cli](https://github.com/dsprenkels/sss-cli) - Command line program for secret-sharing strings (12 months ago)
 * [turnkeylinux-apps/openldap](https://github.com/turnkeylinux-apps/openldap) - OpenLDAP - Open Source Directory Services (13 months ago)
 * [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app (15 months ago)
 
