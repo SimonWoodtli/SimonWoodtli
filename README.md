@@ -116,7 +116,7 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/8228a79ea361aa01e7061531c530e9cd7e4f3d88/20220903203700) - Proxmox Install Guide (0 hours ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/8228a79ea361aa01e7061531c530e9cd7e4f3d88/20220903203700) - Proxmox Install Guide (1 day ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/6a85429d7a9045e11f01455134b8c8f3d1b637bd/20240604183007) - Linux Recovery: System rescue (11 months ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/87b3098a0e134d89c2e97c484bf7cf283e9d1478/20240604131658) - AppArmor cheatsheet (11 months ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/1a44e3a3a7bb90e08f57b7df7df4db5e3220dd42/20240604131004) - Linux LSM: AppArmor (11 months ago)
@@ -127,7 +127,7 @@ Seeking a profile page that creates content automatically?
   <summary><b>⭐ My recent stars</b></summary>
 
 * [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative) (11 months ago)
-* [mpgirro/docker-pihole-unbound](https://github.com/mpgirro/docker-pihole-unbound) - Run Pi-Hole + Unbound on Docker (11 months ago)
+* [mpgirro/docker-pihole-unbound](https://github.com/mpgirro/docker-pihole-unbound) - Run Pi-Hole + Unbound on Docker (12 months ago)
 * [dsprenkels/sss-cli](https://github.com/dsprenkels/sss-cli) - Command line program for secret-sharing strings (12 months ago)
 * [turnkeylinux-apps/openldap](https://github.com/turnkeylinux-apps/openldap) - OpenLDAP - Open Source Directory Services (14 months ago)
 * [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app (15 months ago)
@@ -149,13 +149,13 @@ Seeking a profile page that creates content automatically?
   <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         7 commits                      ████░░░░░░░░░░░░░░░░░░░░░   17.07%
-• Tuesday                        7 commits                      ████░░░░░░░░░░░░░░░░░░░░░   17.07%
-• Wednesday                      5 commits                      ███░░░░░░░░░░░░░░░░░░░░░░   12.20%
-• Thursday                       13 commits                     ████████░░░░░░░░░░░░░░░░░   31.71%
-• Friday                         7 commits                      ████░░░░░░░░░░░░░░░░░░░░░   17.07%
-• Saturday                       2 commits                      █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
-• Sunday                         0 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00%
+• Monday                         7 commits                      ████░░░░░░░░░░░░░░░░░░░░░   16.28%
+• Tuesday                        7 commits                      ████░░░░░░░░░░░░░░░░░░░░░   16.28%
+• Wednesday                      5 commits                      ███░░░░░░░░░░░░░░░░░░░░░░   11.63%
+• Thursday                       13 commits                     ████████░░░░░░░░░░░░░░░░░   30.23%
+• Friday                         8 commits                      █████░░░░░░░░░░░░░░░░░░░░   18.60%
+• Saturday                       2 commits                      █░░░░░░░░░░░░░░░░░░░░░░░░   4.65%
+• Sunday                         1 commit                       █░░░░░░░░░░░░░░░░░░░░░░░░   2.33%
 ```
 
 </details>
@@ -163,10 +163,10 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     24 commits                     ███████████████░░░░░░░░░░   58.54%
-• 🌞 Daytime                     1 commit                       █░░░░░░░░░░░░░░░░░░░░░░░░   2.44%
-• 🌇 Evening                     1 commit                       █░░░░░░░░░░░░░░░░░░░░░░░░   2.44%
-• 🌃 Night                       15 commits                     █████████░░░░░░░░░░░░░░░░   36.59%
+• 🌅 Morning                     24 commits                     ██████████████░░░░░░░░░░░   55.81%
+• 🌞 Daytime                     3 commits                      ██░░░░░░░░░░░░░░░░░░░░░░░   6.98%
+• 🌇 Evening                     1 commit                       █░░░░░░░░░░░░░░░░░░░░░░░░   2.33%
+• 🌃 Night                       15 commits                     █████████░░░░░░░░░░░░░░░░   34.88%
 ```
 
 </details>
