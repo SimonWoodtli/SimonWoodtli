@@ -116,7 +116,7 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/8228a79ea361aa01e7061531c530e9cd7e4f3d88/20220903203700) - Proxmox Install Guide (1 day ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/8228a79ea361aa01e7061531c530e9cd7e4f3d88/20220903203700) - Proxmox Install Guide (2 days ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/6a85429d7a9045e11f01455134b8c8f3d1b637bd/20240604183007) - Linux Recovery: System rescue (11 months ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/87b3098a0e134d89c2e97c484bf7cf283e9d1478/20240604131658) - AppArmor cheatsheet (11 months ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/1a44e3a3a7bb90e08f57b7df7df4db5e3220dd42/20240604131004) - Linux LSM: AppArmor (11 months ago)
@@ -126,7 +126,7 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>⭐ My recent stars</b></summary>
 
-* [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative) (11 months ago)
+* [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative) (12 months ago)
 * [mpgirro/docker-pihole-unbound](https://github.com/mpgirro/docker-pihole-unbound) - Run Pi-Hole + Unbound on Docker (12 months ago)
 * [dsprenkels/sss-cli](https://github.com/dsprenkels/sss-cli) - Command line program for secret-sharing strings (12 months ago)
 * [turnkeylinux-apps/openldap](https://github.com/turnkeylinux-apps/openldap) - OpenLDAP - Open Source Directory Services (14 months ago)
