@@ -89,7 +89,7 @@ Seeking a profile page that creates content automatically?
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (1 month ago)
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (12 months ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (14 months ago)
-* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (14 months ago)
+* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (15 months ago)
 * [SimonWoodtli/www-simonwoodtli-com](https://github.com/SimonWoodtli/www-simonwoodtli-com) - 👨‍💻 My personal website (15 months ago)
 
 </details>
@@ -99,7 +99,7 @@ Seeking a profile page that creates content automatically?
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (1 month ago)
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (12 months ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (14 months ago)
-* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (14 months ago)
+* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (15 months ago)
 * [SimonWoodtli/www-simonwoodtli-com](https://github.com/SimonWoodtli/www-simonwoodtli-com) - 👨‍💻 My personal website (15 months ago)
 
 </details>
@@ -116,11 +116,11 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/8228a79ea361aa01e7061531c530e9cd7e4f3d88/20220903203700) - Proxmox Install Guide (3 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/5febb2f934d1381a1ccbad69d428be2dd442e5df/20250504201808) - Install and Setup TrueNAS via Proxmox VM (2 hours ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/3766fb1227f78a0ee6fd768fe5667bc04ae6866a/20250504133640) - ZFS: Raids explained (10 hours ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/8228a79ea361aa01e7061531c530e9cd7e4f3d88/20220903203700) - Proxmox Install Guide (4 days ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/6a85429d7a9045e11f01455134b8c8f3d1b637bd/20240604183007) - Linux Recovery: System rescue (11 months ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/87b3098a0e134d89c2e97c484bf7cf283e9d1478/20240604131658) - AppArmor cheatsheet (11 months ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/1a44e3a3a7bb90e08f57b7df7df4db5e3220dd42/20240604131004) - Linux LSM: AppArmor (11 months ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/528443772a121ac9eae4dadea40a0c85be9eea7b/20240603205157) - SELinux cheatsheet (11 months ago)
 
 </details>
 <details>
@@ -149,13 +149,13 @@ Seeking a profile page that creates content automatically?
   <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         7 commits                      ████░░░░░░░░░░░░░░░░░░░░░   17.07%
-• Tuesday                        7 commits                      ████░░░░░░░░░░░░░░░░░░░░░   17.07%
-• Wednesday                      5 commits                      ███░░░░░░░░░░░░░░░░░░░░░░   12.20%
-• Thursday                       13 commits                     ████████░░░░░░░░░░░░░░░░░   31.71%
-• Friday                         6 commits                      ████░░░░░░░░░░░░░░░░░░░░░   14.63%
-• Saturday                       2 commits                      █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
-• Sunday                         1 commit                       █░░░░░░░░░░░░░░░░░░░░░░░░   2.44%
+• Monday                         7 commits                      ████░░░░░░░░░░░░░░░░░░░░░   15.91%
+• Tuesday                        7 commits                      ████░░░░░░░░░░░░░░░░░░░░░   15.91%
+• Wednesday                      5 commits                      ███░░░░░░░░░░░░░░░░░░░░░░   11.36%
+• Thursday                       13 commits                     ███████░░░░░░░░░░░░░░░░░░   29.55%
+• Friday                         6 commits                      ███░░░░░░░░░░░░░░░░░░░░░░   13.64%
+• Saturday                       5 commits                      ███░░░░░░░░░░░░░░░░░░░░░░   11.36%
+• Sunday                         1 commit                       █░░░░░░░░░░░░░░░░░░░░░░░░   2.27%
 ```
 
 </details>
@@ -163,10 +163,10 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     24 commits                     ███████████████░░░░░░░░░░   58.54%
-• 🌞 Daytime                     3 commits                      ██░░░░░░░░░░░░░░░░░░░░░░░   7.32%
-• 🌇 Evening                     1 commit                       █░░░░░░░░░░░░░░░░░░░░░░░░   2.44%
-• 🌃 Night                       13 commits                     ████████░░░░░░░░░░░░░░░░░   31.71%
+• 🌅 Morning                     25 commits                     ██████████████░░░░░░░░░░░   56.82%
+• 🌞 Daytime                     3 commits                      ██░░░░░░░░░░░░░░░░░░░░░░░   6.82%
+• 🌇 Evening                     1 commit                       █░░░░░░░░░░░░░░░░░░░░░░░░   2.27%
+• 🌃 Night                       15 commits                     █████████░░░░░░░░░░░░░░░░   34.09%
 ```
 
 </details>
