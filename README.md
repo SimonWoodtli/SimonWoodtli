@@ -87,8 +87,8 @@ Seeking a profile page that creates content automatically?
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (1 month ago)
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (12 months ago)
-* [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (14 months ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (13 months ago)
+* [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (15 months ago)
 * [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (15 months ago)
 * [SimonWoodtli/www-simonwoodtli-com](https://github.com/SimonWoodtli/www-simonwoodtli-com) - 👨‍💻 My personal website (15 months ago)
 
@@ -97,8 +97,8 @@ Seeking a profile page that creates content automatically?
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (1 month ago)
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (12 months ago)
-* [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (14 months ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (13 months ago)
+* [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (15 months ago)
 * [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (15 months ago)
 * [SimonWoodtli/www-simonwoodtli-com](https://github.com/SimonWoodtli/www-simonwoodtli-com) - 👨‍💻 My personal website (15 months ago)
 
@@ -116,11 +116,11 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/5febb2f934d1381a1ccbad69d428be2dd442e5df/20250504201808) - Install and Setup TrueNAS via Proxmox VM (2 hours ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/3766fb1227f78a0ee6fd768fe5667bc04ae6866a/20250504133640) - ZFS: Raids explained (10 hours ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/8228a79ea361aa01e7061531c530e9cd7e4f3d88/20220903203700) - Proxmox Install Guide (4 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/ac115f53d4077440cf081cf366f729ec2baeb315/20250505201544) - Proxmox: Create LXC Templates and or simply change Container/VM ID (3 hours ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/5febb2f934d1381a1ccbad69d428be2dd442e5df/20250504201808) - Install and Setup TrueNAS via Proxmox VM (1 day ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/3766fb1227f78a0ee6fd768fe5667bc04ae6866a/20250504133640) - ZFS: Raids explained (1 day ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/8228a79ea361aa01e7061531c530e9cd7e4f3d88/20220903203700) - Proxmox Install Guide (5 days ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/6a85429d7a9045e11f01455134b8c8f3d1b637bd/20240604183007) - Linux Recovery: System rescue (11 months ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/87b3098a0e134d89c2e97c484bf7cf283e9d1478/20240604131658) - AppArmor cheatsheet (11 months ago)
 
 </details>
 <details>
