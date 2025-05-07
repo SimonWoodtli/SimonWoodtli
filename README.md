@@ -116,10 +116,10 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/ac115f53d4077440cf081cf366f729ec2baeb315/20250505201544) - Proxmox: Create LXC Templates and or simply change Container/VM ID (3 hours ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/5febb2f934d1381a1ccbad69d428be2dd442e5df/20250504201808) - Install and Setup TrueNAS via Proxmox VM (1 day ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/3766fb1227f78a0ee6fd768fe5667bc04ae6866a/20250504133640) - ZFS: Raids explained (1 day ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/8228a79ea361aa01e7061531c530e9cd7e4f3d88/20220903203700) - Proxmox Install Guide (5 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/ac115f53d4077440cf081cf366f729ec2baeb315/20250505201544) - Proxmox: Create LXC Templates and or simply change Container/VM ID (1 day ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/5febb2f934d1381a1ccbad69d428be2dd442e5df/20250504201808) - Install and Setup TrueNAS via Proxmox VM (2 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/3766fb1227f78a0ee6fd768fe5667bc04ae6866a/20250504133640) - ZFS: Raids explained (2 days ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/8228a79ea361aa01e7061531c530e9cd7e4f3d88/20220903203700) - Proxmox Install Guide (6 days ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/6a85429d7a9045e11f01455134b8c8f3d1b637bd/20240604183007) - Linux Recovery: System rescue (11 months ago)
 
 </details>
@@ -149,13 +149,13 @@ Seeking a profile page that creates content automatically?
   <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         7 commits                      ████░░░░░░░░░░░░░░░░░░░░░   15.91%
-• Tuesday                        7 commits                      ████░░░░░░░░░░░░░░░░░░░░░   15.91%
-• Wednesday                      5 commits                      ███░░░░░░░░░░░░░░░░░░░░░░   11.36%
-• Thursday                       13 commits                     ███████░░░░░░░░░░░░░░░░░░   29.55%
-• Friday                         6 commits                      ███░░░░░░░░░░░░░░░░░░░░░░   13.64%
-• Saturday                       5 commits                      ███░░░░░░░░░░░░░░░░░░░░░░   11.36%
-• Sunday                         1 commit                       █░░░░░░░░░░░░░░░░░░░░░░░░   2.27%
+• Monday                         8 commits                      ████░░░░░░░░░░░░░░░░░░░░░   17.02%
+• Tuesday                        8 commits                      ████░░░░░░░░░░░░░░░░░░░░░   17.02%
+• Wednesday                      5 commits                      ███░░░░░░░░░░░░░░░░░░░░░░   10.64%
+• Thursday                       13 commits                     ███████░░░░░░░░░░░░░░░░░░   27.66%
+• Friday                         6 commits                      ███░░░░░░░░░░░░░░░░░░░░░░   12.77%
+• Saturday                       6 commits                      ███░░░░░░░░░░░░░░░░░░░░░░   12.77%
+• Sunday                         1 commit                       █░░░░░░░░░░░░░░░░░░░░░░░░   2.13%
 ```
 
 </details>
@@ -163,10 +163,10 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     25 commits                     ██████████████░░░░░░░░░░░   56.82%
-• 🌞 Daytime                     3 commits                      ██░░░░░░░░░░░░░░░░░░░░░░░   6.82%
-• 🌇 Evening                     1 commit                       █░░░░░░░░░░░░░░░░░░░░░░░░   2.27%
-• 🌃 Night                       15 commits                     █████████░░░░░░░░░░░░░░░░   34.09%
+• 🌅 Morning                     28 commits                     ███████████████░░░░░░░░░░   59.57%
+• 🌞 Daytime                     3 commits                      ██░░░░░░░░░░░░░░░░░░░░░░░   6.38%
+• 🌇 Evening                     1 commit                       █░░░░░░░░░░░░░░░░░░░░░░░░   2.13%
+• 🌃 Night                       15 commits                     ████████░░░░░░░░░░░░░░░░░   31.91%
 ```
 
 </details>
