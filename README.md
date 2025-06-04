@@ -89,7 +89,7 @@ Seeking a profile page that creates content automatically?
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (2 months ago)
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (13 months ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (15 months ago)
-* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (15 months ago)
+* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (16 months ago)
 * [SimonWoodtli/www-simonwoodtli-com](https://github.com/SimonWoodtli/www-simonwoodtli-com) - 👨‍💻 My personal website (16 months ago)
 
 </details>
@@ -99,7 +99,7 @@ Seeking a profile page that creates content automatically?
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (2 months ago)
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (13 months ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (15 months ago)
-* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (15 months ago)
+* [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (16 months ago)
 * [SimonWoodtli/www-simonwoodtli-com](https://github.com/SimonWoodtli/www-simonwoodtli-com) - 👨‍💻 My personal website (16 months ago)
 
 </details>
@@ -116,7 +116,7 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>📝 My recent zet notes</b></summary>
 
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/ac115f53d4077440cf081cf366f729ec2baeb315/20250505201544) - Proxmox: Create LXC Templates and or simply change Container/VM ID (3 weeks ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/ac115f53d4077440cf081cf366f729ec2baeb315/20250505201544) - Proxmox: Create LXC Templates and or simply change Container/VM ID (1 month ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/5febb2f934d1381a1ccbad69d428be2dd442e5df/20250504201808) - Install and Setup TrueNAS via Proxmox VM (1 month ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/3766fb1227f78a0ee6fd768fe5667bc04ae6866a/20250504133640) - ZFS: Raids explained (1 month ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/8228a79ea361aa01e7061531c530e9cd7e4f3d88/20220903203700) - Proxmox Install Guide (1 month ago)
@@ -149,13 +149,13 @@ Seeking a profile page that creates content automatically?
   <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         6 commits                      ████░░░░░░░░░░░░░░░░░░░░░   17.65%
-• Tuesday                        7 commits                      █████░░░░░░░░░░░░░░░░░░░░   20.59%
-• Wednesday                      1 commit                       █░░░░░░░░░░░░░░░░░░░░░░░░   2.94%
-• Thursday                       13 commits                     ██████████░░░░░░░░░░░░░░░   38.24%
-• Friday                         1 commit                       █░░░░░░░░░░░░░░░░░░░░░░░░   2.94%
-• Saturday                       5 commits                      ████░░░░░░░░░░░░░░░░░░░░░   14.71%
-• Sunday                         1 commit                       █░░░░░░░░░░░░░░░░░░░░░░░░   2.94%
+• Monday                         1 commit                       █░░░░░░░░░░░░░░░░░░░░░░░░   3.45%
+• Tuesday                        7 commits                      ██████░░░░░░░░░░░░░░░░░░░   24.14%
+• Wednesday                      1 commit                       █░░░░░░░░░░░░░░░░░░░░░░░░   3.45%
+• Thursday                       13 commits                     ███████████░░░░░░░░░░░░░░   44.83%
+• Friday                         1 commit                       █░░░░░░░░░░░░░░░░░░░░░░░░   3.45%
+• Saturday                       5 commits                      ████░░░░░░░░░░░░░░░░░░░░░   17.24%
+• Sunday                         1 commit                       █░░░░░░░░░░░░░░░░░░░░░░░░   3.45%
 ```
 
 </details>
@@ -163,10 +163,10 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     23 commits                     █████████████████░░░░░░░░   67.65%
-• 🌞 Daytime                     2 commits                      █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
+• 🌅 Morning                     21 commits                     ██████████████████░░░░░░░   72.41%
+• 🌞 Daytime                     2 commits                      ██░░░░░░░░░░░░░░░░░░░░░░░   6.90%
 • 🌇 Evening                     0 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00%
-• 🌃 Night                       9 commits                      ███████░░░░░░░░░░░░░░░░░░   26.47%
+• 🌃 Night                       6 commits                      █████░░░░░░░░░░░░░░░░░░░░   20.69%
 ```
 
 </details>
