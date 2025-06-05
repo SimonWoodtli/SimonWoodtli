@@ -87,8 +87,8 @@ Seeking a profile page that creates content automatically?
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (2 months ago)
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (13 months ago)
-* [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (15 months ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (14 months ago)
+* [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (16 months ago)
 * [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (16 months ago)
 * [SimonWoodtli/www-simonwoodtli-com](https://github.com/SimonWoodtli/www-simonwoodtli-com) - 👨‍💻 My personal website (16 months ago)
 
@@ -97,8 +97,8 @@ Seeking a profile page that creates content automatically?
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (2 months ago)
-* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (13 months ago)
-* [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (15 months ago)
+* [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (14 months ago)
+* [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (16 months ago)
 * [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (16 months ago)
 * [SimonWoodtli/www-simonwoodtli-com](https://github.com/SimonWoodtli/www-simonwoodtli-com) - 👨‍💻 My personal website (16 months ago)
 
@@ -149,13 +149,13 @@ Seeking a profile page that creates content automatically?
   <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         1 commit                       █░░░░░░░░░░░░░░░░░░░░░░░░   3.45%
-• Tuesday                        7 commits                      ██████░░░░░░░░░░░░░░░░░░░   24.14%
-• Wednesday                      1 commit                       █░░░░░░░░░░░░░░░░░░░░░░░░   3.45%
-• Thursday                       13 commits                     ███████████░░░░░░░░░░░░░░   44.83%
-• Friday                         1 commit                       █░░░░░░░░░░░░░░░░░░░░░░░░   3.45%
-• Saturday                       5 commits                      ████░░░░░░░░░░░░░░░░░░░░░   17.24%
-• Sunday                         1 commit                       █░░░░░░░░░░░░░░░░░░░░░░░░   3.45%
+• Monday                         1 commit                       █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
+• Tuesday                        1 commit                       █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
+• Wednesday                      1 commit                       █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
+• Thursday                       13 commits                     ██████████████░░░░░░░░░░░   56.52%
+• Friday                         1 commit                       █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
+• Saturday                       5 commits                      █████░░░░░░░░░░░░░░░░░░░░   21.74%
+• Sunday                         1 commit                       █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
 ```
 
 </details>
@@ -163,10 +163,10 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     21 commits                     ██████████████████░░░░░░░   72.41%
-• 🌞 Daytime                     2 commits                      ██░░░░░░░░░░░░░░░░░░░░░░░   6.90%
+• 🌅 Morning                     19 commits                     █████████████████████░░░░   82.61%
+• 🌞 Daytime                     2 commits                      ██░░░░░░░░░░░░░░░░░░░░░░░   8.70%
 • 🌇 Evening                     0 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00%
-• 🌃 Night                       6 commits                      █████░░░░░░░░░░░░░░░░░░░░   20.69%
+• 🌃 Night                       2 commits                      ██░░░░░░░░░░░░░░░░░░░░░░░   8.70%
 ```
 
 </details>
