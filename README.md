@@ -120,7 +120,7 @@ Seeking a profile page that creates content automatically?
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/ac115f53d4077440cf081cf366f729ec2baeb315/20250505201544) - Proxmox: Create LXC Templates and or simply change Container/VM ID (4 months ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/5febb2f934d1381a1ccbad69d428be2dd442e5df/20250504201808) - Install and Setup TrueNAS via Proxmox VM (4 months ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/3766fb1227f78a0ee6fd768fe5667bc04ae6866a/20250504133640) - ZFS: Raids explained (4 months ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/8228a79ea361aa01e7061531c530e9cd7e4f3d88/20220903203700) - Proxmox Install Guide (4 months ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/8228a79ea361aa01e7061531c530e9cd7e4f3d88/20220903203700) - Proxmox Install Guide (5 months ago)
 
 </details>
 <details>
@@ -137,11 +137,11 @@ Seeking a profile page that creates content automatically?
   <summary><b>💬 My most used language per repos</b></summary>
 
 ```
-• Shell                          16 repos                       ███████████████████░░░░░░   76.19%
-• JavaScript                     1 repo                         █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
-• CSS                            2 repos                        ██░░░░░░░░░░░░░░░░░░░░░░░   9.52%
-• Nix                            1 repo                         █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
-• HTML                           1 repo                         █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
+• Shell                          15 repos                       ███████████████████░░░░░░   75.00%
+• JavaScript                     1 repo                         █░░░░░░░░░░░░░░░░░░░░░░░░   5.00%
+• CSS                            2 repos                        ███░░░░░░░░░░░░░░░░░░░░░░   10.00%
+• Nix                            1 repo                         █░░░░░░░░░░░░░░░░░░░░░░░░   5.00%
+• HTML                           1 repo                         █░░░░░░░░░░░░░░░░░░░░░░░░   5.00%
 ```
 
 </details>
