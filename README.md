@@ -86,7 +86,7 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (11 months ago)
+* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (7 hours ago)
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (22 months ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (24 months ago)
 * [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (24 months ago)
@@ -96,7 +96,7 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (11 months ago)
+* [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (7 hours ago)
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (22 months ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (24 months ago)
 * [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (24 months ago)
@@ -127,7 +127,7 @@ Seeking a profile page that creates content automatically?
   <summary><b>⭐ My recent stars</b></summary>
 
 * [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative) (21 months ago)
-* [mpgirro/docker-pihole-unbound](https://github.com/mpgirro/docker-pihole-unbound) - Run Pi-Hole + Unbound on Docker (21 months ago)
+* [mpgirro/docker-pihole-unbound](https://github.com/mpgirro/docker-pihole-unbound) - Run Pi-Hole + Unbound on Docker (22 months ago)
 * [dsprenkels/sss-cli](https://github.com/dsprenkels/sss-cli) - Command line program for secret-sharing strings (22 months ago)
 * [turnkeylinux-apps/openldap](https://github.com/turnkeylinux-apps/openldap) - OpenLDAP - Open Source Directory Services (24 months ago)
 * [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app (25 months ago)
@@ -149,13 +149,13 @@ Seeking a profile page that creates content automatically?
   <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         1 commit                       █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
-• Tuesday                        1 commit                       █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
-• Wednesday                      1 commit                       █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
-• Thursday                       13 commits                     ██████████████░░░░░░░░░░░   54.17%
-• Friday                         2 commits                      ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
-• Saturday                       5 commits                      █████░░░░░░░░░░░░░░░░░░░░   20.83%
-• Sunday                         1 commit                       █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
+• Monday                         1 commit                       █░░░░░░░░░░░░░░░░░░░░░░░░   3.70%
+• Tuesday                        1 commit                       █░░░░░░░░░░░░░░░░░░░░░░░░   3.70%
+• Wednesday                      4 commits                      ████░░░░░░░░░░░░░░░░░░░░░   14.81%
+• Thursday                       13 commits                     ████████████░░░░░░░░░░░░░   48.15%
+• Friday                         2 commits                      ██░░░░░░░░░░░░░░░░░░░░░░░   7.41%
+• Saturday                       5 commits                      █████░░░░░░░░░░░░░░░░░░░░   18.52%
+• Sunday                         1 commit                       █░░░░░░░░░░░░░░░░░░░░░░░░   3.70%
 ```
 
 </details>
@@ -163,10 +163,10 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     19 commits                     ████████████████████░░░░░   79.17%
-• 🌞 Daytime                     3 commits                      ███░░░░░░░░░░░░░░░░░░░░░░   12.50%
+• 🌅 Morning                     21 commits                     ███████████████████░░░░░░   77.78%
+• 🌞 Daytime                     3 commits                      ███░░░░░░░░░░░░░░░░░░░░░░   11.11%
 • 🌇 Evening                     0 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00%
-• 🌃 Night                       2 commits                      ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+• 🌃 Night                       3 commits                      ███░░░░░░░░░░░░░░░░░░░░░░   11.11%
 ```
 
 </details>
