@@ -149,13 +149,13 @@ Seeking a profile page that creates content automatically?
   <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         1 commit                       █░░░░░░░░░░░░░░░░░░░░░░░░   3.70%
-• Tuesday                        1 commit                       █░░░░░░░░░░░░░░░░░░░░░░░░   3.70%
-• Wednesday                      4 commits                      ████░░░░░░░░░░░░░░░░░░░░░   14.81%
-• Thursday                       13 commits                     ████████████░░░░░░░░░░░░░   48.15%
-• Friday                         2 commits                      ██░░░░░░░░░░░░░░░░░░░░░░░   7.41%
-• Saturday                       5 commits                      █████░░░░░░░░░░░░░░░░░░░░   18.52%
-• Sunday                         1 commit                       █░░░░░░░░░░░░░░░░░░░░░░░░   3.70%
+• Monday                         1 commit                       ██░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+• Tuesday                        1 commit                       ██░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+• Wednesday                      4 commits                      ███████░░░░░░░░░░░░░░░░░░   28.57%
+• Thursday                       0 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00%
+• Friday                         2 commits                      ████░░░░░░░░░░░░░░░░░░░░░   14.29%
+• Saturday                       5 commits                      █████████░░░░░░░░░░░░░░░░   35.71%
+• Sunday                         1 commit                       ██░░░░░░░░░░░░░░░░░░░░░░░   7.14%
 ```
 
 </details>
@@ -163,10 +163,10 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     21 commits                     ███████████████████░░░░░░   77.78%
-• 🌞 Daytime                     3 commits                      ███░░░░░░░░░░░░░░░░░░░░░░   11.11%
+• 🌅 Morning                     8 commits                      ██████████████░░░░░░░░░░░   57.14%
+• 🌞 Daytime                     3 commits                      █████░░░░░░░░░░░░░░░░░░░░   21.43%
 • 🌇 Evening                     0 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00%
-• 🌃 Night                       3 commits                      ███░░░░░░░░░░░░░░░░░░░░░░   11.11%
+• 🌃 Night                       3 commits                      █████░░░░░░░░░░░░░░░░░░░░   21.43%
 ```
 
 </details>
