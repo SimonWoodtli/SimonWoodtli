@@ -149,11 +149,11 @@ Seeking a profile page that creates content automatically?
   <summary><b>📆 My most productive week day over the last year</b></summary>
 
 ```
-• Monday                         1 commit                       ████░░░░░░░░░░░░░░░░░░░░░   14.29%
-• Tuesday                        1 commit                       ████░░░░░░░░░░░░░░░░░░░░░   14.29%
-• Wednesday                      4 commits                      ██████████████░░░░░░░░░░░   57.14%
+• Monday                         0 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00%
+• Tuesday                        1 commit                       ████░░░░░░░░░░░░░░░░░░░░░   16.67%
+• Wednesday                      4 commits                      █████████████████░░░░░░░░   66.67%
 • Thursday                       0 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00%
-• Friday                         1 commit                       ████░░░░░░░░░░░░░░░░░░░░░   14.29%
+• Friday                         1 commit                       ████░░░░░░░░░░░░░░░░░░░░░   16.67%
 • Saturday                       0 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00%
 • Sunday                         0 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00%
 ```
@@ -163,10 +163,10 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     5 commits                      ██████████████████░░░░░░░   71.43%
-• 🌞 Daytime                     1 commit                       ████░░░░░░░░░░░░░░░░░░░░░   14.29%
+• 🌅 Morning                     4 commits                      █████████████████░░░░░░░░   66.67%
+• 🌞 Daytime                     1 commit                       ████░░░░░░░░░░░░░░░░░░░░░   16.67%
 • 🌇 Evening                     0 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00%
-• 🌃 Night                       1 commit                       ████░░░░░░░░░░░░░░░░░░░░░   14.29%
+• 🌃 Night                       1 commit                       ████░░░░░░░░░░░░░░░░░░░░░   16.67%
 ```
 
 </details>
