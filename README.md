@@ -86,21 +86,21 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
+* [SimonWoodtli/silverblu](https://github.com/SimonWoodtli/silverblu) - Custom Silverblue Image (13 hours ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (3 months ago)
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (25 months ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (27 months ago)
 * [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (27 months ago)
-* [SimonWoodtli/www-simonwoodtli-com](https://github.com/SimonWoodtli/www-simonwoodtli-com) - 👨‍💻 My personal website (28 months ago)
 
 </details>
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
+* [SimonWoodtli/silverblu](https://github.com/SimonWoodtli/silverblu) - Custom Silverblue Image (13 hours ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (3 months ago)
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (25 months ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (27 months ago)
 * [SimonWoodtli/workspace-alpine](https://github.com/SimonWoodtli/workspace-alpine) - 🤖🐳 My personal workspace image (27 months ago)
-* [SimonWoodtli/www-simonwoodtli-com](https://github.com/SimonWoodtli/www-simonwoodtli-com) - 👨‍💻 My personal website (28 months ago)
 
 </details>
 <details>
@@ -126,7 +126,7 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>⭐ My recent stars</b></summary>
 
-* [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative) (24 months ago)
+* [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative) (25 months ago)
 * [mpgirro/docker-pihole-unbound](https://github.com/mpgirro/docker-pihole-unbound) - Run Pi-Hole + Unbound on Docker (25 months ago)
 * [dsprenkels/sss-cli](https://github.com/dsprenkels/sss-cli) - Command line program for secret-sharing strings (25 months ago)
 * [turnkeylinux-apps/openldap](https://github.com/turnkeylinux-apps/openldap) - OpenLDAP - Open Source Directory Services (27 months ago)
@@ -137,11 +137,12 @@ Seeking a profile page that creates content automatically?
   <summary><b>💬 My most used language per repos</b></summary>
 
 ```
-• Shell                          16 repos                       ███████████████████░░░░░░   76.19%
-• JavaScript                     1 repo                         █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
-• CSS                            2 repos                        ██░░░░░░░░░░░░░░░░░░░░░░░   9.52%
-• Nix                            1 repo                         █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
-• HTML                           1 repo                         █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
+• Shell                          16 repos                       ██████████████████░░░░░░░   72.73%
+• JavaScript                     1 repo                         █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
+• CSS                            2 repos                        ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+• Just                           1 repo                         █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
+• Nix                            1 repo                         █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
+• HTML                           1 repo                         █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
 ```
 
 </details>
@@ -151,9 +152,9 @@ Seeking a profile page that creates content automatically?
 ```
 • Monday                         0 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00%
 • Tuesday                        0 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00%
-• Wednesday                      3 commits                      ███████████████████░░░░░░   75.00%
+• Wednesday                      6 commits                      █████████████████████░░░░   85.71%
 • Thursday                       0 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00%
-• Friday                         1 commit                       ██████░░░░░░░░░░░░░░░░░░░   25.00%
+• Friday                         1 commit                       ████░░░░░░░░░░░░░░░░░░░░░   14.29%
 • Saturday                       0 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00%
 • Sunday                         0 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00%
 ```
@@ -163,10 +164,10 @@ Seeking a profile page that creates content automatically?
   <summary><b>🔥 My most productive day time over the last year</b></summary>
 
 ```
-• 🌅 Morning                     2 commits                      █████████████░░░░░░░░░░░░   50.00%
-• 🌞 Daytime                     1 commit                       ██████░░░░░░░░░░░░░░░░░░░   25.00%
-• 🌇 Evening                     0 commits                      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00%
-• 🌃 Night                       1 commit                       ██████░░░░░░░░░░░░░░░░░░░   25.00%
+• 🌅 Morning                     2 commits                      ███████░░░░░░░░░░░░░░░░░░   28.57%
+• 🌞 Daytime                     1 commit                       ████░░░░░░░░░░░░░░░░░░░░░   14.29%
+• 🌇 Evening                     1 commit                       ████░░░░░░░░░░░░░░░░░░░░░   14.29%
+• 🌃 Night                       3 commits                      ███████████░░░░░░░░░░░░░░   42.86%
 ```
 
 </details>
