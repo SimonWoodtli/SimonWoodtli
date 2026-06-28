@@ -86,7 +86,7 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/silverblu](https://github.com/SimonWoodtli/silverblu) - Custom Silverblue Image (2 days ago)
+* [SimonWoodtli/silverblu](https://github.com/SimonWoodtli/silverblu) - Custom Silverblue Image (3 days ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (4 months ago)
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (26 months ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (28 months ago)
@@ -96,7 +96,7 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/silverblu](https://github.com/SimonWoodtli/silverblu) - Custom Silverblue Image (2 days ago)
+* [SimonWoodtli/silverblu](https://github.com/SimonWoodtli/silverblu) - Custom Silverblue Image (3 days ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (4 months ago)
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (26 months ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (28 months ago)
