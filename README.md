@@ -86,7 +86,7 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/silverblu](https://github.com/SimonWoodtli/silverblu) - Custom Silverblue Image (2 days ago)
+* [SimonWoodtli/silverblu](https://github.com/SimonWoodtli/silverblu) - Custom Silverblue Image (3 days ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (4 months ago)
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (27 months ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (29 months ago)
@@ -96,7 +96,7 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/silverblu](https://github.com/SimonWoodtli/silverblu) - Custom Silverblue Image (2 days ago)
+* [SimonWoodtli/silverblu](https://github.com/SimonWoodtli/silverblu) - Custom Silverblue Image (3 days ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (4 months ago)
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (27 months ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (29 months ago)
@@ -106,9 +106,9 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🔨 My recent pull requests</b></summary>
 
-* [Bump sigstore/cosign-installer from 4.1.0 to 4.1.2](https://github.com/SimonWoodtli/silverblu/pull/1) on [SimonWoodtli/silverblu](https://github.com/SimonWoodtli/silverblu) (4 days ago)
-* [Bump actions/checkout from 6.0.2 to 7.0.0](https://github.com/SimonWoodtli/silverblu/pull/4) on [SimonWoodtli/silverblu](https://github.com/SimonWoodtli/silverblu) (4 days ago)
-* [Bump docker/login-action from 4.1.0 to 4.2.0](https://github.com/SimonWoodtli/silverblu/pull/2) on [SimonWoodtli/silverblu](https://github.com/SimonWoodtli/silverblu) (4 days ago)
+* [Bump sigstore/cosign-installer from 4.1.0 to 4.1.2](https://github.com/SimonWoodtli/silverblu/pull/1) on [SimonWoodtli/silverblu](https://github.com/SimonWoodtli/silverblu) (5 days ago)
+* [Bump actions/checkout from 6.0.2 to 7.0.0](https://github.com/SimonWoodtli/silverblu/pull/4) on [SimonWoodtli/silverblu](https://github.com/SimonWoodtli/silverblu) (5 days ago)
+* [Bump docker/login-action from 4.1.0 to 4.2.0](https://github.com/SimonWoodtli/silverblu/pull/2) on [SimonWoodtli/silverblu](https://github.com/SimonWoodtli/silverblu) (5 days ago)
 * [feat: add wireguard-generate-keys script](https://github.com/SimonWoodtli/dotfiles-old/pull/14) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (46 months ago)
 * [feat: add video-to-gif script](https://github.com/SimonWoodtli/dotfiles-old/pull/13) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (46 months ago)
 
