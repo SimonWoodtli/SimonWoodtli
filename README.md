@@ -86,7 +86,7 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/silverblu](https://github.com/SimonWoodtli/silverblu) - Custom Silverblue Image (19 hours ago)
+* [SimonWoodtli/silverblu](https://github.com/SimonWoodtli/silverblu) - Custom Silverblue Image (1 day ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (4 months ago)
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (27 months ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (29 months ago)
@@ -96,7 +96,7 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/silverblu](https://github.com/SimonWoodtli/silverblu) - Custom Silverblue Image (19 hours ago)
+* [SimonWoodtli/silverblu](https://github.com/SimonWoodtli/silverblu) - Custom Silverblue Image (1 day ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (4 months ago)
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (27 months ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (29 months ago)
@@ -106,9 +106,9 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🔨 My recent pull requests</b></summary>
 
-* [Bump sigstore/cosign-installer from 4.1.0 to 4.1.2](https://github.com/SimonWoodtli/silverblu/pull/1) on [SimonWoodtli/silverblu](https://github.com/SimonWoodtli/silverblu) (6 days ago)
-* [Bump actions/checkout from 6.0.2 to 7.0.0](https://github.com/SimonWoodtli/silverblu/pull/4) on [SimonWoodtli/silverblu](https://github.com/SimonWoodtli/silverblu) (6 days ago)
-* [Bump docker/login-action from 4.1.0 to 4.2.0](https://github.com/SimonWoodtli/silverblu/pull/2) on [SimonWoodtli/silverblu](https://github.com/SimonWoodtli/silverblu) (6 days ago)
+* [Bump sigstore/cosign-installer from 4.1.0 to 4.1.2](https://github.com/SimonWoodtli/silverblu/pull/1) on [SimonWoodtli/silverblu](https://github.com/SimonWoodtli/silverblu) (7 days ago)
+* [Bump actions/checkout from 6.0.2 to 7.0.0](https://github.com/SimonWoodtli/silverblu/pull/4) on [SimonWoodtli/silverblu](https://github.com/SimonWoodtli/silverblu) (7 days ago)
+* [Bump docker/login-action from 4.1.0 to 4.2.0](https://github.com/SimonWoodtli/silverblu/pull/2) on [SimonWoodtli/silverblu](https://github.com/SimonWoodtli/silverblu) (7 days ago)
 * [feat: add wireguard-generate-keys script](https://github.com/SimonWoodtli/dotfiles-old/pull/14) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (46 months ago)
 * [feat: add video-to-gif script](https://github.com/SimonWoodtli/dotfiles-old/pull/13) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (46 months ago)
 
@@ -120,7 +120,7 @@ Seeking a profile page that creates content automatically?
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/ac115f53d4077440cf081cf366f729ec2baeb315/20250505201544) - Proxmox: Create LXC Templates and or simply change Container/VM ID (14 months ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/5febb2f934d1381a1ccbad69d428be2dd442e5df/20250504201808) - Install and Setup TrueNAS via Proxmox VM (14 months ago)
 * [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/3766fb1227f78a0ee6fd768fe5667bc04ae6866a/20250504133640) - ZFS: Raids explained (14 months ago)
-* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/8228a79ea361aa01e7061531c530e9cd7e4f3d88/20220903203700) - Proxmox Install Guide (14 months ago)
+* [SimonWoodtli/zet](https://github.com/SimonWoodtli/zet/tree/8228a79ea361aa01e7061531c530e9cd7e4f3d88/20220903203700) - Proxmox Install Guide (15 months ago)
 
 </details>
 <details>
