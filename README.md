@@ -86,7 +86,7 @@ Seeking a profile page that creates content automatically?
 <details open="">
   <summary><b>👷 All projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/silverblu](https://github.com/SimonWoodtli/silverblu) - Custom Silverblue Image (6 days ago)
+* [SimonWoodtli/silverblu](https://github.com/SimonWoodtli/silverblu) - Custom Silverblue Image (7 days ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (5 months ago)
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (28 months ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (30 months ago)
@@ -96,7 +96,7 @@ Seeking a profile page that creates content automatically?
 <details>
   <summary><b>🌱 My personal projects I'm recently working on</b></summary>
 
-* [SimonWoodtli/silverblu](https://github.com/SimonWoodtli/silverblu) - Custom Silverblue Image (6 days ago)
+* [SimonWoodtli/silverblu](https://github.com/SimonWoodtli/silverblu) - Custom Silverblue Image (7 days ago)
 * [SimonWoodtli/cloud-os](https://github.com/SimonWoodtli/cloud-os) - ☁️💻 My personal operating system image (5 months ago)
 * [SimonWoodtli/dotfiles](https://github.com/SimonWoodtli/dotfiles) - 🏡 My personal dotfiles (28 months ago)
 * [SimonWoodtli/tmux](https://github.com/SimonWoodtli/tmux) - ⌨️ Borderless tmux (30 months ago)
@@ -130,7 +130,7 @@ Seeking a profile page that creates content automatically?
 * [mpgirro/docker-pihole-unbound](https://github.com/mpgirro/docker-pihole-unbound) - Run Pi-Hole + Unbound on Docker (27 months ago)
 * [dsprenkels/sss-cli](https://github.com/dsprenkels/sss-cli) - Command line program for secret-sharing strings (27 months ago)
 * [turnkeylinux-apps/openldap](https://github.com/turnkeylinux-apps/openldap) - OpenLDAP - Open Source Directory Services (29 months ago)
-* [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app (30 months ago)
+* [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app (31 months ago)
 
 </details>
 <details>
