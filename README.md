@@ -109,7 +109,7 @@ Seeking a profile page that creates content automatically?
 * [Bump sigstore/cosign-installer from 4.1.0 to 4.1.2](https://github.com/SimonWoodtli/silverblu/pull/1) on [SimonWoodtli/silverblu](https://github.com/SimonWoodtli/silverblu) (2 months ago)
 * [Bump actions/checkout from 6.0.2 to 7.0.0](https://github.com/SimonWoodtli/silverblu/pull/4) on [SimonWoodtli/silverblu](https://github.com/SimonWoodtli/silverblu) (2 months ago)
 * [Bump docker/login-action from 4.1.0 to 4.2.0](https://github.com/SimonWoodtli/silverblu/pull/2) on [SimonWoodtli/silverblu](https://github.com/SimonWoodtli/silverblu) (2 months ago)
-* [feat: add wireguard-generate-keys script](https://github.com/SimonWoodtli/dotfiles-old/pull/14) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (47 months ago)
+* [feat: add wireguard-generate-keys script](https://github.com/SimonWoodtli/dotfiles-old/pull/14) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (48 months ago)
 * [feat: add video-to-gif script](https://github.com/SimonWoodtli/dotfiles-old/pull/13) on [SimonWoodtli/dotfiles-old](https://github.com/SimonWoodtli/dotfiles-old) (48 months ago)
 
 </details>
